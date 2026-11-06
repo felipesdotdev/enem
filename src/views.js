@@ -195,8 +195,14 @@ export function partGroup(paragraph, annotate) {
   return `<section class="annotated-block"><h3>${esc(paragraph.label)}</h3>${paragraph.parts.map((part) => `<div><span>${esc(part.label)}</span><p>${esc(part.text)}</p></div>`).join('')}</section>`;
 }
 
-function pdfUrl(source) {
-  return `${source.url.split('#')[0]}${source.page ? `#page=${source.page}` : ''}`;
+function pdfUrl(source, embedded = false) {
+  const params = new URLSearchParams();
+  if (source.page) params.set('page', source.page);
+  if (embedded) {
+    params.set('view', 'FitH');
+    params.set('navpanes', '0');
+  }
+  return `${source.url.split('#')[0]}${params.size ? `#${params}` : ''}`;
 }
 
 export function reader(essay, reading, annotate) {
@@ -219,7 +225,7 @@ export function reader(essay, reading, annotate) {
         <div class="tile-icon">${icon('document-text-linear')}</div>
         <h2>Leia na cartilha do Inep</h2>
         <p>${esc(essay.source.title)}${essay.source.page ? ` · página ${esc(essay.source.page)} do PDF` : ''}</p>
-        <div class="inline-actions"><button class="button button-primary" type="button" data-pdf="${esc(pdfUrl(essay.source))}" aria-expanded="false" aria-controls="cartilha-pdf">Ler aqui ${arrows.right}</button><a class="button button-secondary" href="${esc(pdfUrl(essay.source))}" target="_blank" rel="noopener noreferrer">Abrir PDF ${arrows.up}</a></div>
+        <div class="inline-actions"><button class="button button-primary" type="button" data-pdf="${esc(pdfUrl(essay.source, true))}" aria-expanded="false" aria-controls="cartilha-pdf">Ler aqui ${arrows.right}</button><a class="button button-secondary" href="${esc(pdfUrl(essay.source))}" target="_blank" rel="noopener noreferrer">Abrir PDF ${arrows.up}</a></div>
         <div id="cartilha-pdf" class="pdf-view" hidden></div>
       </div>`}
       ${essay.type === 'official' && essay.notes?.length ? `<section class="study-section"><div class="eyebrow">LEITURA GUIADA</div><h2>O que observar</h2>${essay.notes.map((note) => `<div class="study-note"><h3>${esc(note.title)}</h3><p>${esc(note.description)}</p></div>`).join('')}</section>` : ''}

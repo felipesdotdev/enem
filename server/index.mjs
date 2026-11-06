@@ -87,7 +87,7 @@ app.disable('x-powered-by');
 if (production) app.set('trust proxy', 'loopback');
 app.use((req, res, next) => {
   res.set({
-    'Content-Security-Policy': "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; font-src 'self'; frame-src https://*.gov.br https://gov.br; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'",
+    'Content-Security-Policy': "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; font-src 'self' data:; frame-src https://*.gov.br https://gov.br; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'",
     'Referrer-Policy': 'strict-origin-when-cross-origin',
     'X-Content-Type-Options': 'nosniff',
     'X-Frame-Options': 'DENY',

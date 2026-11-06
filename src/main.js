@@ -214,16 +214,17 @@ async function submitAccount(form) {
     render();
     document.querySelector('.button-account')?.focus({ preventScroll: true });
     notify(mode === 'register' ? 'Conta criada.' : 'Você entrou no Caderno.');
-    if (action && !reading[action.id]?.[action.field]) await updateReading(action.id, action.field);
   } catch (error) {
     errorMessage.textContent = error.message;
     errorMessage.hidden = false;
+    return;
   } finally {
     accountBusy = false;
     button.disabled = false;
     account.querySelector('[data-switch-account]').disabled = false;
     account.querySelector('[data-close-dialog]').disabled = false;
   }
+  if (action && !reading[action.id]?.[action.field]) await updateReading(action.id, action.field);
 }
 
 function updateFilters(form, mode = 'replaceState') {
