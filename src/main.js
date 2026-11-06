@@ -2,6 +2,7 @@ import '@fontsource-variable/plus-jakarta-sans';
 import '@fontsource-variable/newsreader';
 import '@fontsource-variable/newsreader/wght-italic.css';
 import './styles.css';
+import './reader.css';
 import { essayById, themeBySlug, searchEssays } from './catalog.js';
 import {
   shell, home, library, libraryResults, librarySummary, catalogState, catalogUrl, reader, topics, topic, guide, saved,
@@ -11,7 +12,13 @@ import {
 const app = document.querySelector('#app');
 const account = document.querySelector('#account-dialog');
 const search = document.querySelector('#search-dialog');
+const readingSettings = document.querySelector('#reading-settings');
 const notice = document.querySelector('#notice');
+const themeColor = document.querySelector('meta[name="theme-color"]');
+const preferencesKey = 'caderno.reading';
+const readingThemes = [['paper', 'Papel'], ['contrast', 'Alto contraste'], ['dark', 'Escuro']];
+const readingSizes = [['small', 'Menor'], ['normal', 'Padrão'], ['large', 'Maior'], ['extra', 'Extra grande']];
+let readingPreferences = readPreferences();
 const pending = new Set();
 let user = null;
 let reading = {};
@@ -29,9 +36,36 @@ function currentEssay() {
   return essayById.get(currentPath().split('/')[2]);
 }
 
+function readPreferences() {
+  const defaults = { theme: 'paper', size: 'normal' };
+  try {
+    const saved = JSON.parse(localStorage.getItem(preferencesKey));
+    if (readingThemes.some(([value]) => value === saved?.theme)) defaults.theme = saved.theme;
+    if (readingSizes.some(([value]) => value === saved?.size)) defaults.size = saved.size;
+  } catch {
+    // Reading settings still work for the current page if storage is blocked.
+  }
+  return defaults;
+}
+
+function applyReadingPreferences() {
+  const root = document.documentElement;
+  if (app.querySelector('.reader-page')) {
+    root.dataset.readerTheme = readingPreferences.theme;
+    root.dataset.readerSize = readingPreferences.size;
+    themeColor.content = getComputedStyle(root).getPropertyValue('--reader-paper').trim();
+  } else {
+    delete root.dataset.readerTheme;
+    delete root.dataset.readerSize;
+    themeColor.content = '#ffffff';
+  }
+}
+
 function render() {
   const path = currentPath();
   const params = new URLSearchParams(location.search);
+  const essay = path.startsWith('/redacoes/') ? currentEssay() : undefined;
+  const openStudy = essay && essay.id === app.querySelector('.reader')?.dataset.essay && app.querySelector('.reader-study')?.open;
   let content;
   let title;
   if (path === '/') {
@@ -48,7 +82,6 @@ function render() {
     title = theme?.title || 'Temas de treino';
     content = topic(theme, reading);
   } else if (path.startsWith('/redacoes/')) {
-    const essay = currentEssay();
     title = essay?.title || 'Redações';
     content = reader(essay, reading, annotate);
   } else if (path === '/guia') {
@@ -61,7 +94,9 @@ function render() {
     title = 'Página não encontrada';
     content = missing(title, 'Ir ao início', '/');
   }
-  app.innerHTML = shell(path, user, content);
+  app.innerHTML = essay ? `<main id="conteudo" class="reader-page" tabindex="-1">${content}</main>` : shell(path, user, content);
+  if (openStudy) app.querySelector('.reader-study').open = true;
+  applyReadingPreferences();
   document.title = `${title} — Caderno`;
 }
 
@@ -75,6 +110,7 @@ function scrollToPage() {
 function navigate(url) {
   clearTimeout(searchTimeout);
   if (search.open) search.close();
+  if (readingSettings.open) readingSettings.close();
   if (url.pathname !== location.pathname) annotate = false;
   history.pushState({}, '', url);
   render();
@@ -117,11 +153,9 @@ function updateReaderButtons(id) {
     save.setAttribute('aria-label', label);
     save.setAttribute('aria-pressed', String(saved));
     save.title = label;
-    save.innerHTML = `${icon(saved ? 'bookmark-bold' : 'bookmark-linear')}<span>${saved ? 'Salva' : 'Salvar'}</span>`;
+    save.innerHTML = icon(saved ? 'bookmark-bold' : 'bookmark-linear');
   }
   if (done) {
-    done.classList.toggle('button-primary', !complete);
-    done.classList.toggle('button-secondary', complete);
     done.setAttribute('aria-pressed', String(complete));
     done.innerHTML = `${icon('check-circle-linear')} ${complete ? 'Leitura concluída' : 'Marcar como lida'}`;
   }
@@ -167,6 +201,24 @@ function dialogClose() {
   return `<button class="icon-button dialog-close" type="button" data-close-dialog aria-label="Fechar">${icon('close-linear')}</button>`;
 }
 
+function readingOptions(name, options) {
+  return options.map(([value, label]) => `<label class="reader-option">
+    <input class="sr-only" type="radio" name="${name}" value="${value}" ${readingPreferences[name] === value ? 'checked' : ''} />
+    <span><i class="reader-option-sample" data-${name}-sample="${value}" aria-hidden="true">${name === 'size' ? 'Aa' : ''}</i>${label}</span>
+  </label>`).join('');
+}
+
+function openReadingSettings() {
+  if (readingSettings.open) return;
+  readingSettings.innerHTML = `${dialogClose()}<h2 id="reading-settings-title">Preferências de leitura</h2>
+    <form id="reading-settings-form">
+      <fieldset><legend>Tamanho do texto</legend><div class="reader-options">${readingOptions('size', readingSizes)}</div></fieldset>
+      <fieldset><legend>Aparência</legend><div class="reader-options">${readingOptions('theme', readingThemes)}</div></fieldset>
+    </form>
+    <p class="reader-settings-foot">Salvas neste navegador.</p>`;
+  readingSettings.showModal();
+}
+
 function openAccount(mode, action = null) {
   if (accountBusy) return;
   afterLogin = action;
@@ -187,7 +239,7 @@ function openAccount(mode, action = null) {
 }
 
 function openSearch() {
-  if (account.open || search.open) return;
+  if (account.open || search.open || readingSettings.open) return;
   search.innerHTML = `${dialogClose()}<h2 id="search-title">Buscar no acervo</h2>
     <form id="global-search"><label class="search-input">${icon('rounded-magnifier-linear')}<span class="sr-only">Busca</span><input name="q" type="search" placeholder="Tema, autor, ano ou repertório…" autocomplete="off" /></label></form>
     <div class="sr-only" role="status" id="search-summary"></div><div id="search-preview">${searchPreview('')}</div>`;
@@ -212,7 +264,7 @@ async function submitAccount(form) {
     setSession(session);
     account.close();
     render();
-    document.querySelector('.button-account')?.focus({ preventScroll: true });
+    document.querySelector('.button-account, .reader [data-save]')?.focus({ preventScroll: true });
     notify(mode === 'register' ? 'Conta criada.' : 'Você entrou no Caderno.');
   } catch (error) {
     errorMessage.textContent = error.message;
@@ -261,6 +313,7 @@ document.addEventListener('click', async (event) => {
   if (!button) return;
   const data = button.dataset;
   if (data.search !== undefined) openSearch();
+  else if (data.readerSettings !== undefined) openReadingSettings();
   else if (data.account) openAccount(data.account);
   else if (data.switchAccount) openAccount(data.switchAccount, afterLogin);
   else if (data.closeDialog !== undefined) {
@@ -272,7 +325,6 @@ document.addEventListener('click', async (event) => {
   else if (data.annotate !== undefined) {
     annotate = data.annotate === 'true';
     const text = document.querySelector('#reading-text');
-    text.classList.toggle('annotated', annotate);
     text.innerHTML = currentEssay().paragraphs.map((paragraph) => partGroup(paragraph, annotate)).join('');
     for (const tab of document.querySelectorAll('[data-annotate]')) tab.setAttribute('aria-pressed', String(tab.dataset.annotate === data.annotate));
   } else if (data.pdf) {
@@ -321,6 +373,12 @@ document.addEventListener('input', (event) => {
 
 document.addEventListener('change', (event) => {
   if (event.target.form?.id === 'library-filters' && event.target.tagName === 'SELECT') updateFilters(event.target.form, 'pushState');
+  if (event.target.form?.id === 'reading-settings-form') {
+    const { name, value } = event.target;
+    readingPreferences = { ...readingPreferences, [name]: value };
+    applyReadingPreferences();
+    try { localStorage.setItem(preferencesKey, JSON.stringify(readingPreferences)); } catch { /* Keep the current preferences in memory. */ }
+  }
 });
 
 document.addEventListener('submit', (event) => {
@@ -345,7 +403,7 @@ document.addEventListener('keydown', (event) => {
   }
 });
 
-for (const dialog of [account, search]) {
+for (const dialog of [account, search, readingSettings]) {
   dialog.addEventListener('cancel', (event) => {
     if (dialog === account && accountBusy) event.preventDefault();
   });
@@ -358,8 +416,16 @@ for (const dialog of [account, search]) {
 
 window.addEventListener('popstate', () => {
   clearTimeout(searchTimeout);
+  if (readingSettings.open) readingSettings.close();
   annotate = false;
   render();
+});
+
+window.addEventListener('storage', (event) => {
+  if (event.key !== preferencesKey && event.key !== null) return;
+  readingPreferences = readPreferences();
+  applyReadingPreferences();
+  for (const option of readingSettings.querySelectorAll('input')) option.checked = readingPreferences[option.name] === option.value;
 });
 
 try {

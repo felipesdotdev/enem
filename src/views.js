@@ -54,10 +54,10 @@ function pill(essay) {
   return `<span class="pill ${essay.score >= 900 ? 'pill-score' : ''}">${icon(essay.type === 'original' ? 'stars-line-linear' : essay.score >= 900 ? 'verified-check-linear' : 'book-linear')}${esc(scoreLabel(essay))}</span>`;
 }
 
-function saveButton(essay, reading, text = false) {
+function saveButton(essay, reading) {
   const saved = Boolean(reading[essay.id]?.saved);
   const label = saved ? 'Remover dos salvos' : 'Salvar redação';
-  return `<button class="${text ? 'button button-secondary' : 'icon-button save-button'}${saved ? ' is-saved' : ''}" type="button" data-save="${esc(essay.id)}" aria-label="${label}" aria-pressed="${saved}" title="${label}">${icon(saved ? 'bookmark-bold' : 'bookmark-linear')}${text ? `<span>${saved ? 'Salva' : 'Salvar'}</span>` : ''}</button>`;
+  return `<button class="icon-button save-button${saved ? ' is-saved' : ''}" type="button" data-save="${esc(essay.id)}" aria-label="${label}" aria-pressed="${saved}" title="${label}">${icon(saved ? 'bookmark-bold' : 'bookmark-linear')}</button>`;
 }
 
 function essayCard(essay, reading) {
@@ -236,35 +236,35 @@ export function reader(essay, reading, annotate) {
   const backUrl = practice ? catalogUrl({ type: practiceFilter, theme: theme.slug }) : '/biblioteca';
   const studyNotes = essay.type === 'original' ? essay.studyNotes : essay.notes;
   const alternatives = practice ? essays.filter((item) => isPracticeEssay(item) && item.themeId === theme.slug && item.id !== essay.id) : [];
-  return `<div class="reader">
-    <a class="back-link" href="${esc(backUrl)}">${arrows.left} ${practice ? 'Possíveis temas' : 'Biblioteca'}</a>
-    <header class="reader-head"><div class="reader-kicker">${pill(essay)}<span>${esc(essay.category)}${essay.year ? ` · Enem ${essay.year}` : ''}</span></div>
+  return `<article class="reader" data-essay="${esc(essay.id)}">
+    <div class="reader-bar">
+      <a class="back-link" href="${esc(backUrl)}">${arrows.left} ${practice ? 'Possíveis temas' : 'Biblioteca'}</a>
+      <div class="reader-actions"><button class="icon-button reader-aa" type="button" data-reader-settings aria-haspopup="dialog" aria-label="Preferências de leitura" title="Preferências de leitura">Aa</button>${saveButton(essay, reading)}</div>
+    </div>
+    <header class="reader-head"><div class="reader-kicker">${essay.type === 'official' ? `${pill(essay)}<span>Enem ${essay.year}</span>` : '<span>Modelo com IA</span>'}<span>·</span><span>${readingTime(essay)} min de leitura</span></div>
       <h1>${esc(essay.title)}</h1>
       <p class="reader-topic">${esc(essay.topic)}</p>
-      <div class="reader-meta"><span>${icon('user-rounded-linear')}${esc(essay.author || (essay.type === 'original' ? 'Modelo com IA' : 'Participante do Enem'))}</span><span>${icon('clock-circle-linear')}${readingTime(essay)} min de leitura</span></div>
+      ${essay.type === 'official' ? `<p class="reader-author">${esc(essay.author || 'Participante do Enem')}</p>` : ''}
     </header>
-    <div class="reader-tools">
-      ${essay.type === 'original' ? `<div class="reading-tabs" aria-label="Modo de leitura"><button type="button" data-annotate="false" aria-pressed="${!annotate}">Texto corrido</button><button type="button" data-annotate="true" aria-pressed="${annotate}">${icon('layers-minimalistic-linear')} Estrutura</button></div>` : `<span class="source-type">${icon('document-text-linear')} Fonte original do Inep</span>`}
-      ${saveButton(essay, reading, true)}
-    </div>
-    <div class="reader-layout"><div class="reader-main">
-      ${essay.type === 'original' ? `<div id="reading-text" class="reading-text${annotate ? ' annotated' : ''}">${essay.paragraphs.map((paragraph) => partGroup(paragraph, annotate)).join('')}</div>` : `<div class="pdf-panel">
-        <div class="tile-icon">${icon('document-text-linear')}</div>
-        <h2>Leia na cartilha do Inep</h2>
+    ${essay.type === 'original' ? `<div class="reader-tools"><div class="reading-tabs" role="group" aria-label="Modo de leitura"><button type="button" data-annotate="false" aria-pressed="${!annotate}" aria-controls="reading-text">Texto corrido</button><button type="button" data-annotate="true" aria-pressed="${annotate}" aria-controls="reading-text">${icon('layers-minimalistic-linear')} Estrutura</button></div></div>` : ''}
+    ${essay.type === 'original' ? `<div id="reading-text" class="reading-text">${essay.paragraphs.map((paragraph) => partGroup(paragraph, annotate)).join('')}</div>` : `<div class="pdf-panel">
+        <h2>Texto original do Inep</h2>
         <p>${esc(essay.source.title)}${essay.source.page ? ` · página ${esc(essay.source.page)} do PDF` : ''}</p>
-        <div class="inline-actions"><button class="button button-primary" type="button" data-pdf="${esc(pdfUrl(essay.source, true))}" aria-expanded="false" aria-controls="cartilha-pdf">Ler aqui ${arrows.right}</button><a class="button button-secondary" href="${esc(pdfUrl(essay.source))}" target="_blank" rel="noopener noreferrer">Abrir PDF ${arrows.up}</a></div>
+        <div class="inline-actions"><a class="button button-primary" href="${esc(pdfUrl(essay.source))}" target="_blank" rel="noopener noreferrer">Abrir cartilha ${arrows.up}</a><button class="button button-secondary" type="button" data-pdf="${esc(pdfUrl(essay.source, true))}" aria-expanded="false" aria-controls="cartilha-pdf">Ler aqui ${arrows.right}</button></div>
         <div id="cartilha-pdf" class="pdf-view" hidden></div>
       </div>`}
-      ${studyNotes?.length ? `<section class="study-section"><div class="eyebrow">LEITURA GUIADA</div><h2>O que observar</h2>${studyNotes.map((note) => `<div class="study-note"><h3>${esc(note.title)}</h3><p>${esc(note.description)}</p></div>`).join('')}</section>` : ''}
-      <div class="reader-end"><button class="button ${done ? 'button-secondary' : 'button-primary'}" type="button" data-done="${esc(essay.id)}" aria-pressed="${done}">${icon('check-circle-linear')} ${done ? 'Leitura concluída' : 'Marcar como lida'}</button><a class="text-link" href="${esc(backUrl)}">${practice ? 'Ver redações deste tema' : 'Voltar à biblioteca'} ${arrows.right}</a></div>
-    </div>
-    <aside class="reader-aside">
-      ${essay.type === 'original' ? `<section class="aside-card"><h2>${icon('link-linear')} Conectivos</h2><dl class="connector-list">${essay.connectors.map((item) => `<dt>${esc(item.term)}</dt><dd>${esc(item.use)}</dd>`).join('')}</dl></section>
-      <section class="aside-card"><h2>${icon('lightbulb-minimalistic-linear')} Repertório</h2>${resourceList(essay.repertoire)}</section>` : `<section class="aside-card"><h2>${icon('verified-check-linear')} Sobre a avaliação</h2><p>${essay.scoreSource ? `Nota ${essay.score} confirmada na fonte indicada abaixo.` : essay.score >= 900 ? `O Inep identifica esta redação com nota ${essay.score} na cartilha de origem.` : 'O Inep selecionou este texto como exemplo de boa redação na cartilha. A nota individual não foi informada na fonte.'}</p>${essay.scoreSource ? resourceList([essay.scoreSource]) : ''}</section>`}
-      ${alternatives.length ? `<section class="aside-card"><h2>${icon('book-linear')} Compare as abordagens</h2><ul class="resource-list">${alternatives.map((item) => `<li><a href="/redacoes/${esc(item.id)}">${esc(item.title)} ${arrows.right}</a><p>${esc(item.description)}</p></li>`).join('')}</ul></section>` : ''}
-      ${theme ? `<section class="aside-card"><h2>${icon('compass-linear')} Pratique este tema</h2><p>${esc(theme.description || theme.why)}</p><a class="text-link" href="/temas/${esc(theme.slug)}">Ver proposta ${arrows.right}</a></section>` : ''}
-    </aside></div>
-  </div>`;
+    <details class="reader-study">
+      <summary><span>${icon('lightbulb-minimalistic-linear')} Guia de leitura</span>${icon('alt-arrow-down-linear')}</summary>
+      <div class="reader-study-content">
+        ${studyNotes?.length ? `<section><h2>O que observar</h2>${studyNotes.map((note) => `<div class="study-note"><h3>${esc(note.title)}</h3><p>${esc(note.description)}</p></div>`).join('')}</section>` : ''}
+        ${essay.type === 'original' ? `<section><h2>Conectivos</h2><dl class="connector-list">${essay.connectors.map((item) => `<dt>${esc(item.term)}</dt><dd>${esc(item.use)}</dd>`).join('')}</dl></section>
+        <section><h2>Repertório</h2>${resourceList(essay.repertoire)}</section>` : `<section><h2>Sobre a avaliação</h2><p>${essay.scoreSource ? `Nota ${essay.score} confirmada na fonte indicada abaixo.` : essay.score >= 900 ? `O Inep identifica esta redação com nota ${essay.score} na cartilha de origem.` : 'O Inep selecionou este texto como exemplo de boa redação na cartilha. A nota individual não foi informada na fonte.'}</p>${essay.scoreSource ? resourceList([essay.scoreSource]) : ''}</section>`}
+        ${alternatives.length ? `<section><h2>Compare as abordagens</h2><ul class="resource-list">${alternatives.map((item) => `<li><a href="/redacoes/${esc(item.id)}">${esc(item.title)} ${arrows.right}</a><p>${esc(item.description)}</p></li>`).join('')}</ul></section>` : ''}
+        ${theme ? `<section><h2>Pratique este tema</h2><p>${esc(theme.description || theme.why)}</p><a class="text-link" href="/temas/${esc(theme.slug)}">Ver proposta ${arrows.right}</a></section>` : ''}
+      </div>
+    </details>
+    <div class="reader-end"><button class="button button-secondary" type="button" data-done="${esc(essay.id)}" aria-pressed="${done}">${icon('check-circle-linear')} ${done ? 'Leitura concluída' : 'Marcar como lida'}</button></div>
+  </article>`;
 }
 
 function themeGrid(entries) {
