@@ -251,13 +251,13 @@
       ],
       "repertoire": [
         {
-          "title": "Resolução CNE/CEB nº 2/2025",
-          "description": "Inclui a compreensão de algoritmos, dados e inteligência artificial nas diretrizes sobre educação digital e midiática.",
+          "title": "IA no currículo escolar",
+          "description": "As diretrizes do Conselho Nacional de Educação incluem a IA na educação digital. Use essa referência para explicar por que checar uma resposta gerada é algo que a escola pode ensinar.",
           "url": "https://www.gov.br/mec/pt-br/cne/2025/marco/rceb002_25.pdf"
         },
         {
-          "title": "Guia de Educação Digital e Midiática",
-          "description": "O MEC orienta redes a incorporar a educação digital ao currículo. Serve para propor formação e planejamento pedagógico.",
+          "title": "Educação digital · Guia do MEC",
+          "description": "O guia ajuda a defender a formação de professores. Um exemplo é preparar aulas em que a turma compara uma resposta da IA com a fonte original.",
           "url": "https://www.gov.br/mec/pt-br/escolas-conectadas/documentos/guia_eddigital_versofinaloficial.pdf"
         }
       ],
@@ -275,14 +275,14 @@
       ],
       "repertoire": [
         {
-          "title": "Cemaden · Preparação para eventos extremos",
-          "description": "A nota técnica de 2026 sugere diagnóstico territorial, sistemas de alerta e preparação de escolas, exemplos concretos de adaptação local.",
-          "url": "https://www.gov.br/cemaden/pt-br/assuntos/monitoramento/notas-tecnicas/nota-tecnica-el-nino-2026-2027-orientacoes-para-a-preparacao-das-redes-de-ensino-brasileiras"
+          "title": "Alerta da Defesa Civil no celular",
+          "description": "A Defesa Civil avisa sobre perigos como enchentes e deslizamentos. O exemplo ajuda a mostrar por que o aviso precisa chegar cedo e orientar o morador sobre como agir.",
+          "url": "https://www.gov.br/mdr/pt-br/assuntos/protecao-e-defesa-civil/alertas-de-desastres-1"
         },
         {
-          "title": "Lei nº 14.904/2024",
-          "description": "Estabelece diretrizes para planos de adaptação às mudanças do clima. Ajuda a fundamentar uma resposta pública preventiva.",
-          "url": "https://www2.camara.leg.br/legin/fed/lei/2024/lei-14904-27-junho-2024-795864-norma-pl.html"
+          "title": "Rota de fuga e abrigo · Defesa Civil",
+          "description": "A Defesa Civil prevê planos com rotas de fuga, abrigos e treinamento. Use esse exemplo para ligar o alerta ao caminho seguro que o bairro precisa conhecer antes da chuva.",
+          "url": "https://www.gov.br/mdr/pt-br/assuntos/protecao-e-defesa-civil/defesa-civil-alerta/gestao-de-riscos"
         }
       ],
       "intervention": "Prefeituras e Defesas Civis podem mapear bairros com moradores, instalar alertas por diferentes canais e ensaiar rotas acessíveis até abrigos com equipes responsáveis por cada trecho."
@@ -299,18 +299,18 @@
       ],
       "repertoire": [
         {
-          "title": "Senado Federal · Medida Provisória nº 1.394/2026",
-          "description": "A medida proíbe a exploração e a publicidade de apostas de quota fixa e prevê fiscalização entre órgãos públicos.",
+          "title": "Fiscalização da publicidade de bets",
+          "description": "A medida provisória de 2026 proibiu a publicidade de apostas de quota fixa. Use-a para discutir como uma propaganda disfarçada de relato pessoal pode escapar à fiscalização.",
           "url": "https://legis.senado.gov.br/norma/44059160"
         },
         {
-          "title": "Ministério da Saúde · Prevenção dos danos",
-          "description": "A campanha aborda sinais de uso problemático e as consequências para finanças, relações e saúde mental.",
+          "title": "Quando as apostas afetam a rotina",
+          "description": "A campanha do Ministério da Saúde ajuda a ligar o jogo a danos concretos, como comprometer o dinheiro das contas ou esconder perdas da família.",
           "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-mental/nao-aposte-sua-saude"
         },
         {
-          "title": "SUS · Telessaúde para problemas com apostas",
-          "description": "O serviço permite mostrar como a rede de cuidado pode reduzir barreiras ao atendimento de apostadores e familiares.",
+          "title": "Atendimento do SUS para quem sofre com apostas",
+          "description": "O atendimento remoto do SUS é um exemplo de como aproximar o cuidado de pessoas que têm dificuldade de buscar ajuda presencial.",
           "url": "https://www.gov.br/pt-br/servicos/ofertar-estrategia-nacional-de-telessaude-em-saude-mental-para-pessoas-com-necessidades-relacionadas-a-jogos-de-apostas"
         }
       ],
@@ -328,13 +328,13 @@
       ],
       "repertoire": [
         {
-          "title": "Lei Brasileira de Inclusão · Art. 63",
-          "description": "Prevê acessibilidade em sites de órgãos públicos e de empresas abrangidas pela lei. Permite diferenciar um direito da sua implementação.",
+          "title": "Lei Brasileira de Inclusão · Sites acessíveis",
+          "description": "A lei prevê acessibilidade em sites públicos. Relacione essa exigência a um obstáculo concreto, como um formulário com campos que o leitor de tela não consegue identificar.",
           "url": "https://www2.camara.leg.br/legin/fed/lei/2015/lei-13146-6-julho-2015-781174-norma-pl.html"
         },
         {
-          "title": "Modelo de Acessibilidade em Governo Eletrônico",
-          "description": "O eMAG dá referências concretas para discutir navegação, legibilidade e compatibilidade com tecnologias assistivas.",
+          "title": "Como navegar num site só com o teclado",
+          "description": "O guia do governo orienta que os serviços possam ser usados pelo teclado. Isso ajuda a mostrar como um botão inacessível pode interromper uma solicitação inteira.",
           "url": "https://emag.governoeletronico.gov.br/"
         }
       ],
@@ -352,13 +352,13 @@
       ],
       "repertoire": [
         {
-          "title": "Lei nº 14.819/2024",
-          "description": "Institui a Política Nacional de Atenção Psicossocial nas Comunidades Escolares e sustenta a articulação entre educação, saúde e assistência social.",
+          "title": "A escola e o SUS no cuidado ao estudante",
+          "description": "A política nacional para saúde mental na escola prevê trabalho conjunto entre educação, saúde e assistência social. Use-a para mostrar como o acolhimento na escola pode levar a um atendimento no posto de saúde.",
           "url": "https://bibliotecadigital.mj.gov.br/bitstream/1/12254/1/LEI_PR_2024_14819.pdf"
         },
         {
-          "title": "Programa Acolher · Sergipe",
-          "description": "Exemplo de inserção de profissionais de psicologia e serviço social na rede de ensino estadual, útil para discutir ações locais.",
+          "title": "Psicologia e serviço social na escola",
+          "description": "O Programa Acolher, em Sergipe, levou esses profissionais à rede estadual. É um exemplo de como a escola pode contar com apoio especializado quando percebe um caso de sofrimento.",
           "url": "https://seduc.se.gov.br/programa-acolher-e-pioneiro-na-inclusao-de-psicologos-e-assistentes-sociais-em-escolas-publicas-estaduais-de-sergipe/"
         }
       ],
@@ -376,14 +376,14 @@
       ],
       "repertoire": [
         {
-          "title": "Lei nº 15.224/2025",
-          "description": "Institui a Política Nacional de Combate à Perda e ao Desperdício de Alimentos. Oferece base para discutir prevenção e aproveitamento seguro.",
-          "url": "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15224-30-setembro-2025-798048-publicacaooriginal-176570-pl.html"
+          "title": "Bancos de alimentos · Doação segura",
+          "description": "Bancos de alimentos ajudam a encaminhar produtos ainda próprios para consumo. Use o exemplo de uma feira para mostrar por que recolher e separar os alimentos cedo evita perdas.",
+          "url": "https://www.gov.br/pt-br/servicos/participar-da-rede-brasileira-de-banco-de-alimentos"
         },
         {
-          "title": "IBGE · Segurança Alimentar 2024",
-          "description": "A PNAD Contínua registrou insegurança alimentar em 24,2% dos domicílios brasileiros em 2024. Use como contexto de acesso desigual, sem atribuir toda a insegurança ao desperdício.",
-          "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102212_informativo.pdf"
+          "title": "Merenda escolar · Planejamento do cardápio",
+          "description": "O programa de alimentação escolar prevê cardápios planejados por nutricionistas. Esse exemplo ajuda a mostrar como ajustar preparo e porções ao consumo pode evitar sobras.",
+          "url": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/pnae/pnae-alimentacao-e-nutricao"
         }
       ],
       "intervention": "Prefeituras podem articular feiras, mercados e bancos de alimentos por meio de coletas programadas, triagem sanitária e registro do que foi reaproveitado."
@@ -400,13 +400,13 @@
       ],
       "repertoire": [
         {
-          "title": "Ipea · Projeto Acesso a Oportunidades",
-          "description": "Reúne dados que permitem comparar o acesso a empregos, escolas e serviços de saúde por modo de transporte e localização.",
+          "title": "Quanto tempo leva para chegar ao trabalho?",
+          "description": "Os mapas do Ipea comparam o acesso a empregos, escolas e unidades de saúde. Use-os para explicar por que a distância, as baldeações e a espera pesam mais sobre alguns bairros.",
           "url": "https://www.ipea.gov.br/acessooportunidades/"
         },
         {
-          "title": "Lei nº 12.587/2012",
-          "description": "A Política Nacional de Mobilidade Urbana permite discutir acessibilidade e prioridade ao transporte coletivo e aos modos não motorizados.",
+          "title": "Prioridade ao ônibus e a quem anda a pé",
+          "description": "A Política Nacional de Mobilidade Urbana dá prioridade ao transporte coletivo e aos deslocamentos a pé ou de bicicleta. Use-a para mostrar por que calçadas e travessias também fazem parte da viagem de ônibus.",
           "url": "https://www2.camara.leg.br/legin/fed/lei/2012/lei-12587-3-janeiro-2012-612248-norma-pl.html"
         }
       ],
@@ -424,14 +424,14 @@
       ],
       "repertoire": [
         {
-          "title": "Lei nº 15.211/2025 · ECA Digital",
-          "description": "Estabelece regras de proteção de crianças e adolescentes em ambientes digitais. Ajuda a identificar responsabilidades para além da família.",
+          "title": "ECA Digital · Responsabilidade dos aplicativos",
+          "description": "O ECA Digital estabelece deveres de proteção para as plataformas. Use o exemplo de uma conta infantil para explicar por que as configurações iniciais podem reduzir a exposição a riscos.",
           "url": "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15211-17-setembro-2025-797997-norma-pl.html"
         },
         {
-          "title": "ANPD · ECA Digital",
-          "description": "A ANPD reúne orientações e materiais sobre a implementação do estatuto, úteis para delimitar fiscalização, prevenção e privacidade.",
-          "url": "https://www.gov.br/anpd/pt-br/assuntos/eca-digital"
+          "title": "O botão de denunciar nas redes sociais",
+          "description": "O guia oficial explica a denúncia dentro das plataformas. Use esse recurso conhecido para discutir por que denunciar precisa ser fácil e o relato precisa chegar a quem pode agir.",
+          "url": "https://www.gov.br/cnca/pt-br/para-o-cidadao/denunciar-nas-redes"
         }
       ],
       "intervention": "A ANPD pode monitorar serviços dirigidos a menores e publicar critérios de proteção, enquanto redes de ensino desenvolvem oficinas de privacidade e denúncia com participação das famílias."
@@ -441,21 +441,21 @@
       "title": "Desafios para a permanência de estudantes na educação de jovens e adultos no Brasil",
       "axis": "Educação",
       "description": "Horários de trabalho, cuidado familiar e oferta escolar.",
-      "why": "O Pacto EJA ajuda a examinar a diferença entre ampliar vagas e criar condições para que as pessoas permaneçam estudando.",
+      "why": "Abrir uma vaga permite que a pessoa volte à escola. Para que ela continue estudando, a turma também precisa caber na rotina de trabalho, transporte e cuidado com a família.",
       "angles": [
         "Jornadas de trabalho, deslocamento e responsabilidades de cuidado podem conflitar com horários fixos.",
         "A oferta distante do local de moradia reduz a possibilidade de frequência regular."
       ],
       "repertoire": [
         {
-          "title": "MEC · Pacto EJA",
-          "description": "Política de cooperação entre entes federados que busca ampliar a oferta, elevar a escolaridade e integrar a EJA à formação profissional.",
-          "url": "https://www.gov.br/mec/pt-br/pacto-eja/pagina-inicial"
+          "title": "Direito de voltar a estudar na vida adulta",
+          "description": "A lei da educação prevê que a EJA considere as condições de vida e trabalho dos alunos. O exemplo ajuda a explicar por que abrir uma turma e oferecer um horário que o trabalhador consegue cumprir são medidas diferentes.",
+          "url": "https://www2.camara.leg.br/legin/fed/lei/1996/lei-9394-20-dezembro-1996-362578-normaatualizada-pl.html"
         },
         {
-          "title": "MEC · Como funciona o Pacto EJA",
-          "description": "Reúne ações e recursos como materiais didáticos, integração profissional e panorama de oferta. Ajuda a escolher medidas que atendam às condições do público.",
-          "url": "https://www.gov.br/mec/pt-br/pacto-eja/como-funciona"
+          "title": "Transporte e merenda para permanecer na EJA",
+          "description": "O Plano Nacional de Educação prevê apoio à permanência na EJA, incluindo transporte e alimentação. Use a medida para mostrar que frequentar a aula também depende das condições fora da sala.",
+          "url": "https://www2.camara.leg.br/legin/fed/lei/2026/lei-15388-14-abril-2026-798950-normaatualizada-pl.html"
         }
       ],
       "intervention": "Secretarias de Educação podem organizar turmas em horários e pontos escolhidos com a comunidade e acompanhar a frequência para acionar busca ativa e apoios de transporte."
@@ -472,13 +472,13 @@
       ],
       "repertoire": [
         {
-          "title": "IBGE · Características dos domicílios no Censo 2022",
-          "description": "Permite comparar abastecimento e esgotamento por território. Diferencie a presença de rede coletora do uso de sistemas locais adequados.",
+          "title": "Censo do IBGE · Água e esgoto em casa",
+          "description": "O Censo mostra como os domicílios recebem água e lidam com o esgoto. Use essa comparação para explicar por que uma comunidade rural pode precisar de uma solução diferente da rede usada na cidade.",
           "url": "https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/c8c1e181fbe8557c7c14bdf22fc335cc.pdf"
         },
         {
-          "title": "Ministério das Cidades · Plansab",
-          "description": "Plano nacional de saneamento que serve para contextualizar a universalização e o planejamento público.",
+          "title": "Planejamento do saneamento no campo",
+          "description": "O plano nacional ajuda a ligar o saneamento à responsabilidade do poder público. Em uma redação, mostre o que precisa continuar depois da obra, como testar a água e consertar equipamentos.",
           "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/plano-nacional-de-saneamento-basico-plansab/arquivos/plansab"
         }
       ],
@@ -496,13 +496,13 @@
       ],
       "repertoire": [
         {
-          "title": "IBGE · Segurança Alimentar 2024",
-          "description": "A PNAD Contínua mede a experiência de insegurança alimentar em graus e permite contextualizar o problema sem confundir qualquer insegurança com fome grave.",
+          "title": "Pesquisa do IBGE · Quando falta comida",
+          "description": "A pesquisa distingue graus de insegurança alimentar. Use-a para explicar que o problema pode começar quando uma família precisa reduzir a variedade do que come por falta de dinheiro.",
           "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102212_informativo.pdf"
         },
         {
-          "title": "Lei Orgânica de Segurança Alimentar e Nutricional",
-          "description": "A Lei nº 11.346/2006 cria o Sisan e serve de base para tratar a alimentação adequada como direito.",
+          "title": "Direito à alimentação adequada",
+          "description": "A lei trata o acesso regular a alimentos de qualidade como direito. Relacione esse direito ao preço e à distância para comprar alimentos frescos.",
           "url": "https://www.gov.br/mds/pt-br/acesso-a-informacao/legislacao/leis/lei-no-11-346-de-15-de-setembro-de-2006"
         }
       ],
@@ -520,13 +520,13 @@
       ],
       "repertoire": [
         {
-          "title": "Política Nacional de Saúde Integral da População Negra",
-          "description": "A Portaria nº 992/2009 institucionaliza o enfrentamento ao racismo e a promoção da equidade no SUS.",
+          "title": "Combate ao racismo no SUS",
+          "description": "A política de saúde da população negra orienta o SUS a enfrentar a discriminação. Use-a para explicar como desvalorizar a queixa de um paciente pode atrasar uma investigação ou um encaminhamento.",
           "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2009/prt0992_13_05_2009.html"
         },
         {
-          "title": "Ministério da Saúde · Saúde Sem Racismo",
-          "description": "Reúne iniciativas voltadas à equidade racial no SUS e ajuda a identificar políticas e responsabilidades institucionais.",
+          "title": "Saúde Sem Racismo · O que a rede pode fazer",
+          "description": "As ações do Ministério da Saúde ajudam a discutir como serviços do SUS podem identificar diferenças no cuidado e agir quando um grupo encontra mais obstáculos.",
           "url": "https://www.gov.br/saude/pt-br/assuntos/saude-sem-racismo"
         }
       ],
