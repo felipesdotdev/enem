@@ -1,0 +1,2913 @@
+[
+  {
+    "id": "ia-rascunho-verificavel",
+    "title": "Do primeiro rascunho à fonte",
+    "topic": "Desafios para o uso crítico da inteligência artificial na educação básica brasileira",
+    "category": "Educação",
+    "themeId": "ia-na-educacao",
+    "description": "A avaliação do processo e a formação docente ajudam a preservar a autoria dos estudantes.",
+    "tags": [
+      "Autoria",
+      "Formação docente",
+      "Verificação"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Em uma pesquisa escolar, o caminho até a resposta ensina a formular perguntas, comparar explicações e revisar conclusões."
+          },
+          {
+            "label": "Tema",
+            "text": "A chegada da inteligência artificial generativa à educação básica brasileira põe esse percurso em questão, pois a ferramenta entrega em segundos um texto com aparência de trabalho concluído."
+          },
+          {
+            "label": "Tese",
+            "text": "Seu uso crítico depende, assim, de avaliações que valorizem o raciocínio e de formação docente para orientar a verificação das respostas."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Em primeiro lugar, avaliar apenas o produto final favorece a terceirização de tarefas intelectuais."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "As orientações da Unesco sobre IA generativa na educação priorizam a participação ativa do estudante. Se a nota depende exclusivamente do texto entregue, porém, o aluno pode reproduzir a resposta da ferramenta sem identificar premissas ou consultar fontes. Já a defesa oral de uma escolha torna visível o trabalho de análise."
+          },
+          {
+            "label": "Ligação",
+            "text": "Dessa maneira, a IA pode apoiar a revisão enquanto o estudante responde pelo argumento."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Além disso, a verificação precisa ser ensinada."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "As diretrizes do Conselho Nacional de Educação para a educação digital e midiática preveem abordar a IA no currículo. Em uma aula de História, o professor pode pedir que a turma confronte uma data sugerida por um programa com um acervo público e explique eventual divergência."
+          },
+          {
+            "label": "Ligação",
+            "text": "A atividade ajuda a distinguir uma afirmação convincente de uma informação comprovada."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Portanto, as secretarias de educação"
+          },
+          {
+            "label": "O que",
+            "text": "devem incorporar atividades de verificação e autoria à avaliação escolar,"
+          },
+          {
+            "label": "Como",
+            "text": "por meio de formação docente e de sequências didáticas que combinem rascunho, consulta a fontes e defesa de escolhas,"
+          },
+          {
+            "label": "Para quê",
+            "text": "a fim de desenvolver a autonomia para revisar respostas automatizadas."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "A rubrica deve reservar parte da nota à justificativa das correções feitas pelo estudante."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Em primeiro lugar",
+        "use": "Ordena o argumento sobre avaliação."
+      },
+      {
+        "term": "Além disso",
+        "use": "Soma a formação docente ao problema do desenho das tarefas."
+      },
+      {
+        "term": "Dessa maneira",
+        "use": "Extrai do exemplo a relação entre avaliação e autoria."
+      },
+      {
+        "term": "Portanto",
+        "use": "Introduz a intervenção ligada à tese."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "Unesco — IA generativa na educação",
+        "description": "O guia enfatiza a participação ativa de professores e estudantes e a verificação do conteúdo gerado.",
+        "url": "https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research?hub=802"
+      },
+      {
+        "title": "Conselho Nacional de Educação — Resolução CNE/CEB nº 2/2025",
+        "description": "As diretrizes curriculares tratam da educação digital e midiática e da compreensão de sistemas de IA.",
+        "url": "https://dgui.cps.sp.gov.br/dgui_atos_normativos/cne-ceb-02/"
+      }
+    ]
+  },
+  {
+    "id": "clima-alerta-que-chega",
+    "title": "Um alerta que chega a tempo",
+    "topic": "Caminhos para proteger populações vulneráveis de desastres climáticos no Brasil",
+    "category": "Meio ambiente",
+    "themeId": "justica-climatica",
+    "description": "O texto acompanha o caminho entre o aviso de risco e a retirada segura de moradores.",
+    "tags": [
+      "Defesa Civil",
+      "Comunicação de risco",
+      "Moradia"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "A chuva é um fenômeno atmosférico, mas as consequências de uma enchente dependem também de onde as pessoas moram e dos recursos de que dispõem para sair de casa."
+          },
+          {
+            "label": "Tema",
+            "text": "No Brasil, proteger populações vulneráveis de desastres climáticos exige que os avisos se convertam em possibilidades reais de evacuação."
+          },
+          {
+            "label": "Tese",
+            "text": "Para isso, é preciso adaptar a comunicação aos territórios e garantir rotas e abrigos que atendam a diferentes necessidades."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Antes de tudo, uma mensagem de risco só orienta decisões quando faz sentido para quem a recebe."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O programa Cemaden Educação incentiva escolas e comunidades a mapear riscos locais. A prática mostra a utilidade de relacionar dados técnicos a referências cotidianas. Para um morador, saber qual ponte pode alagar e onde fica o ponto de encontro oferece mais condições de agir do que receber um aviso genérico de chuva intensa."
+          },
+          {
+            "label": "Ligação",
+            "text": "Assim, conhecer o bairro é parte da eficácia do alerta."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "A comunicação, entretanto, precisa vir acompanhada de meios de saída."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O Plano Clima Adaptação para Cidades identifica riscos urbanos que exigem resposta intersetorial. Se a única rota segura tiver escadas, um morador com mobilidade reduzida pode compreender o aviso e, mesmo assim, permanecer em casa."
+          },
+          {
+            "label": "Ligação",
+            "text": "Nesse caso, a desigualdade aparece no intervalo entre ser informado e conseguir se proteger."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Por isso, as defesas civis municipais, em parceria com as secretarias de assistência social,"
+          },
+          {
+            "label": "O que",
+            "text": "devem organizar protocolos de evacuação por bairro,"
+          },
+          {
+            "label": "Como",
+            "text": "mediante mapeamento com moradores, avisos em canais comunitários e simulações com transporte acessível,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para que as famílias cheguem a abrigos antes do agravamento do evento."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "Cada protocolo deve prever responsáveis pelo transporte e locais de embarque identificados com referências conhecidas da comunidade."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Antes de tudo",
+        "use": "Apresenta a condição inicial para o aviso funcionar."
+      },
+      {
+        "term": "Assim",
+        "use": "Resume a consequência da comparação entre avisos."
+      },
+      {
+        "term": "entretanto",
+        "use": "Introduz o limite de uma política centrada na comunicação."
+      },
+      {
+        "term": "Por isso",
+        "use": "Converte o diagnóstico em ação local."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "Cemaden Educação — prevenção de desastres",
+        "description": "A iniciativa aproxima escolas, comunidades e Defesa Civil na leitura participativa de riscos.",
+        "url": "https://www2.cemaden.gov.br/cemaden-educacao/"
+      },
+      {
+        "title": "Ministério das Cidades — Plano Clima Adaptação para Cidades",
+        "description": "O plano reúne riscos urbanos e propõe medidas que dependem de diferentes setores.",
+        "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/desenvolvimento-urbano-e-metropolitano/cidade-protagonista-da-acao-climatica/plano-clima-adaptacao-cidades-1/"
+      }
+    ]
+  },
+  {
+    "id": "apostas-porta-de-cuidado",
+    "title": "Uma porta de cuidado para quem aposta",
+    "topic": "Desafios para prevenir danos associados às apostas digitais no Brasil",
+    "category": "Saúde e bem-estar",
+    "themeId": "apostas-digitais",
+    "description": "O silêncio das famílias e as barreiras ao atendimento ajudam a explicar por que os danos persistem.",
+    "tags": [
+      "Saúde pública",
+      "Estigma",
+      "SUS"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Prejuízos financeiros afetam a rotina familiar quando despesas básicas passam a depender de uma renda já comprometida."
+          },
+          {
+            "label": "Tema",
+            "text": "No Brasil, os danos das apostas digitais podem se prolongar mesmo após a interrupção do jogo, pois dívidas e conflitos familiares exigem acompanhamento."
+          },
+          {
+            "label": "Tese",
+            "text": "Prevenir novos prejuízos implica enfrentar a vergonha de pedir ajuda e aproximar os serviços de saúde das pessoas atingidas."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "De início, o julgamento moral pode retardar a procura por cuidado."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "A Organização Mundial da Saúde inclui o estigma entre os danos associados aos jogos de aposta. Se parentes interpretam o problema como falha de caráter, a pessoa pode esconder perdas e tentar recompor sozinha o orçamento que comprometeu. Nesse intervalo, perde-se a chance de conversar sobre os danos antes de uma nova crise."
+          },
+          {
+            "label": "Ligação",
+            "text": "Logo, acolher o relato com respeito é uma medida de prevenção."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Outro entrave é o desconhecimento dos caminhos de atendimento."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O Ministério da Saúde oferece teleatendimento pelo Meu SUS Digital a pessoas afetadas por apostas e a familiares. A oferta amplia o apoio, mas depende de divulgação e de orientação para quem tem dificuldade com o aplicativo ou precisa de escuta presencial."
+          },
+          {
+            "label": "Ligação",
+            "text": "A combinação entre atendimento digital e atenção básica, portanto, reduz a distância entre o serviço e a família."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Diante disso, as secretarias municipais de saúde"
+          },
+          {
+            "label": "O que",
+            "text": "devem organizar fluxos de acolhimento para danos relacionados a apostas,"
+          },
+          {
+            "label": "Como",
+            "text": "por meio de formação das equipes das unidades básicas e divulgação dos canais presenciais e remotos,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para antecipar a procura por cuidado e evitar o agravamento dos prejuízos."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "Na primeira escuta, a equipe deve oferecer orientação também aos familiares, preservando o sigilo do usuário."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "De início",
+        "use": "Apresenta o estigma como primeira barreira."
+      },
+      {
+        "term": "Nesse intervalo",
+        "use": "Retoma o período em que a pessoa tenta resolver o problema sozinha."
+      },
+      {
+        "term": "Logo",
+        "use": "Extrai uma consequência do diagnóstico."
+      },
+      {
+        "term": "Diante disso",
+        "use": "Retoma as duas barreiras para propor o fluxo de cuidado."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "OMS — Gambling",
+        "description": "A ficha de saúde pública descreve danos financeiros e familiares e discute o estigma associado ao jogo.",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/gambling"
+      },
+      {
+        "title": "Ministério da Saúde — Atendimento pelo Meu SUS Digital",
+        "description": "A página descreve o teleatendimento oferecido a pessoas afetadas por jogos e apostas e a familiares.",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/outubro/jogos-e-apostas-causaram-ou-ainda-causam-problemas-saiba-como-fazer-o-autoteste-e-buscar-atendimento-pelo-meu-sus-digital"
+      }
+    ]
+  },
+  {
+    "id": "acessibilidade-autonomia-no-formulario",
+    "title": "Autonomia no último campo",
+    "topic": "Desafios para garantir a acessibilidade de pessoas com deficiência nos serviços públicos digitais",
+    "category": "Direitos e inclusão",
+    "themeId": "acessibilidade-digital",
+    "description": "A diferença entre abrir um portal e conseguir concluir um serviço público com independência.",
+    "tags": [
+      "Tecnologia assistiva",
+      "Serviços públicos",
+      "Autonomia"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Por um formulário público, o cidadão solicita um benefício, agenda um atendimento ou acompanha um pedido."
+          },
+          {
+            "label": "Tema",
+            "text": "Com a digitalização desses serviços no Brasil, sua acessibilidade tornou-se condição para que pessoas com deficiência exerçam direitos de forma autônoma."
+          },
+          {
+            "label": "Tese",
+            "text": "Essa autonomia é limitada tanto por falhas nos formulários quanto por testes que desconsideram as etapas reais de uso."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Primeiramente, pequenas escolhas de interface podem interromper o acesso a um serviço inteiro."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O artigo 63 da Lei Brasileira de Inclusão exige acessibilidade nos sítios governamentais. Contudo, em um formulário sem rótulos adequados, um leitor de tela pode anunciar um campo sem indicar se ele pede nome ou número de documento. O cidadão pode, então, recorrer a outra pessoa e compartilhar dados que pretendia manter privados."
+          },
+          {
+            "label": "Ligação",
+            "text": "Dessa forma, o defeito técnico compromete também o controle sobre as próprias informações."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Além disso, examinar telas isoladas pode esconder obstáculos na sequência do atendimento."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O Modelo de Acessibilidade em Governo Eletrônico reúne recomendações para o desenvolvimento de portais inclusivos. Aplicá-las a uma jornada completa significa testar a entrada no sistema, o preenchimento, a correção de erros e a confirmação do protocolo com tecnologias assistivas."
+          },
+          {
+            "label": "Ligação",
+            "text": "Esse percurso revela, por exemplo, se alguém que navega pelo teclado consegue corrigir um campo antes que a sessão expire."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Assim, os órgãos gestores de serviços públicos digitais"
+          },
+          {
+            "label": "O que",
+            "text": "devem incorporar testes de acessibilidade às atualizações de seus portais,"
+          },
+          {
+            "label": "Como",
+            "text": "mediante verificações técnicas e sessões remuneradas de uso com pessoas com deficiência,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para permitir a conclusão autônoma de solicitações on-line."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "Os testes devem incluir tarefas completas, como preencher, corrigir e enviar um formulário sem usar o mouse."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Primeiramente",
+        "use": "Abre a explicação sobre a interface."
+      },
+      {
+        "term": "Contudo",
+        "use": "Contrasta a garantia legal com um obstáculo concreto."
+      },
+      {
+        "term": "Dessa forma",
+        "use": "Expõe o impacto da falha sobre a privacidade."
+      },
+      {
+        "term": "Além disso",
+        "use": "Passa dos campos isolados ao percurso integral."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "Lei Brasileira de Inclusão — artigo 63",
+        "description": "O dispositivo exige acessibilidade em páginas de órgãos governamentais.",
+        "url": "https://legis.senado.gov.br/norma/584958/publicacao/34619049"
+      },
+      {
+        "title": "eMAG — Modelo de Acessibilidade em Governo Eletrônico",
+        "description": "O modelo reúne recomendações para incorporar acessibilidade a portais públicos brasileiros.",
+        "url": "https://emag.governoeletronico.gov.br/"
+      }
+    ]
+  },
+  {
+    "id": "escola-escuta-e-acolhimento",
+    "title": "A escola que escuta",
+    "topic": "Desafios para promover a saúde mental dos estudantes na escola brasileira",
+    "category": "Saúde e bem-estar",
+    "themeId": "saude-mental-na-escola",
+    "description": "A convivência diária e a relação com a rede de saúde fazem parte do cuidado escolar.",
+    "tags": [
+      "Convivência",
+      "Escuta",
+      "Atenção psicossocial"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Aprender em grupo envolve falar diante dos colegas, pedir ajuda e aceitar que erros fazem parte do processo."
+          },
+          {
+            "label": "Tema",
+            "text": "Quando o medo de humilhação ou a falta de apoio se tornam frequentes, a saúde mental dos estudantes passa a ser também uma questão da escola brasileira."
+          },
+          {
+            "label": "Tese",
+            "text": "Promovê-la exige intervir nas relações de convivência e assegurar um caminho de acolhimento para quem precisa de apoio."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "A qualidade dessas relações afeta a disposição para participar das aulas."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O programa Escola que Protege do Ministério da Educação propõe a convivência democrática como parte da prevenção da violência escolar. Se ofensas repetidas são tratadas como brincadeiras, o aluno exposto pode evitar apresentações e trabalhos em grupo para diminuir as ocasiões de constrangimento. Uma resposta pedagógica que estabeleça limites e proteja quem relata a agressão atua sobre a origem desse afastamento."
+          },
+          {
+            "label": "Ligação",
+            "text": "Assim, a segurança para aprender depende das respostas dadas no cotidiano."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Já o acesso a atendimento exige coordenação entre escola e saúde."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "A Política Nacional de Atenção Psicossocial nas Comunidades Escolares prevê articulação com o Programa Saúde na Escola. Na prática, uma escola que indica uma unidade de saúde sem combinar o modo de encaminhamento pode deixar a família com a responsabilidade de descobrir onde e quando será atendida."
+          },
+          {
+            "label": "Ligação",
+            "text": "Um fluxo pactuado, portanto, ajuda a dar continuidade ao acolhimento."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Diante desse quadro, as secretarias municipais de educação e saúde"
+          },
+          {
+            "label": "O que",
+            "text": "devem estabelecer rotinas de prevenção e encaminhamento nas escolas públicas,"
+          },
+          {
+            "label": "Como",
+            "text": "por meio de ações de convivência nas turmas, formação das equipes escolares e acordos com unidades básicas de referência,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para diminuir o isolamento dos estudantes e facilitar seu acesso a apoio profissional."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "Cada escola deve indicar a pessoa responsável pela primeira escuta, com atendimento reservado e registro protegido."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Assim",
+        "use": "Mostra o efeito das respostas da escola sobre a segurança para participar."
+      },
+      {
+        "term": "Já",
+        "use": "Distingue a convivência escolar da coordenação com a saúde."
+      },
+      {
+        "term": "portanto",
+        "use": "Liga o encaminhamento pactuado à continuidade do cuidado."
+      },
+      {
+        "term": "Diante desse quadro",
+        "use": "Retoma a análise para propor uma resposta entre setores."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "Programa Escola que Protege — Portaria MEC/MJSP nº 1/2025",
+        "description": "A portaria institui o programa e inclui a convivência democrática na prevenção da violência escolar.",
+        "url": "https://mecnormas.mec.gov.br/pesquisa/detalhar/1907"
+      },
+      {
+        "title": "Lei nº 14.819/2024 — Atenção psicossocial nas comunidades escolares",
+        "description": "A política articula saúde, educação e assistência social para desenvolver ações psicossociais nas comunidades escolares.",
+        "url": "https://bibliotecadigital.mj.gov.br/bitstream/1/12254/2/LEI_PR_2024_14819.htm"
+      }
+    ]
+  },
+  {
+    "id": "alimentos-antes-do-descarte",
+    "title": "Antes de virar descarte",
+    "topic": "Caminhos para reduzir o desperdício de alimentos no Brasil",
+    "category": "Meio ambiente",
+    "themeId": "desperdicio-de-alimentos",
+    "description": "O texto distingue prevenção de excedentes e redistribuição de alimentos aptos para consumo.",
+    "tags": [
+      "Bancos de alimentos",
+      "Varejo",
+      "Segurança alimentar"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Cada alimento exposto em uma feira já exigiu terra, água, trabalho e transporte para chegar ao consumidor."
+          },
+          {
+            "label": "Tema",
+            "text": "Quando produtos ainda próprios para consumo são descartados no varejo brasileiro, perdem-se tanto esses recursos quanto a chance de alimentar pessoas."
+          },
+          {
+            "label": "Tese",
+            "text": "Reduzir esse desperdício requer rever práticas comerciais que geram sobras evitáveis e organizar a retirada segura do excedente."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Um primeiro obstáculo é a distância entre o valor comercial e a condição de consumo de certos produtos."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "A Política Nacional de Combate à Perda e ao Desperdício de Alimentos propõe examinar o problema em toda a cadeia. No varejo, por exemplo, uma fruta com formato irregular pode sair da exposição apesar de estar em boas condições. Um desconto identificado com clareza, acompanhado de orientação de conservação, permite oferecer esses produtos a quem pretende consumi-los logo."
+          },
+          {
+            "label": "Ligação",
+            "text": "Com isso, o comércio pode prevenir o descarte antes mesmo de precisar doar."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Ainda assim, parte do estoque pode sobrar e exigir redistribuição rápida."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "A Rede Brasileira de Bancos de Alimentos integra instituições que recebem e encaminham gêneros alimentícios. Para aproveitarem produtos perecíveis, essas instituições precisam combinar com os doadores o horário de retirada e as condições de armazenamento. Uma entrega sem planejamento pode transferir a perda para o local de triagem."
+          },
+          {
+            "label": "Ligação",
+            "text": "Por essa razão, doar com regularidade exige coordenação logística."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Portanto, as secretarias municipais responsáveis pela segurança alimentar, junto a feirantes e varejistas,"
+          },
+          {
+            "label": "O que",
+            "text": "devem organizar programas locais de prevenção e redistribuição de excedentes,"
+          },
+          {
+            "label": "Como",
+            "text": "por meio de ações para comercializar alimentos fora do padrão estético e de rotas agendadas para os bancos de alimentos,"
+          },
+          {
+            "label": "Para quê",
+            "text": "a fim de manter produtos aptos para consumo em circulação."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "As rotas devem prever triagem e refrigeração conforme o grau de perecibilidade."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Com isso",
+        "use": "Retoma a proposta de venda para explicar como o descarte é evitado."
+      },
+      {
+        "term": "Ainda assim",
+        "use": "Reconhece que a prevenção pode deixar sobras."
+      },
+      {
+        "term": "Por essa razão",
+        "use": "Liga a perecibilidade à organização do transporte."
+      },
+      {
+        "term": "Portanto",
+        "use": "Reúne prevenção e redistribuição na intervenção."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "Lei nº 15.224/2025 — Combate à perda e ao desperdício",
+        "description": "A política adota uma visão de cadeia e inclui fortalecimento de bancos de alimentos e educação para o consumo.",
+        "url": "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15224-30-setembro-2025-798048-publicacaooriginal-176570-pl.html"
+      },
+      {
+        "title": "Rede Brasileira de Bancos de Alimentos",
+        "description": "A rede integra bancos públicos, privados e da sociedade civil para reduzir desperdício e promover a alimentação adequada.",
+        "url": "https://www.gov.br/pt-br/servicos/participar-da-rede-brasileira-de-banco-de-alimentos"
+      }
+    ]
+  },
+  {
+    "id": "mobilidade-tempo-da-cidade",
+    "title": "O tempo também é infraestrutura",
+    "topic": "Desafios para garantir o acesso à mobilidade urbana nas periferias brasileiras",
+    "category": "Direitos e inclusão",
+    "themeId": "mobilidade-urbana",
+    "description": "O transporte é avaliado pelo acesso a trabalho, estudo e saúde que oferece a quem mora longe.",
+    "tags": [
+      "Transporte coletivo",
+      "Periferias",
+      "Desigualdade territorial"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "O horário de saída de casa define quanto tempo resta para estudar, descansar e acompanhar a rotina familiar."
+          },
+          {
+            "label": "Tema",
+            "text": "Nas periferias urbanas brasileiras, o acesso à mobilidade depende da possibilidade de chegar a serviços e empregos em horários compatíveis com a vida cotidiana."
+          },
+          {
+            "label": "Tese",
+            "text": "A concentração de oportunidades e a oferta irregular de transporte coletivo tornam esse acesso desigual."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Em muitas cidades, morar longe de áreas centrais exige percursos maiores para atender necessidades comuns."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O projeto Acesso a Oportunidades, do Ipea, constatou que as atividades e as redes de transporte concentram o acesso a oportunidades nas áreas centrais das cidades estudadas. Se um bairro oferece poucos serviços de saúde, mesmo um ônibus pontual pode levar o morador a enfrentar longos trajetos para uma consulta."
+          },
+          {
+            "label": "Ligação",
+            "text": "Nesse cenário, planejar a mobilidade implica considerar também onde a cidade instala seus equipamentos públicos."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "A distância, por sua vez, pesa ainda mais quando os horários da rede são instáveis."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "A Política Nacional de Mobilidade Urbana adota a equidade no acesso ao transporte público coletivo como princípio. Para concretizá-la, as linhas precisam servir, por exemplo, a quem sai à noite de um curso e depende de uma conexão. A perda da última integração prolonga o caminho ou o encarece."
+          },
+          {
+            "label": "Ligação",
+            "text": "Consequentemente, o horário de uma linha determina quais oportunidades o passageiro consegue aproveitar."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Assim, as prefeituras e os consórcios metropolitanos"
+          },
+          {
+            "label": "O que",
+            "text": "devem revisar as conexões do transporte coletivo que atende áreas periféricas,"
+          },
+          {
+            "label": "Como",
+            "text": "mediante mapas de tempo de viagem a serviços e consulta a moradores sobre esperas e horários,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para ampliar o acesso a trabalho, educação e saúde."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "A revisão deve prever metas de conexão no período noturno, verificadas com dados de pontualidade e pesquisas com passageiros."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Nesse cenário",
+        "use": "Retoma o exemplo para ligar transporte à localização dos serviços."
+      },
+      {
+        "term": "por sua vez",
+        "use": "Acrescenta a frequência dos ônibus à distância física."
+      },
+      {
+        "term": "Consequentemente",
+        "use": "Explica o efeito social do descompasso de horários."
+      },
+      {
+        "term": "Assim",
+        "use": "Encaminha a conclusão para uma ação mensurável."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "Ipea — Projeto Acesso a Oportunidades",
+        "description": "O estudo mede a distribuição do acesso a trabalho, saúde e educação em vinte cidades brasileiras.",
+        "url": "https://repositorio.ipea.gov.br/bitstream/11058/9586/1/td_2535.pdf"
+      },
+      {
+        "title": "Lei nº 12.587/2012 — Política Nacional de Mobilidade Urbana",
+        "description": "A política inclui a equidade no acesso ao transporte público coletivo entre seus princípios.",
+        "url": "https://legis.senado.gov.br/norma/589510/publicacao/34619104"
+      }
+    ]
+  },
+  {
+    "id": "protecao-digital-seguranca-de-origem",
+    "title": "Segurança desde o primeiro acesso",
+    "topic": "Desafios para a proteção de crianças e adolescentes no ambiente digital brasileiro",
+    "category": "Tecnologia e mídia",
+    "themeId": "protecao-digital-de-criancas",
+    "description": "Padrões de privacidade nas plataformas e educação digital podem repartir a responsabilidade pela proteção.",
+    "tags": [
+      "Privacidade",
+      "Infância",
+      "Plataformas"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Crianças aprendem a conviver em espaços nos quais existem regras sobre quem pode abordá-las e a quem pedir ajuda."
+          },
+          {
+            "label": "Tema",
+            "text": "Em plataformas digitais usadas no Brasil, essas regras também dependem das permissões configuradas em contas, jogos e redes sociais."
+          },
+          {
+            "label": "Tese",
+            "text": "Garantir proteção a crianças e adolescentes exige tanto reduzir a exposição criada pelos próprios serviços quanto ensinar caminhos seguros de resposta."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Para começar, configurações iniciais alteram o grau de exposição dos usuários mais jovens."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O Estatuto Digital da Criança e do Adolescente atribui responsabilidades de prevenção às plataformas. Quando um perfil recém-criado permite mensagens de qualquer conta, por exemplo, uma criança precisa encontrar e compreender o menu de privacidade antes de restringir contatos indesejados. Configurações mais protetivas desde a abertura da conta reduzem essa dependência."
+          },
+          {
+            "label": "Ligação",
+            "text": "Desse modo, uma decisão de projeto pode prevenir situações que a moderação só perceberia depois."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Em paralelo, saber reconhecer e comunicar um problema ajuda a interromper abordagens inadequadas."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O guia federal Crianças, Adolescentes e Telas reúne orientações para responsáveis e educadores sobre o uso de tecnologias. Uma conversa mediada pode, por exemplo, ensaiar como usar o botão de denúncia e procurar um adulto de confiança após receber uma mensagem que cause desconforto."
+          },
+          {
+            "label": "Ligação",
+            "text": "A familiaridade com esses passos facilita a procura de ajuda e complementa as proteções oferecidas pelo serviço."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Diante disso, a Agência Nacional de Proteção de Dados e as secretarias de educação"
+          },
+          {
+            "label": "O que",
+            "text": "devem fortalecer a proteção de menores nas plataformas e nas escolas,"
+          },
+          {
+            "label": "Como",
+            "text": "com fiscalização de configurações iniciais e atividades escolares sobre privacidade, bloqueio e denúncia,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para diminuir a exposição a abordagens indevidas e ampliar a capacidade de pedir ajuda."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "As atividades devem incluir simulações com contas fictícias, preservando os dados e as experiências pessoais dos alunos."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Para começar",
+        "use": "Apresenta o desenho das plataformas como primeira frente de proteção."
+      },
+      {
+        "term": "Desse modo",
+        "use": "Mostra a consequência da configuração de privacidade."
+      },
+      {
+        "term": "Em paralelo",
+        "use": "Introduz a educação digital como frente complementar."
+      },
+      {
+        "term": "Diante disso",
+        "use": "Articula os deveres de fiscalização e de orientação."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "ANPD — Estatuto Digital da Criança e do Adolescente",
+        "description": "A agência explica as obrigações de prevenção de riscos para plataformas e sua função na fiscalização.",
+        "url": "https://www.gov.br/anpd/pt-br/assuntos/eca-digital/"
+      },
+      {
+        "title": "Crianças, Adolescentes e Telas — Guia do governo federal",
+        "description": "O material orienta a mediação por famílias, cuidadores e educadores no uso de dispositivos digitais.",
+        "url": "https://www.gov.br/secom/pt-br/assuntos/uso-de-telas-por-criancas-e-adolescentes/guia/para-baixar"
+      }
+    ]
+  },
+  {
+    "id": "eja-a-matricula-e-o-comeco",
+    "title": "A matrícula é só o começo",
+    "topic": "Desafios para a permanência de estudantes na educação de jovens e adultos no Brasil",
+    "category": "Educação",
+    "themeId": "permanencia-na-eja",
+    "description": "Trabalho, cuidado familiar e acolhimento ajudam a explicar a permanência na EJA.",
+    "tags": [
+      "Educação de adultos",
+      "Trabalho",
+      "Permanência"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Voltar a estudar na vida adulta exige reorganizar compromissos que continuam mesmo depois da matrícula, como o trabalho e o cuidado com familiares."
+          },
+          {
+            "label": "Tema",
+            "text": "Esse desafio ajuda a explicar por que a educação de jovens e adultos no Brasil precisa oferecer condições de permanência desde o início do curso."
+          },
+          {
+            "label": "Tese",
+            "text": "Horários incompatíveis com a rotina e a falta de acompanhamento das primeiras ausências enfraquecem o vínculo do estudante com a escola."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "A rigidez dos horários dificulta a frequência de quem tem uma jornada instável."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "A Lei de Diretrizes e Bases da Educação determina que a oferta da EJA considere as condições de vida e de trabalho dos estudantes. Em um bairro atendido por uma única turma noturna, quem trabalha por escala pode faltar sempre que muda de turno e perder etapas necessárias para acompanhar as aulas seguintes."
+          },
+          {
+            "label": "Ligação",
+            "text": "Nesse caso, a possibilidade formal de matrícula convive com um calendário difícil de cumprir."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "O afastamento também pode se consolidar antes de ser percebido pela rede de ensino."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O Plano Nacional de Educação prevê políticas de permanência na EJA e ações de busca ativa. Na escola, o contato após uma sequência de faltas ajuda a identificar se a barreira é o transporte, a carga de trabalho ou outra dificuldade concreta. A partir daí, torna-se possível organizar a retomada dos conteúdos."
+          },
+          {
+            "label": "Ligação",
+            "text": "Assim, o acompanhamento transforma a ausência em informação para agir."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Por essas razões, as secretarias de educação responsáveis pela EJA"
+          },
+          {
+            "label": "O que",
+            "text": "devem implantar planos de permanência nas escolas,"
+          },
+          {
+            "label": "Como",
+            "text": "com levantamento de horários entre estudantes, diversificação de turmas conforme a demanda e acompanhamento das ausências pelas equipes pedagógicas,"
+          },
+          {
+            "label": "Para quê",
+            "text": "a fim de reduzir o abandono e facilitar a conclusão dos estudos."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "O primeiro contato após faltas recorrentes deve oferecer ao estudante opções de reposição e, quando houver, de mudança de turno."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Nesse caso",
+        "use": "Aplica a discussão sobre horários a uma situação concreta."
+      },
+      {
+        "term": "também",
+        "use": "Acrescenta o acompanhamento às condições de frequência."
+      },
+      {
+        "term": "A partir daí",
+        "use": "Apresenta a possibilidade aberta pelo contato com o estudante."
+      },
+      {
+        "term": "Por essas razões",
+        "use": "Reúne as causas para orientar a intervenção."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "Lei de Diretrizes e Bases — artigo 37",
+        "description": "O artigo prevê oportunidades educacionais adequadas às condições de vida e trabalho do público da EJA.",
+        "url": "https://www2.camara.leg.br/legin/fed/lei/1996/lei-9394-20-dezembro-1996-362578-normaatualizada-pl.html"
+      },
+      {
+        "title": "Plano Nacional de Educação — Lei nº 15.388/2026",
+        "description": "O plano prevê busca ativa de pessoas que não concluíram a educação básica e medidas de apoio à permanência na EJA.",
+        "url": "https://www2.camara.leg.br/legin/fed/lei/2026/lei-15388-14-abril-2026-798950-normaatualizada-pl.html"
+      }
+    ]
+  },
+  {
+    "id": "saneamento-depois-da-inauguracao",
+    "title": "O serviço continua depois da obra",
+    "topic": "Caminhos para ampliar o acesso ao saneamento básico nas comunidades rurais brasileiras",
+    "category": "Meio ambiente",
+    "themeId": "saneamento-rural",
+    "description": "Um projeto de saneamento rural precisa funcionar no lugar certo e seguir em operação após a inauguração.",
+    "tags": [
+      "Esgotamento",
+      "Comunidades rurais",
+      "Manutenção"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Um serviço de saneamento acompanha a rotina de uma casa mesmo quando suas instalações ficam fora de vista."
+          },
+          {
+            "label": "Tema",
+            "text": "Nas comunidades rurais brasileiras, ampliar esse acesso exige soluções que funcionem em territórios com condições diversas de ocupação e disponibilidade de água."
+          },
+          {
+            "label": "Tese",
+            "text": "A adoção de projetos pouco ajustados ao local e a ausência de manutenção planejada dificultam a continuidade do serviço."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "A dispersão das moradias torna necessário avaliar alternativas para cada comunidade."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O Censo de 2022 do IBGE registra formas de esgotamento distintas no campo, entre elas fossas sépticas e soluções precárias. Em localidades afastadas, uma instalação domiciliar pode ser adequada, desde que sejam avaliadas a composição do solo, a localização dos poços e as condições para retirar o lodo com segurança."
+          },
+          {
+            "label": "Ligação",
+            "text": "Por isso, a tecnologia escolhida precisa partir de um diagnóstico do território."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "O funcionamento do sistema, por sua vez, depende de responsabilidades definidas depois da instalação."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O Programa Nacional de Saneamento Rural da Funasa integra infraestrutura, gestão e participação social. Sem um responsável pela inspeção, um problema pequeno pode persistir até que a família interrompa o uso do equipamento ou volte a recorrer a uma forma insegura de descarte."
+          },
+          {
+            "label": "Ligação",
+            "text": "Desse modo, organizar a manutenção é parte da universalização do serviço."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Logo, os municípios e os consórcios públicos de saneamento"
+          },
+          {
+            "label": "O que",
+            "text": "devem oferecer soluções de esgotamento adequadas às comunidades rurais e garantir sua operação,"
+          },
+          {
+            "label": "Como",
+            "text": "por meio de diagnósticos com moradores, assistência técnica para a instalação e contratos de manutenção,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para reduzir a exposição a esgoto sem tratamento e manter o atendimento ao longo do tempo."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "Os contratos devem indicar os prazos das inspeções e um canal local para solicitar reparos."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Por isso",
+        "use": "Extrai do exemplo a necessidade de diagnóstico territorial."
+      },
+      {
+        "term": "por sua vez",
+        "use": "Passa da instalação à manutenção."
+      },
+      {
+        "term": "Desse modo",
+        "use": "Liga a organização do serviço à continuidade do acesso."
+      },
+      {
+        "term": "Logo",
+        "use": "Retoma os dois argumentos para propor ação pública."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "IBGE — Censo 2022 e esgotamento rural",
+        "description": "O material apresenta as formas de esgotamento dos domicílios rurais brasileiros.",
+        "url": "https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/1cd893a10b3cabf31fc31e994531632f.pdf"
+      },
+      {
+        "title": "Funasa — Programa Nacional de Saneamento Rural",
+        "description": "O programa reúne soluções de infraestrutura, gestão e participação da comunidade.",
+        "url": "https://www.gov.br/funasa/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/programa-nacional-de-saneamento-rural"
+      }
+    ]
+  },
+  {
+    "id": "alimentacao-perto-de-casa",
+    "title": "A distância até o prato",
+    "topic": "Desafios para enfrentar a insegurança alimentar nas periferias brasileiras",
+    "category": "Direitos e inclusão",
+    "themeId": "inseguranca-alimentar",
+    "description": "A localização das feiras e a regularidade das refeições entram no debate sobre alimentação nas periferias.",
+    "tags": [
+      "Abastecimento",
+      "Periferias",
+      "Direito à alimentação"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "O preço de uma compra inclui o que se paga no caixa e, para quem mora longe do comércio, o custo de chegar até ele."
+          },
+          {
+            "label": "Tema",
+            "text": "Nas periferias brasileiras, a insegurança alimentar envolve tanto o orçamento das famílias quanto as condições de acesso a alimentos adequados perto de casa."
+          },
+          {
+            "label": "Tese",
+            "text": "Enfrentá-la exige melhorar o abastecimento de bairros pouco atendidos e garantir refeições regulares às pessoas em maior vulnerabilidade."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "A distância até pontos de venda de alimentos frescos pesa sobre as escolhas das famílias."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O manual da estratégia Alimenta Cidades descreve desertos alimentares como áreas onde é difícil encontrar alimentos in natura ou minimamente processados. Quando comprar frutas exige duas passagens de ônibus, a despesa extra pode inviabilizar a compra mesmo que o preço no mercado seja acessível."
+          },
+          {
+            "label": "Ligação",
+            "text": "Nesse contexto, aproximar a oferta reduz um custo que recai justamente sobre quem tem menos recursos."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Há, ainda, situações em que a renda é insuficiente até para comprar perto de casa."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O Programa Cozinha Solidária apoia iniciativas comunitárias que oferecem refeições gratuitas a pessoas em vulnerabilidade. Quando a oferta tem dias e locais previsíveis, as famílias podem contar com ela para atender parte de suas necessidades ao longo da semana."
+          },
+          {
+            "label": "Ligação",
+            "text": "A continuidade do serviço, portanto, é tão importante quanto sua abertura."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Diante disso, as prefeituras, com apoio das redes locais de segurança alimentar,"
+          },
+          {
+            "label": "O que",
+            "text": "devem ampliar os pontos de acesso a alimentos adequados nos bairros periféricos,"
+          },
+          {
+            "label": "Como",
+            "text": "instalando feiras em áreas com baixa oferta e firmando parcerias para o funcionamento regular de cozinhas solidárias,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para reduzir barreiras de deslocamento e garantir refeições a quem mais precisa."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "A escolha dos locais deve usar mapas de abastecimento e consultas a moradores sobre horários e acesso a pé."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Nesse contexto",
+        "use": "Liga o custo de deslocamento à desigualdade territorial."
+      },
+      {
+        "term": "ainda",
+        "use": "Acrescenta o obstáculo da renda insuficiente."
+      },
+      {
+        "term": "portanto",
+        "use": "Extrai da previsibilidade a importância da continuidade."
+      },
+      {
+        "term": "Diante disso",
+        "use": "Combina abastecimento territorial e apoio direto."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "MDS — Estratégia Alimenta Cidades",
+        "description": "O manual explica os desertos alimentares e como o mapeamento territorial orienta políticas de abastecimento.",
+        "url": "https://www.gov.br/mds/pt-br/acoes-e-programas/promocao-da-alimentacao-adequada-e-saudavel/alimenta-cidades/publicacoes/manual_de_implementacao_da_estrategia_alimenta_cidades.pdf"
+      },
+      {
+        "title": "MDS — Programa Cozinha Solidária",
+        "description": "O programa apoia o fornecimento comunitário de refeições gratuitas para pessoas em vulnerabilidade.",
+        "url": "https://www.gov.br/mds/pt-br/acoes-e-programas/acesso-a-alimentos-e-a-agua/programa-cozinha-solidaria/programa-cozinha-solidaria"
+      }
+    ]
+  },
+  {
+    "id": "sus-diferencas-visiveis",
+    "title": "Tornar a desigualdade visível",
+    "topic": "Desafios para garantir atendimento equitativo à população negra no SUS",
+    "category": "Saúde e bem-estar",
+    "themeId": "equidade-racial-no-sus",
+    "description": "O texto liga acolhimento, registros de raça ou cor e revisão de barreiras no SUS.",
+    "tags": [
+      "Equidade racial",
+      "Saúde pública",
+      "Acolhimento"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Uma consulta começa quando a equipe ouve o relato de quem procura ajuda e decide quais passos tomar a partir dele."
+          },
+          {
+            "label": "Tema",
+            "text": "No Sistema Único de Saúde, garantir atendimento equitativo à população negra exige reconhecer como o racismo pode afetar tanto esse encontro quanto o percurso até os serviços de referência."
+          },
+          {
+            "label": "Tese",
+            "text": "Para isso, é necessário revisar práticas de acolhimento e produzir dados que revelem diferenças no acesso."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "O modo como a equipe recebe uma queixa influencia a continuidade do atendimento."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "A Política Nacional de Saúde Integral da População Negra reconhece o racismo institucional como determinante das condições de saúde. Se uma profissional subestima a dor relatada por uma paciente negra devido a um estereótipo, a avaliação pode ser incompleta e a paciente pode hesitar em voltar ao serviço após a experiência."
+          },
+          {
+            "label": "Ligação",
+            "text": "A escuta cuidadosa e o registro das razões de cada encaminhamento ajudam a enfrentar esse tipo de desigualdade."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Outro obstáculo é a dificuldade de identificar padrões além de casos individuais."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "A política também orienta o uso de dados por raça ou cor na gestão. Se esse campo é ignorado no atendimento, a coordenação perde informação para avaliar se grupos com necessidades semelhantes esperam tempos diferentes pela mesma consulta. Com dados completos e protegidos, a investigação pode orientar a revisão do fluxo."
+          },
+          {
+            "label": "Ligação",
+            "text": "Assim, o registro serve a uma decisão concreta sobre o acesso."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Portanto, as secretarias municipais de saúde"
+          },
+          {
+            "label": "O que",
+            "text": "devem instituir rotinas de formação e monitoramento da equidade racial,"
+          },
+          {
+            "label": "Como",
+            "text": "com discussão de casos nas equipes e análise de encaminhamentos e tempos de espera por raça ou cor autodeclarada,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para identificar e corrigir barreiras no acolhimento e na continuidade do atendimento."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "Os resultados devem ser apresentados de forma agregada aos conselhos de saúde, sem identificar usuários."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Outro obstáculo",
+        "use": "Passa do encontro clínico à análise do serviço."
+      },
+      {
+        "term": "Assim",
+        "use": "Explica a função prática da coleta de dados."
+      },
+      {
+        "term": "Portanto",
+        "use": "Traduz acolhimento e monitoramento em uma proposta integrada."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "Política Nacional de Saúde Integral da População Negra",
+        "description": "A política reconhece o racismo institucional e propõe qualificar informações e práticas de gestão para promover equidade.",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/politica_nacional_saude_populacao_negra_3d.pdf"
+      },
+      {
+        "title": "Ministério da Saúde — Saúde Sem Racismo",
+        "description": "A página reúne ações do SUS para enfrentar desigualdades étnico-raciais no cuidado.",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-sem-racismo"
+      }
+    ]
+  },
+  {
+    "id": "ia-aprender-com-acesso",
+    "title": "Quem consegue praticar?",
+    "topic": "Desafios para o uso crítico da inteligência artificial na educação básica brasileira",
+    "category": "Educação",
+    "themeId": "ia-na-educacao",
+    "description": "O acesso desigual à internet e a coleta de dados também moldam o uso crítico da IA na escola.",
+    "tags": [
+      "Equidade digital",
+      "Privacidade",
+      "Ensino público"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Uma tarefa de casa pressupõe que o estudante tenha condições para praticar, consultar material e tirar dúvidas."
+          },
+          {
+            "label": "Tema",
+            "text": "Quando o exercício envolve inteligência artificial na educação básica brasileira, as condições incluem conexão, equipamento e proteção para os dados utilizados."
+          },
+          {
+            "label": "Tese",
+            "text": "Assim, ensinar o uso crítico da ferramenta exige oferecer oportunidades de prática na escola e estabelecer regras de privacidade."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Em primeiro plano, transferir toda atividade digital para casa pode reforçar diferenças entre estudantes."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "A Estratégia Nacional de Escolas Conectadas prevê internet de qualidade para uso pedagógico na rede pública. Em uma turma, quem dispõe de computador e conexão estável consegue comparar respostas e consultar várias fontes. Quem divide um celular e depende de dados móveis pode acabar fazendo apenas uma consulta rápida."
+          },
+          {
+            "label": "Ligação",
+            "text": "Por essa razão, atividades mediadas na escola ampliam a possibilidade de praticar a verificação."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "A proteção de dados, por sua vez, precisa entrar no planejamento dessas atividades."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "A Lei Geral de Proteção de Dados orienta que o tratamento de dados de crianças e adolescentes observe seu melhor interesse. Em um exercício de reescrita, um estudante pode inserir nomes e histórias familiares em um aplicativo sem compreender como as informações serão armazenadas. Trabalhar com exemplos fictícios permite discutir o funcionamento da ferramenta sem expor essas pessoas."
+          },
+          {
+            "label": "Ligação",
+            "text": "Esse cuidado torna a privacidade parte concreta do letramento digital."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Logo, as secretarias de educação"
+          },
+          {
+            "label": "O que",
+            "text": "devem organizar práticas supervisionadas de IA nas escolas públicas,"
+          },
+          {
+            "label": "Como",
+            "text": "com uso de equipamentos da rede, revisão de ferramentas e atividades de checagem baseadas em dados fictícios,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para garantir a participação dos estudantes e reduzir a exposição de informações pessoais."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "Antes de cada atividade, o professor deve explicar que dados podem ser inseridos e como verificar uma resposta."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Em primeiro plano",
+        "use": "Abre o argumento sobre igualdade de condições para praticar."
+      },
+      {
+        "term": "Por essa razão",
+        "use": "Relaciona a diferença entre domicílios à prática em sala."
+      },
+      {
+        "term": "por sua vez",
+        "use": "Introduz a privacidade como segundo eixo."
+      },
+      {
+        "term": "Logo",
+        "use": "Converte os dois eixos em uma proposta de organização da escola."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "Ministério das Comunicações — Estratégia Nacional de Escolas Conectadas",
+        "description": "A estratégia articula ações para universalizar a conectividade pedagógica nas escolas públicas de educação básica.",
+        "url": "https://www.gov.br/mcom/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/estrategia-nacional-de-escolas-conectadas-enec/estrategia-nacional-de-escolas-conectadas-enec"
+      },
+      {
+        "title": "ANPD — Dados de crianças e adolescentes",
+        "description": "O enunciado orienta a aplicação do artigo 14 da LGPD e prioriza o melhor interesse da criança e do adolescente.",
+        "url": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-divulga-enunciado-sobre-o-tratamento-de-dados-pessoais-de-criancas-e-adolescentes"
+      }
+    ]
+  },
+  {
+    "id": "clima-direito-a-sombra",
+    "title": "O direito à sombra",
+    "topic": "Caminhos para proteger populações vulneráveis de desastres climáticos no Brasil",
+    "category": "Meio ambiente",
+    "themeId": "justica-climatica",
+    "description": "O texto usa ondas de calor para mostrar como infraestrutura urbana e saúde se complementam.",
+    "tags": [
+      "Calor extremo",
+      "Arborização",
+      "Vulnerabilidade"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Em uma rua arborizada, esperar o ônibus sob a copa de uma árvore é diferente de passar o mesmo tempo junto a uma avenida sem sombra."
+          },
+          {
+            "label": "Tema",
+            "text": "Essa diferença de exposição ajuda a entender por que ondas de calor ameaçam de forma desigual as populações vulneráveis nas cidades brasileiras."
+          },
+          {
+            "label": "Tese",
+            "text": "Protegê-las requer distribuir melhor a infraestrutura de adaptação e organizar o cuidado nos períodos de risco elevado."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "A configuração dos espaços públicos determina parte do calor a que uma pessoa se expõe."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O Ministério do Meio Ambiente inclui a arborização entre as ações de adaptação urbana por seus efeitos sobre o sombreamento e as ilhas de calor. Uma praça arborizada distante, porém, oferece pouca proteção a quem passa diariamente por uma parada de ônibus sem cobertura."
+          },
+          {
+            "label": "Ligação",
+            "text": "Por isso, os pontos de maior circulação cotidiana precisam orientar a escolha dos locais que receberão sombra."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Já o atendimento durante uma onda de calor depende de reconhecer quais territórios precisam de ação imediata."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O painel do Ministério da Saúde relaciona excesso de calor a vulnerabilidade socioeconômica. Com esse tipo de informação, equipes locais podem planejar visitas a moradores em maior risco e divulgar pontos de apoio acessíveis durante episódios severos."
+          },
+          {
+            "label": "Ligação",
+            "text": "Dessa forma, o monitoramento se traduz em cuidado antes do agravamento dos casos."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Assim, as prefeituras, com apoio das equipes de atenção primária,"
+          },
+          {
+            "label": "O que",
+            "text": "devem adotar planos de proteção ao calor nos bairros mais expostos,"
+          },
+          {
+            "label": "Como",
+            "text": "mediante mapas de risco, arborização de rotas de pedestres e abertura de pontos de apoio em alertas severos,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para diminuir a exposição no dia a dia e atender moradores durante emergências."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "Os pontos de apoio devem oferecer água, área sombreada e horários divulgados por rádios e unidades de saúde."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Por isso",
+        "use": "Conclui por que o cotidiano deve orientar a escolha dos locais de intervenção."
+      },
+      {
+        "term": "Já",
+        "use": "Separa adaptação permanente da resposta durante a onda de calor."
+      },
+      {
+        "term": "Dessa forma",
+        "use": "Mostra a finalidade do monitoramento."
+      },
+      {
+        "term": "Assim",
+        "use": "Reúne infraestrutura urbana e cuidado imediato."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "MMA — Iniciativa ArborizaCidades",
+        "description": "O ministério relaciona a cobertura arbórea ao sombreamento e à redução das ilhas de calor.",
+        "url": "https://www.gov.br/mma/pt-br/noticias/mma-divulga-o-resultado-definitivo-do-edital-arborizacidades-com-dez-municipios-selecionados/"
+      },
+      {
+        "title": "Ministério da Saúde — Painel de excesso de calor",
+        "description": "O painel combina intensidade do calor e vulnerabilidade socioeconômica para identificar territórios com maior risco.",
+        "url": "https://miniapps.saude.gov.br/guia-clima/painel-de-excesso-de-calor"
+      }
+    ]
+  },
+  {
+    "id": "apostas-uma-conta-incompleta",
+    "title": "Uma conta incompleta",
+    "topic": "Desafios para prevenir danos associados às apostas digitais no Brasil",
+    "category": "Saúde e bem-estar",
+    "themeId": "apostas-digitais",
+    "description": "O recorte aproxima educação midiática e financeira para desmontar a promessa de dinheiro fácil.",
+    "tags": [
+      "Educação financeira",
+      "Publicidade",
+      "Prevenção"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Quando uma história de enriquecimento começa pelo prêmio, as tentativas anteriores e o dinheiro gasto podem desaparecer do relato."
+          },
+          {
+            "label": "Tema",
+            "text": "No Brasil, esse modo de apresentar ganhos ajuda a entender por que as apostas digitais podem parecer uma saída para dificuldades financeiras."
+          },
+          {
+            "label": "Tese",
+            "text": "Prevenir seus danos exige examinar o apelo da publicidade e ensinar a avaliar riscos para o orçamento."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Relatos de vitória atraem atenção justamente porque isolam um resultado favorável."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "A Organização Mundial da Saúde identifica a promoção comercial como um fator de normalização das apostas. Em um vídeo de ganhos, a seleção das cenas pode destacar uma vitória e deixar de mostrar as perdas ocorridas em outras rodadas. Dessa seleção, o público pode concluir que o resultado exibido é comum."
+          },
+          {
+            "label": "Ligação",
+            "text": "Por isso, a leitura crítica da publicidade deve perguntar quais informações ficaram fora da narrativa."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Além dessa leitura, é necessário entender o efeito de perdas repetidas sobre o dinheiro disponível."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O programa Aprender Valor, do Banco Central, integra educação financeira às escolas. Em uma atividade de Matemática, por exemplo, a turma pode comparar uma série fictícia de perdas e ganhos com as despesas de um orçamento familiar. O exercício mostra como desembolsos pequenos, quando repetidos, consomem recursos reservados para outras necessidades."
+          },
+          {
+            "label": "Ligação",
+            "text": "Assim, calcular o resultado acumulado ajuda a avaliar uma promessa de ganho."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Portanto, as secretarias de educação, em parceria com as redes de saúde,"
+          },
+          {
+            "label": "O que",
+            "text": "devem promover atividades de prevenção aos danos das apostas,"
+          },
+          {
+            "label": "Como",
+            "text": "com análise de publicidade fictícia e exercícios de probabilidade e orçamento nas aulas,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para que estudantes reconheçam promessas enganosas e compreendam o efeito de perdas sucessivas."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "Os materiais devem terminar com a indicação dos canais de acolhimento do SUS para alunos e familiares afetados."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Por isso",
+        "use": "Liga a seleção de ganhos à necessidade de leitura crítica."
+      },
+      {
+        "term": "Além dessa leitura",
+        "use": "Retoma o primeiro argumento e introduz educação financeira."
+      },
+      {
+        "term": "Assim",
+        "use": "Mostra a consequência de calcular valores acumulados."
+      },
+      {
+        "term": "Portanto",
+        "use": "Reúne análise de publicidade e orçamento na proposta."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "OMS — Gambling",
+        "description": "A ficha relaciona promoção comercial, normalização das apostas e prevenção de danos.",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/gambling"
+      },
+      {
+        "title": "Banco Central — Aprender Valor",
+        "description": "O programa oferece formação e recursos para trabalhar letramento financeiro no ensino fundamental.",
+        "url": "https://www.bcb.gov.br/meubc/faqs/s/aprender-valor"
+      }
+    ]
+  },
+  {
+    "id": "acessibilidade-entender-e-prosseguir",
+    "title": "Entender para poder prosseguir",
+    "topic": "Desafios para garantir a acessibilidade de pessoas com deficiência nos serviços públicos digitais",
+    "category": "Direitos e inclusão",
+    "themeId": "acessibilidade-digital",
+    "description": "Acessibilidade também depende de instruções compreensíveis e caminhos alternativos para entrar no serviço.",
+    "tags": [
+      "Linguagem simples",
+      "Autenticação",
+      "Inclusão digital"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Uma instrução pública tem valor prático quando ajuda alguém a saber o que fazer em seguida."
+          },
+          {
+            "label": "Tema",
+            "text": "Nos serviços públicos digitais brasileiros, pessoas com deficiência podem encontrar barreiras já na leitura das instruções ou no momento de confirmar a identidade."
+          },
+          {
+            "label": "Tese",
+            "text": "Garantir seu acesso exige linguagem compreensível e formas de autenticação que acolham diferentes necessidades."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Uma mensagem vaga pode impedir a correção de um erro simples."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "A Lei do Governo Digital inclui linguagem clara e acessibilidade entre suas diretrizes. Em um pedido de benefício, a mensagem “dados inconsistentes” deixa em aberto se o documento está vencido, se falta um anexo ou se houve erro de digitação. Para uma pessoa com deficiência intelectual, uma orientação direta com a indicação do campo a corrigir pode tornar a etapa realizável com autonomia."
+          },
+          {
+            "label": "Ligação",
+            "text": "Logo, escrever instruções precisas também é uma medida de acessibilidade."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Há ainda barreiras na própria entrada do sistema."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "As diretrizes de acessibilidade da Web do W3C tratam de formas de autenticação que evitem impor testes cognitivos sem alternativa ou apoio. Se um portal bloqueia a colagem de códigos, por exemplo, o usuário pode ter de memorizar e transcrever uma sequência que recebeu em outro aplicativo."
+          },
+          {
+            "label": "Ligação",
+            "text": "Permitir recursos de apoio nessa etapa amplia as possibilidades de acesso ao serviço."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Por conseguinte, os órgãos federais responsáveis pelos portais de atendimento"
+          },
+          {
+            "label": "O que",
+            "text": "devem revisar textos e etapas de autenticação dos serviços digitais,"
+          },
+          {
+            "label": "Como",
+            "text": "mediante testes com pessoas com deficiência, instruções de correção junto aos campos e oferta de métodos de entrada acessíveis,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para que os usuários consigam iniciar e concluir pedidos com autonomia."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "Os testes devem incluir tarefas de recuperação de acesso, como preencher um código recebido por outro canal."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Logo",
+        "use": "Explica por que a redação da interface faz parte da acessibilidade."
+      },
+      {
+        "term": "Há ainda",
+        "use": "Introduz a segunda barreira sem abandonar o mesmo recorte."
+      },
+      {
+        "term": "por exemplo",
+        "use": "Transforma o requisito de autenticação em uma situação de uso."
+      },
+      {
+        "term": "Por conseguinte",
+        "use": "Leva os dois problemas à intervenção proposta."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "Lei nº 14.129/2021 — Governo Digital",
+        "description": "Entre suas diretrizes, a lei prevê linguagem clara e acessibilidade para pessoas com deficiência.",
+        "url": "https://www2.camara.leg.br/legin/fed/lei/2021/lei-14129-29-marco-2021-791203-normaatualizada-pl.html"
+      },
+      {
+        "title": "W3C — Autenticação acessível",
+        "description": "O critério prevê alternativas ou mecanismos de assistência quando a autenticação exige tarefas cognitivas.",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum.html"
+      }
+    ]
+  },
+  {
+    "id": "escola-pertencer-para-aprender",
+    "title": "Pertencer para voltar a aprender",
+    "topic": "Desafios para promover a saúde mental dos estudantes na escola brasileira",
+    "category": "Saúde e bem-estar",
+    "themeId": "saude-mental-na-escola",
+    "description": "A volta às aulas depois de uma crise mostra por que a escola precisa reconstruir vínculos junto com a aprendizagem.",
+    "tags": [
+      "Pertencimento",
+      "Retomada escolar",
+      "Participação"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Quando as aulas voltam após uma enchente ou outra emergência, o calendário pode ser retomado antes que os estudantes recuperem sua rotina."
+          },
+          {
+            "label": "Tema",
+            "text": "Na escola brasileira, o período que sucede crises revela a importância de promover saúde mental junto com a recomposição das aprendizagens."
+          },
+          {
+            "label": "Tese",
+            "text": "Para isso, é preciso planejar o retorno conforme as condições da turma e criar espaços para que os estudantes participem das decisões que afetam seu cotidiano."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "A pressão para repor conteúdos rapidamente pode dificultar a retomada de quem passou por perdas ou mudanças."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "Em material sobre crises e emergências, o UNICEF propõe atividades de escuta e diálogo no retorno à escola. Se a primeira semana for dedicada somente a provas e cobranças, a equipe terá poucas oportunidades de entender por que parte da turma ainda enfrenta dificuldades de concentração ou de frequência."
+          },
+          {
+            "label": "Ligação",
+            "text": "Por isso, uma escuta inicial ajuda a definir prioridades pedagógicas e a reconhecer quando um estudante precisa de apoio adicional."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Além do planejamento das aulas, o sentimento de pertencimento depende da participação na comunidade escolar."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O Programa Saúde na Escola reúne ações de promoção da saúde mental e da cultura de paz. Dentro desse trabalho, um conselho de turma pode levantar obstáculos ao retorno e negociar com a gestão formas de acolher colegas que chegam depois ou que perderam materiais."
+          },
+          {
+            "label": "Ligação",
+            "text": "Assim, a retomada inclui os estudantes nas decisões sobre a rotina que precisam reconstruir."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Por conseguinte, as secretarias de educação, em articulação com as equipes do Programa Saúde na Escola,"
+          },
+          {
+            "label": "O que",
+            "text": "devem adotar protocolos de retomada após emergências,"
+          },
+          {
+            "label": "Como",
+            "text": "com escuta nas primeiras semanas, reorganização gradual das avaliações e participação das turmas no planejamento,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para favorecer o pertencimento e a continuidade dos estudos."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "O plano deve reservar momentos de acompanhamento individual para estudantes com faltas recorrentes."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Por isso",
+        "use": "Liga a primeira escuta ao planejamento das aulas."
+      },
+      {
+        "term": "Além do planejamento das aulas",
+        "use": "Amplia o argumento para a participação da turma."
+      },
+      {
+        "term": "Assim",
+        "use": "Explica como participar fortalece a retomada."
+      },
+      {
+        "term": "Por conseguinte",
+        "use": "Integra as duas ações no protocolo."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "UNICEF — Busca Ativa Escolar em crises e emergências",
+        "description": "O material propõe acolhimento, escuta e diálogo como parte da resposta escolar a emergências.",
+        "url": "https://www.unicef.org/brazil/innocenti/media/32161/file/BAE_04_crises_e_emergencias_%20Como%20Implementar.pdf"
+      },
+      {
+        "title": "Ministério da Saúde — Programa Saúde na Escola",
+        "description": "As ações do programa incluem promoção da saúde mental, da cultura de paz e dos direitos humanos.",
+        "url": "https://www.gov.br/saude/pt-br/composicao/saps/pse/faq/quais-sao-as-acoes-do"
+      }
+    ]
+  },
+  {
+    "id": "alimentos-da-cozinha-ao-prato",
+    "title": "O que sobra no prato",
+    "topic": "Caminhos para reduzir o desperdício de alimentos no Brasil",
+    "category": "Meio ambiente",
+    "themeId": "desperdicio-de-alimentos",
+    "description": "A alimentação escolar oferece um exemplo de prevenção do desperdício com medição e participação.",
+    "tags": [
+      "Alimentação escolar",
+      "Consumo",
+      "Educação alimentar"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Em Ilha das Flores, o cineasta Jorge Furtado segue a trajetória de um tomate para revelar o que acontece depois que um alimento perde valor para quem o comprou."
+          },
+          {
+            "label": "Tema",
+            "text": "O descarte de comida no Brasil pode ser enfrentado antes dessa etapa, inclusive em espaços coletivos como as escolas públicas."
+          },
+          {
+            "label": "Tese",
+            "text": "Nesse recorte, a prevenção depende de ajustar o preparo à demanda e incluir os estudantes nas escolhas ligadas à alimentação."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Uma cozinha que acompanha quanto serve e quanto sobra pode identificar as origens de parte do desperdício."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O Índice de Desperdício de Alimentos do Programa das Nações Unidas para o Meio Ambiente estima o descarte em diferentes setores, incluindo o de serviços de alimentação. Na escola, separar o que ficou nas panelas do que voltou nos pratos ajuda a distinguir preparo excessivo de baixa aceitação da refeição."
+          },
+          {
+            "label": "Ligação",
+            "text": "A distinção permite corrigir quantidades ou rever a preparação conforme a causa observada."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "O interesse dos estudantes pelo cardápio também influencia o aproveitamento das refeições."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O Programa Nacional de Alimentação Escolar prevê ações de educação alimentar e testes de aceitabilidade. Uma conversa sobre os ingredientes, combinada a uma prova de novas preparações, ajuda a equipe de nutrição a identificar se a rejeição está ligada ao sabor, à textura ou à falta de familiaridade."
+          },
+          {
+            "label": "Ligação",
+            "text": "Dessa forma, a escola pode ajustar o cardápio preservando a qualidade nutricional."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Para isso, as secretarias de educação, com as equipes de nutrição escolar,"
+          },
+          {
+            "label": "O que",
+            "text": "devem implantar rotinas de prevenção do desperdício nas cozinhas das escolas,"
+          },
+          {
+            "label": "Como",
+            "text": "mediante registro de sobras, testes de aceitabilidade e atividades sobre os alimentos servidos,"
+          },
+          {
+            "label": "Para quê",
+            "text": "a fim de adequar o preparo à demanda e melhorar o aproveitamento das refeições."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "O registro deve separar sobras do preparo e restos deixados nos pratos para orientar decisões diferentes."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "depois que",
+        "use": "Organiza a referência ao filme em uma sequência temporal."
+      },
+      {
+        "term": "também",
+        "use": "Adiciona a aceitação ao argumento de planejamento."
+      },
+      {
+        "term": "Dessa forma",
+        "use": "Mostra o efeito da participação no cardápio."
+      },
+      {
+        "term": "Para isso",
+        "use": "Retoma a necessidade de reduzir o desperdício na escola."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "Jorge Furtado — Ilha das Flores",
+        "description": "O curta acompanha um tomate até seu descarte e expõe relações entre consumo e desigualdade.",
+        "url": "https://www.casacinepoa.com.br/noticias/2023-08-04-ilha-das-flores-no-telecine-cult/"
+      },
+      {
+        "title": "PNUMA e WRAP — Food Waste Index Report 2024",
+        "description": "A WRAP, coautora do estudo, apresenta estimativas do descarte em domicílios, no varejo e em serviços de alimentação.",
+        "url": "https://www.wrap.ngo/media-centre/press-releases/food-waste-contributes-10-percent-global-emissions"
+      },
+      {
+        "title": "FNDE — Alimentação e Nutrição no PNAE",
+        "description": "O programa inclui planejamento de cardápios, educação alimentar e testes de aceitabilidade.",
+        "url": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/pnae/pnae-alimentacao-e-nutricao"
+      }
+    ]
+  },
+  {
+    "id": "mobilidade-antes-da-catraca",
+    "title": "Antes da catraca",
+    "topic": "Desafios para garantir o acesso à mobilidade urbana nas periferias brasileiras",
+    "category": "Direitos e inclusão",
+    "themeId": "mobilidade-urbana",
+    "description": "Calçadas e travessias são parte da rede de transporte para quem precisa caminhar até o ônibus.",
+    "tags": [
+      "Caminhabilidade",
+      "Acessibilidade",
+      "Transporte público"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Uma viagem de ônibus começa na rua onde o passageiro sai de casa e termina no último trecho que percorre a pé."
+          },
+          {
+            "label": "Tema",
+            "text": "Nas periferias brasileiras, o acesso à mobilidade pode ser limitado quando o caminho até o transporte coletivo apresenta barreiras."
+          },
+          {
+            "label": "Tese",
+            "text": "Para integrar esses bairros à cidade, é necessário planejar os percursos de pedestres e observar quem encontra mais dificuldades para atravessá-los."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "A qualidade da caminhada até o ponto altera a utilidade da linha de ônibus."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "A Política Nacional de Mobilidade Urbana dá prioridade aos modos não motorizados sobre os motorizados. Apesar disso, uma linha que passa perto de uma escola ou unidade de saúde pode ser pouco acessível se o caminho entre o ponto e a entrada atravessa uma avenida sem faixa de pedestres. O serviço existe, mas o trajeto exige um desvio ou uma travessia arriscada."
+          },
+          {
+            "label": "Ligação",
+            "text": "Esse caso mostra por que o planejamento precisa abranger o percurso inteiro."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Além disso, uma barreira aparentemente pequena tem efeitos diferentes conforme a pessoa que encontra o obstáculo."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "Um estudo do Ipea sobre mobilidade ativa registra desigualdades nas formas de deslocamento a pé e por bicicleta. No entorno de uma parada, um degrau na calçada pode ser um incômodo para quem anda sem apoio e impedir a passagem de quem usa cadeira de rodas."
+          },
+          {
+            "label": "Ligação",
+            "text": "Avaliar o caminho com diferentes moradores torna essas dificuldades visíveis antes de uma obra."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Por isso, as secretarias municipais de mobilidade e de obras"
+          },
+          {
+            "label": "O que",
+            "text": "devem recuperar os percursos a pé que ligam áreas periféricas ao transporte coletivo,"
+          },
+          {
+            "label": "Como",
+            "text": "com vistorias participativas, melhoria das calçadas e instalação de travessias seguras,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para que moradores com diferentes condições de locomoção consigam usar a rede."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "A primeira etapa deve priorizar caminhos entre pontos de ônibus, escolas e unidades de saúde."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Apesar disso",
+        "use": "Contrasta uma prioridade legal com uma barreira de infraestrutura."
+      },
+      {
+        "term": "Além disso",
+        "use": "Amplia a análise para os diferentes efeitos da mesma barreira."
+      },
+      {
+        "term": "Por isso",
+        "use": "Leva a discussão sobre percursos e acessibilidade à intervenção."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "Lei nº 12.587/2012 — Política Nacional de Mobilidade Urbana",
+        "description": "A legislação prioriza deslocamentos não motorizados e transporte público coletivo.",
+        "url": "https://legis.senado.gov.br/norma/589510/publicacao/34619104"
+      },
+      {
+        "title": "Ipea — Tendências e desigualdades da mobilidade urbana ativa",
+        "description": "O estudo discute diferenças nas viagens a pé e de bicicleta no Brasil.",
+        "url": "https://repositorio.ipea.gov.br/bitstream/11058/14341/1/TD_3024_web.pdf"
+      }
+    ]
+  },
+  {
+    "id": "protecao-digital-depois-da-denuncia",
+    "title": "O que acontece depois da denúncia?",
+    "topic": "Desafios para a proteção de crianças e adolescentes no ambiente digital brasileiro",
+    "category": "Tecnologia e mídia",
+    "themeId": "protecao-digital-de-criancas",
+    "description": "O texto acompanha a resposta a uma violação on-line entre plataforma e rede de proteção.",
+    "tags": [
+      "Denúncia",
+      "Moderação",
+      "Rede de proteção"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Em um serviço digital, tocar em um botão pode enviar uma mensagem, comprar um produto ou pedir ajuda."
+          },
+          {
+            "label": "Tema",
+            "text": "Quando uma criança ou um adolescente denuncia uma violação no ambiente digital brasileiro, o efeito do pedido depende do que acontece nas etapas seguintes."
+          },
+          {
+            "label": "Tese",
+            "text": "A proteção requer canais compreensíveis de denúncia e articulação entre as plataformas e a rede pública de atendimento."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "O primeiro obstáculo está no caminho para relatar uma ocorrência."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O guia da Agência Nacional de Proteção de Dados sobre o ECA Digital orienta fornecedores quanto a deveres de proteção e moderação. Se o botão de denúncia está escondido e o formulário usa categorias difíceis de distinguir, uma pessoa jovem pode abandonar o relato mesmo quando reconhece que houve abuso."
+          },
+          {
+            "label": "Ligação",
+            "text": "Por isso, instruções curtas e acessíveis ajudam a transformar a percepção de um risco em pedido de apoio."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Em situações graves, receber o relato precisa dar início a uma resposta organizada."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O Ministério da Justiça regulamentou o Centro Nacional de Triagem de Notificações para encaminhar às autoridades competentes relatos de plataformas sobre determinadas violações. Um protocolo com responsabilidades definidas ajuda a evitar que o caso se perca na passagem entre a empresa e o órgão responsável pela proteção."
+          },
+          {
+            "label": "Ligação",
+            "text": "Com isso, a comunicação pode favorecer uma resposta mais rápida sem multiplicar a exposição do relato."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Diante desse cenário, a Agência Nacional de Proteção de Dados e o Ministério da Justiça"
+          },
+          {
+            "label": "O que",
+            "text": "devem acompanhar a qualidade dos canais de denúncia e dos encaminhamentos previstos no ECA Digital,"
+          },
+          {
+            "label": "Como",
+            "text": "mediante testes de usabilidade, fiscalização dos fluxos e orientação aos fornecedores,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para reduzir o abandono das denúncias e acelerar o atendimento de ocorrências graves."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "Os testes devem usar situações fictícias e verificar se a pessoa recebe confirmação do envio em linguagem adequada à sua idade."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Por isso",
+        "use": "Relaciona a dificuldade de relatar a necessidade de instruções claras."
+      },
+      {
+        "term": "Em situações graves",
+        "use": "Delimita quando entra a rede de proteção."
+      },
+      {
+        "term": "Com isso",
+        "use": "Explica o efeito do fluxo sobre a resposta."
+      },
+      {
+        "term": "Diante desse cenário",
+        "use": "Reúne os obstáculos nas duas etapas da denúncia."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "ANPD — Obrigações das plataformas no ECA Digital",
+        "description": "O guia apresenta deveres de proteção e medidas de prevenção e moderação aplicáveis a fornecedores.",
+        "url": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-guia-que-esclarece-quem-deve-cumprir-e-quais-sao-as-responsabilidades-das-plataformas-na-protecao-de-criancas-e-adolescentes"
+      },
+      {
+        "title": "Ministério da Justiça — Triagem de notificações",
+        "description": "O ministério explica o funcionamento do centro que recebe e encaminha notificações de plataformas sobre determinadas violações.",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/noticias/mjsp-regulamenta-notificacao-de-crimes-contra-criancas-em-plataformas-digitais"
+      }
+    ]
+  },
+  {
+    "id": "eja-o-saber-que-ja-chega",
+    "title": "O saber que já chega à escola",
+    "topic": "Desafios para a permanência de estudantes na educação de jovens e adultos no Brasil",
+    "category": "Educação",
+    "themeId": "permanencia-na-eja",
+    "description": "O currículo e a avaliação podem aproximar a sala de aula da experiência de quem volta a estudar.",
+    "tags": [
+      "Currículo",
+      "Paulo Freire",
+      "Educação de adultos"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Uma pessoa pode chegar à escola sabendo ler o ritmo de uma feira ou calcular a quantidade de material para uma obra, mesmo sem ter concluído a educação básica."
+          },
+          {
+            "label": "Tema",
+            "text": "Na educação de jovens e adultos no Brasil, a permanência também depende de como a escola recebe esses conhecimentos."
+          },
+          {
+            "label": "Tese",
+            "text": "Currículos desligados da experiência dos estudantes e avaliações que pouco orientam o progresso dificultam a construção desse vínculo."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Quando o ensino ignora o que a turma já sabe, a volta à escola pode parecer um recomeço sem relação com a vida fora dela."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "Em A importância do ato de ler, Paulo Freire relaciona a leitura das palavras à interpretação que a pessoa já faz do mundo. Uma aula de matemática pode partir dos cálculos de uma obra para introduzir unidades de medida e discutir margens de erro. A experiência prática, nesse caso, oferece uma pergunta que o conhecimento escolar ajuda a responder."
+          },
+          {
+            "label": "Ligação",
+            "text": "Com isso, fica mais claro por que vale a pena continuar aprendendo."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "A forma de avaliar também pode aproximar o estudante de seus objetivos."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "As diretrizes do Conselho Nacional de Educação para a EJA preveem o aproveitamento de saberes adquiridos em práticas sociais e de trabalho. Em um projeto escrito, a devolutiva sobre o que melhorou entre duas versões ajuda a pessoa a identificar suas conquistas e o próximo passo."
+          },
+          {
+            "label": "Ligação",
+            "text": "Assim, a avaliação pode indicar um percurso de aprendizagem em vez de apenas registrar uma nota."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Para favorecer a permanência, as secretarias de educação"
+          },
+          {
+            "label": "O que",
+            "text": "devem apoiar currículos contextualizados nas turmas de EJA,"
+          },
+          {
+            "label": "Como",
+            "text": "com formação docente para criar projetos a partir das experiências dos estudantes e acompanhar seus avanços,"
+          },
+          {
+            "label": "Para quê",
+            "text": "a fim de fortalecer a participação e a continuidade nos estudos."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "Cada projeto deve prever uma devolutiva individual com um objetivo de aprendizagem para a etapa seguinte."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "nesse caso",
+        "use": "Explica como a experiência de trabalho funciona no exemplo de matemática."
+      },
+      {
+        "term": "Com isso",
+        "use": "Liga a aplicação do conhecimento à motivação para continuar."
+      },
+      {
+        "term": "também",
+        "use": "Introduz a avaliação como segundo argumento."
+      },
+      {
+        "term": "Assim",
+        "use": "Conclui como a devolutiva pode orientar o percurso de aprendizagem."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "Paulo Freire — A importância do ato de ler",
+        "description": "O texto articula a leitura da palavra à interpretação crítica da realidade vivida.",
+        "url": "https://www.gepec.ufscar.br/publicacoes/livros-e-colecoes/paulo-freire/a-importancia-do-ato-de-ler.pdf"
+      },
+      {
+        "title": "Conselho Nacional de Educação — Resolução CNE/CEB nº 3/2025",
+        "description": "As diretrizes da EJA incluem formação docente e aproveitamento de saberes adquiridos em práticas sociais e de trabalho.",
+        "url": "https://dgui.cps.sp.gov.br/dgui_atos_normativos/cne-ceb-03/"
+      }
+    ]
+  },
+  {
+    "id": "saneamento-agua-chegar-com-qualidade",
+    "title": "Da captação à água segura",
+    "topic": "Caminhos para ampliar o acesso ao saneamento básico nas comunidades rurais brasileiras",
+    "category": "Meio ambiente",
+    "themeId": "saneamento-rural",
+    "description": "O abastecimento rural exige soluções para a falta de água e vigilância sobre a qualidade do que chega às casas.",
+    "tags": [
+      "Abastecimento rural",
+      "Água potável",
+      "Vigilância"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Em Saneamento Básico, o Filme, de Jorge Furtado, uma comunidade do interior precisa improvisar para viabilizar uma obra de esgoto."
+          },
+          {
+            "label": "Tema",
+            "text": "A ficção chama atenção para a dificuldade de adaptar a ação pública às necessidades do campo, dificuldade que também aparece no abastecimento de água das comunidades rurais brasileiras."
+          },
+          {
+            "label": "Tese",
+            "text": "Nesse recorte, ampliar o saneamento exige oferecer fontes adequadas às condições locais e acompanhar a qualidade da água distribuída."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "A irregularidade do abastecimento impõe uma rotina de incerteza a famílias que dependem de poucas fontes."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O Programa Cisternas apoia tecnologias sociais de acesso à água em comunidades rurais atingidas pela seca ou pela falta de abastecimento regular. Em localidades onde a chuva se concentra em poucos meses, a captação e o armazenamento podem aumentar o acesso, desde que sejam planejados considerando o período seco e as necessidades das famílias."
+          },
+          {
+            "label": "Ligação",
+            "text": "Dessa maneira, o diagnóstico local orienta a escolha da estrutura."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "A disponibilidade de água, entretanto, precisa vir acompanhada de controle de qualidade."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "A norma de potabilidade do Ministério da Saúde prevê vigilância da água distribuída coletivamente, inclusive por soluções alternativas. Se a coleta de amostras for esporádica e não houver resposta a alterações, problemas em uma fonte comunitária podem persistir sem que os moradores recebam orientação."
+          },
+          {
+            "label": "Ligação",
+            "text": "Por isso, a vigilância deve acompanhar o serviço de abastecimento."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Logo, os municípios, com apoio das secretarias estaduais de saúde e dos programas federais,"
+          },
+          {
+            "label": "O que",
+            "text": "devem ampliar o abastecimento rural e sua vigilância,"
+          },
+          {
+            "label": "Como",
+            "text": "por meio de projetos adequados às comunidades e de coleta programada de amostras nas fontes coletivas,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para garantir água em quantidade e qualidade adequadas às famílias."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "Os resultados das análises devem ser comunicados aos moradores em linguagem clara, com indicação de quem responde por correções."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "Dessa maneira",
+        "use": "Conecta a diferença entre territórios à escolha da estrutura."
+      },
+      {
+        "term": "entretanto",
+        "use": "Expõe a condição de qualidade após ampliar a oferta."
+      },
+      {
+        "term": "Por isso",
+        "use": "Liga a análise da qualidade ao funcionamento permanente do serviço."
+      },
+      {
+        "term": "Logo",
+        "use": "Reúne oferta e vigilância na proposta."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "Jorge Furtado — Saneamento Básico, o Filme",
+        "description": "Na ficção, moradores de Linha Cristal mobilizam a comunidade em torno de uma demanda por esgotamento sanitário.",
+        "url": "https://www.casacinepoa.com.br/filmes/saneamento-b%C3%A1sico-o-filme/"
+      },
+      {
+        "title": "MDS — Programa Cisternas",
+        "description": "O programa apoia tecnologias sociais de acesso à água para famílias e equipamentos públicos rurais.",
+        "url": "https://www.gov.br/mds/pt-br/acoes-e-programas/acesso-a-alimentos-e-a-agua/programa-cisternas/programa-cisternas/"
+      },
+      {
+        "title": "Ministério da Saúde — Portaria GM/MS nº 888/2021",
+        "description": "O texto prevê controle e vigilância da água destinada ao consumo humano em soluções coletivas de abastecimento.",
+        "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2021/prt0888_24_05_2021_rep.html"
+      }
+    ]
+  },
+  {
+    "id": "alimentacao-quando-o-apoio-chega",
+    "title": "Quando o apoio chega",
+    "topic": "Desafios para enfrentar a insegurança alimentar nas periferias brasileiras",
+    "category": "Direitos e inclusão",
+    "themeId": "inseguranca-alimentar",
+    "description": "O texto acompanha a identificação de famílias em risco até a oferta regular de alimentos.",
+    "tags": [
+      "Assistência social",
+      "Agricultura familiar",
+      "Abastecimento"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "Em Quarto de despejo, Carolina Maria de Jesus registra o esforço cotidiano para conseguir comida e sustentar a família na favela do Canindé, em São Paulo."
+          },
+          {
+            "label": "Tema",
+            "text": "O diário ajuda a compreender a dimensão da insegurança alimentar nas periferias brasileiras, pois a dificuldade envolve saber se haverá comida nos dias seguintes."
+          },
+          {
+            "label": "Tese",
+            "text": "Enfrentar essa incerteza exige identificar cedo as famílias em risco e garantir que o apoio chegue com regularidade."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Parte das privações alimentares pode permanecer invisível para os serviços públicos."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O Protocolo Brasil Sem Fome articula saúde e assistência social para identificar e atender famílias em risco. Uma unidade de saúde pode, por exemplo, perceber em uma consulta que uma família reduziu a variedade das refeições por falta de dinheiro e acionar o acompanhamento no território antes que a situação se agrave."
+          },
+          {
+            "label": "Ligação",
+            "text": "Assim, a triagem dá início ao cuidado quando vem acompanhada de encaminhamento."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "Identificar a necessidade, contudo, só tem efeito se houver resposta disponível."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O Programa de Aquisição de Alimentos compra produtos da agricultura familiar e os destina a instituições que atendem pessoas vulneráveis. A organização de entregas periódicas permite que uma cozinha comunitária planeje o cardápio e ofereça refeições ao longo do mês."
+          },
+          {
+            "label": "Ligação",
+            "text": "A regularidade da distribuição aproxima a política da necessidade diária das famílias."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Diante disso, as prefeituras, em parceria com as equipes de saúde e assistência social,"
+          },
+          {
+            "label": "O que",
+            "text": "devem estabelecer fluxos locais de identificação e apoio alimentar nas periferias,"
+          },
+          {
+            "label": "Como",
+            "text": "com triagem nas unidades básicas, encaminhamento à rede de assistência e calendário de abastecimento dos equipamentos públicos,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para que famílias em risco recebam apoio antes que a privação se agrave."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "As equipes responsáveis devem acompanhar a efetivação do primeiro atendimento e revisar a oferta quando houver filas recorrentes."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "por exemplo",
+        "use": "Concretiza o funcionamento da triagem em uma consulta."
+      },
+      {
+        "term": "Assim",
+        "use": "Liga a identificação ao início do atendimento."
+      },
+      {
+        "term": "contudo",
+        "use": "Mostra a necessidade de uma oferta após o encaminhamento."
+      },
+      {
+        "term": "Diante disso",
+        "use": "Transforma o percurso do diagnóstico à distribuição em intervenção."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "Carolina Maria de Jesus — Quarto de despejo",
+        "description": "O diário retrata as privações e as estratégias de sobrevivência vividas pela autora na favela do Canindé.",
+        "url": "https://bibliotecacircula.prefeitura.sp.gov.br/pesquisa/titulo.jsf?codigo=500295"
+      },
+      {
+        "title": "MDS — Protocolo Brasil Sem Fome",
+        "description": "O protocolo integra triagem, busca ativa, atendimento e acompanhamento das famílias em maior risco.",
+        "url": "https://www.gov.br/mds/pt-br/Sisan/brasil-sem-forme/protocolo-brasil-sem-fome"
+      },
+      {
+        "title": "MDS — Programa de Aquisição de Alimentos",
+        "description": "O programa compra alimentos da agricultura familiar e abastece instituições que atendem pessoas em vulnerabilidade.",
+        "url": "https://www.gov.br/mds/pt-br/acoes-e-programas/acesso-a-alimentos-e-a-agua/programa-de-aquisicao-de-alimentos"
+      }
+    ]
+  },
+  {
+    "id": "sus-cuidado-entre-consulta-e-parto",
+    "title": "Entre a consulta e o parto",
+    "topic": "Desafios para garantir atendimento equitativo à população negra no SUS",
+    "category": "Saúde e bem-estar",
+    "themeId": "equidade-racial-no-sus",
+    "description": "A saúde materna permite observar diferenças raciais na continuidade do atendimento no SUS.",
+    "tags": [
+      "Saúde materna",
+      "Equidade racial",
+      "Rede Alyne"
+    ],
+    "paragraphs": [
+      {
+        "label": "Introdução",
+        "parts": [
+          {
+            "label": "Assunto",
+            "text": "O cuidado durante a gestação depende de uma sequência de atendimentos que começa no pré-natal e chega à maternidade."
+          },
+          {
+            "label": "Tema",
+            "text": "No Sistema Único de Saúde, a atenção obstétrica oferece um recorte para entender os desafios de garantir equidade à população negra."
+          },
+          {
+            "label": "Tese",
+            "text": "Nesse percurso, enfrentar desigualdades requer melhorar o acompanhamento na atenção básica e assegurar que a ligação com a maternidade funcione na prática."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 1",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "As diferenças de atendimento podem começar antes do parto."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O estudo A cor da dor, com dados da pesquisa Nascer no Brasil de 2011 e 2012, encontrou maior risco de pré-natal inadequado entre mulheres pretas e pardas em comparação às brancas. Quando consultas ou exames necessários deixam de ocorrer, a equipe tem menos oportunidades de identificar problemas e organizar o cuidado seguinte."
+          },
+          {
+            "label": "Ligação",
+            "text": "A qualidade do pré-natal, portanto, precisa ser examinada também pela perspectiva da equidade racial."
+          }
+        ]
+      },
+      {
+        "label": "Desenvolvimento 2",
+        "parts": [
+          {
+            "label": "Tópico frasal",
+            "text": "A passagem da atenção básica para a maternidade constitui outra etapa decisiva."
+          },
+          {
+            "label": "Desenvolvimento e repertório",
+            "text": "O mesmo estudo identificou entre mulheres pretas maior risco de procurar mais de um hospital para conseguir internação para o parto. A Rede Alyne prevê vincular a gestante à maternidade desde o pré-natal. Informar qual unidade a receberá e confirmar a comunicação entre os serviços ajuda a transformar essa diretriz em acesso efetivo."
+          },
+          {
+            "label": "Ligação",
+            "text": "Dessa maneira, a rede assume a responsabilidade pela transição do cuidado."
+          }
+        ]
+      },
+      {
+        "label": "Proposta de intervenção",
+        "parts": [
+          {
+            "label": "Quem",
+            "text": "Assim, as secretarias estaduais e municipais de saúde"
+          },
+          {
+            "label": "O que",
+            "text": "devem revisar os fluxos de pré-natal e de acesso à maternidade nas regiões de saúde,"
+          },
+          {
+            "label": "Como",
+            "text": "com acompanhamento de consultas e encaminhamentos por raça ou cor autodeclarada e confirmação da unidade de referência,"
+          },
+          {
+            "label": "Para quê",
+            "text": "para reduzir desigualdades na continuidade da atenção obstétrica."
+          },
+          {
+            "label": "Detalhamento",
+            "text": "A confirmação deve ser comunicada à gestante por escrito, com endereço da unidade e orientação sobre onde buscar atendimento em caso de intercorrência."
+          }
+        ]
+      }
+    ],
+    "connectors": [
+      {
+        "term": "portanto",
+        "use": "Extrai do estudo uma consequência para a avaliação do pré-natal."
+      },
+      {
+        "term": "O mesmo estudo",
+        "use": "Mantém a referência e muda o foco para a chegada à maternidade."
+      },
+      {
+        "term": "Dessa maneira",
+        "use": "Explicita o papel da rede na continuidade do cuidado."
+      },
+      {
+        "term": "Assim",
+        "use": "Conecta os dois momentos do atendimento à proposta."
+      }
+    ],
+    "repertoire": [
+      {
+        "title": "Leal e colaboradores — A cor da dor",
+        "description": "A pesquisa examina diferenças raciais na atenção pré-natal e ao parto a partir do estudo Nascer no Brasil.",
+        "url": "https://www.scielo.br/j/csp/a/LybHbcHxdFbYsb6BDSQHb7H/?format=html&lang=pt"
+      },
+      {
+        "title": "Ministério da Saúde — Rede Alyne",
+        "description": "A portaria orienta a atenção materna e infantil e prevê vinculação à maternidade a partir do pré-natal.",
+        "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2024/prt5350_13_09_2024.html"
+      }
+    ]
+  }
+]

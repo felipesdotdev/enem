@@ -1,0 +1,27 @@
+[Unit]
+Description=Caderno ENEM
+After=network.target
+
+[Service]
+Type=simple
+User=caderno-enem
+Group=caderno-enem
+WorkingDirectory=/srv/caderno-enem/current
+Environment=NODE_ENV=production
+Environment=HOST=127.0.0.1
+Environment=PORT=3764
+Environment=PUBLIC_ORIGIN=https://enem.felipes.dev
+Environment=DB_PATH=/var/lib/caderno-enem/caderno.sqlite
+ExecStart=/usr/bin/node server/index.mjs
+Restart=on-failure
+RestartSec=2s
+StateDirectory=caderno-enem
+StateDirectoryMode=0700
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectHome=true
+ProtectSystem=strict
+
+[Install]
+WantedBy=multi-user.target

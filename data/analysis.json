@@ -1,0 +1,545 @@
+{
+  "edition": 2026,
+  "examDate": "2026-11-08",
+  "intro": "Propostas inéditas de treino a partir de problemas públicos brasileiros e do histórico da prova. Cada tema reúne recortes, repertórios verificáveis e um caminho para pensar a intervenção.",
+  "method": "A análise cobre as 28 edições regulares de 1998 a 2025, com a aplicação impressa principal nos anos que tiveram formatos ou aplicações diferentes. A tabela traz os temas das provas e um eixo editorial por edição. Em 2008, a proposta pedia ao participante que escolhesse uma medida de preservação da Amazônia como tema, por isso a tabela usa uma descrição do enunciado. A seleção dos exercícios considerou problemas que podem ser delimitados no Brasil, evidência de fontes primárias e espaço para comparar causas e intervenções. A frequência descreve o acervo histórico e os recortes servem de treino.",
+  "patterns": [
+    {
+      "title": "Do assunto amplo ao problema concreto",
+      "description": "Tecnologia já virou um recorte sobre controle de dados, cultura virou acesso ao cinema e trabalho virou invisibilidade do cuidado. O tema costuma exigir que o texto conecte um mecanismo a um grupo, a um direito ou a um contexto brasileiro. Um repertório sobre o assunto mais amplo só ajuda quando a redação explica esse vínculo.",
+      "examples": [
+        "2018 · Controle de dados e comportamento",
+        "2019 · Acesso ao cinema",
+        "2023 · Invisibilidade do cuidado"
+      ]
+    },
+    {
+      "title": "A distância entre ter um direito e exercê-lo",
+      "description": "Acesso à escola, à cultura e à cidadania aparece em contextos distintos. Uma tese pode investigar por que um direito formal encontra obstáculos concretos, como falta de intérpretes, concentração de equipamentos, distância até o atendimento ou exigência de documentos.",
+      "examples": [
+        "2017 · Educação de pessoas surdas",
+        "2019 · Acesso ao cinema",
+        "2021 · Registro civil e cidadania"
+      ]
+    },
+    {
+      "title": "Invisibilidade, estigma e reconhecimento",
+      "description": "Algumas propostas perguntam por que experiências e contribuições ficam de fora do debate público. Vale distinguir o papel de práticas sociais, como preconceito, do papel de instituições, como currículos, critérios de atendimento ou distribuição de recursos.",
+      "examples": [
+        "2020 · Estigma ligado às doenças mentais",
+        "2022 · Povos e comunidades tradicionais",
+        "2024 · Herança africana"
+      ]
+    },
+    {
+      "title": "A política pública pode integrar o enunciado",
+      "description": "Uma proposta pode pedir avaliação de uma medida ou discussão de sua implementação. Separe a existência da política de seus efeitos e explique quem responde pela execução, como as pessoas acessam o serviço e quais obstáculos persistem.",
+      "examples": [
+        "2002 · Voto e transformação social",
+        "2013 · Efeitos da Lei Seca",
+        "2021 · Registro civil e cidadania"
+      ]
+    },
+    {
+      "title": "A pauta do momento não prevê a prova",
+      "description": "Temas como envelhecimento e educação de pessoas surdas ganham força por questões estruturais, ainda que uma notícia recente forneça contexto. Na prática, use atualidades como evidência para entender um problema duradouro e produzir intervenções específicas. O histórico permite comparar recortes, mas não estima a chance de um tema cair.",
+      "examples": [
+        "2008 · Preservação da Amazônia",
+        "2017 · Educação de pessoas surdas",
+        "2025 · Envelhecimento"
+      ]
+    },
+    {
+      "title": "Causas sociais e decisões públicas se cruzam",
+      "description": "Uma barreira pode resultar de normas sociais, como a expectativa de que mulheres assumam o cuidado, e de decisões públicas, como a distribuição desigual de serviços. Para desenvolver dois argumentos, explique como cada causa produz um efeito específico no grupo afetado. Em seguida, escolha um agente com poder para agir sobre a causa desenvolvida.",
+      "examples": [
+        "2015 · Violência contra a mulher",
+        "2022 · Povos e comunidades tradicionais",
+        "2023 · Invisibilidade do cuidado"
+      ]
+    },
+    {
+      "title": "O formato mudou e os eixos se cruzam",
+      "description": "O arquivo do Inep separa o formato de 1998 a 2008 do adotado desde 2009. Houve propostas ambientais em edições antigas e abordagens de tecnologia, cultura e saúde nas mais recentes. A classificação por eixo ajuda a organizar a revisão, embora um mesmo recorte possa envolver cidadania, economia e cultura ao mesmo tempo.",
+      "examples": [
+        "2001 · Desenvolvimento e preservação ambiental",
+        "2011 · Privacidade nas redes",
+        "2024 · Herança africana"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "year": 2025,
+      "theme": "Perspectivas acerca do envelhecimento na sociedade brasileira",
+      "axis": "Direitos e inclusão",
+      "sourceUrl": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_PV_impresso_D1_CD1.pdf#page=20"
+    },
+    {
+      "year": 2024,
+      "theme": "Desafios para a valorização da herança africana no Brasil",
+      "axis": "Cultura e memória",
+      "sourceUrl": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D1_CD1.pdf#page=19"
+    },
+    {
+      "year": 2023,
+      "theme": "Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil",
+      "axis": "Trabalho e economia",
+      "sourceUrl": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D1_CD1.pdf#page=19"
+    },
+    {
+      "year": 2022,
+      "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+      "axis": "Cultura e memória",
+      "sourceUrl": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D1_CD1.pdf#page=20"
+    },
+    {
+      "year": 2021,
+      "theme": "Invisibilidade e registro civil: garantia de acesso à cidadania no Brasil",
+      "axis": "Direitos e inclusão",
+      "sourceUrl": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_PV_impresso_D1_CD2.pdf#page=21"
+    },
+    {
+      "year": 2020,
+      "theme": "O estigma associado às doenças mentais na sociedade brasileira",
+      "axis": "Saúde e bem-estar",
+      "sourceUrl": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_PV_impresso_D1_CD1.pdf#page=19"
+    },
+    {
+      "year": 2019,
+      "theme": "Democratização do acesso ao cinema no Brasil",
+      "axis": "Cultura e memória",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2019/2019_PV_impresso_D1_CD1.pdf#page=20"
+    },
+    {
+      "year": 2018,
+      "theme": "Manipulação do comportamento do usuário pelo controle de dados na internet",
+      "axis": "Tecnologia e mídia",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2018/2018_PV_impresso_D1_CD1.pdf#page=19"
+    },
+    {
+      "year": 2017,
+      "theme": "Desafios para a formação educacional de surdos no Brasil",
+      "axis": "Educação",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2017/2017_PV_impresso_D1_CD1.pdf#page=19"
+    },
+    {
+      "year": 2016,
+      "theme": "Caminhos para combater a intolerância religiosa no Brasil",
+      "axis": "Direitos e inclusão",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2016/2016_PV_impresso_D2_CD5.pdf#page=2"
+    },
+    {
+      "year": 2015,
+      "theme": "A persistência da violência contra a mulher na sociedade brasileira",
+      "axis": "Direitos e inclusão",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2015/2015_PV_impresso_D2_CD5.pdf#page=2"
+    },
+    {
+      "year": 2014,
+      "theme": "Publicidade infantil em questão no Brasil",
+      "axis": "Tecnologia e mídia",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2014/2014_PV_impresso_D2_CD5.pdf#page=2"
+    },
+    {
+      "year": 2013,
+      "theme": "Efeitos da implantação da Lei Seca no Brasil",
+      "axis": "Saúde e bem-estar",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2013/dia2_caderno5_amarelo.pdf#page=2"
+    },
+    {
+      "year": 2012,
+      "theme": "O movimento imigratório para o Brasil no século XXI",
+      "axis": "Direitos e inclusão",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2012/dia2_caderno5_amarelo.pdf#page=2"
+    },
+    {
+      "year": 2011,
+      "theme": "Viver em rede no século XXI: os limites entre o público e o privado",
+      "axis": "Tecnologia e mídia",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2011/dia2_caderno5_amarelo.pdf#page=2"
+    },
+    {
+      "year": 2010,
+      "theme": "O Trabalho na Construção da Dignidade Humana",
+      "axis": "Trabalho e economia",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2010/dia2_caderno5_amarelo.pdf#page=2"
+    },
+    {
+      "year": 2009,
+      "theme": "O indivíduo frente à ética nacional",
+      "axis": "Direitos e inclusão",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2009/dia2_caderno6_cinza_ledor.pdf#page=2"
+    },
+    {
+      "year": 2008,
+      "theme": "Medidas para preservar a floresta amazônica",
+      "axis": "Meio ambiente",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2008/2008_amarela.pdf#page=2"
+    },
+    {
+      "year": 2007,
+      "theme": "O desafio de se conviver com a diferença",
+      "axis": "Direitos e inclusão",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2007/2007_amarela.pdf#page=2"
+    },
+    {
+      "year": 2006,
+      "theme": "O poder de transformação da leitura",
+      "axis": "Educação",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2006/2006_amarela.pdf#page=2"
+    },
+    {
+      "year": 2005,
+      "theme": "O trabalho infantil na realidade brasileira",
+      "axis": "Trabalho e economia",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2005/2005_amarela.pdf#page=2"
+    },
+    {
+      "year": 2004,
+      "theme": "Como garantir a liberdade de informação e evitar abusos nos meios de comunicação?",
+      "axis": "Tecnologia e mídia",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2004/2004_amarela.pdf#page=2"
+    },
+    {
+      "year": 2003,
+      "theme": "A violência na sociedade brasileira: como mudar as regras desse jogo?",
+      "axis": "Direitos e inclusão",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2003/2003_amarela.pdf#page=2"
+    },
+    {
+      "year": 2002,
+      "theme": "O direito de votar: como fazer dessa conquista um meio para promover as transformações sociais de que o Brasil necessita?",
+      "axis": "Direitos e inclusão",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2002/2002_amarela.pdf#page=2"
+    },
+    {
+      "year": 2001,
+      "theme": "Desenvolvimento e preservação ambiental: como conciliar os interesses em conflito?",
+      "axis": "Meio ambiente",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2001/2001_amarela.pdf#page=2"
+    },
+    {
+      "year": 2000,
+      "theme": "Direitos da criança e do adolescente: como enfrentar esse desafio nacional?",
+      "axis": "Direitos e inclusão",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/2000/2000_amarela.pdf#page=2"
+    },
+    {
+      "year": 1999,
+      "theme": "Cidadania e participação social",
+      "axis": "Direitos e inclusão",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/1999/1999_amarela.pdf#page=1"
+    },
+    {
+      "year": 1998,
+      "theme": "Viver e Aprender",
+      "axis": "Educação",
+      "sourceUrl": "https://download.inep.gov.br/educacao_basica/enem/provas/1998/1998_amarela.pdf#page=1"
+    }
+  ],
+  "themes": [
+    {
+      "slug": "ia-na-educacao",
+      "title": "Desafios para o uso crítico da inteligência artificial na educação básica brasileira",
+      "axis": "Educação",
+      "description": "Formação docente, autoria e verificação de respostas geradas por IA.",
+      "why": "A educação digital já integra diretrizes nacionais. O recorte pede discutir o que muda na aprendizagem quando alunos produzem ou consultam conteúdos com sistemas generativos.",
+      "angles": [
+        "Formação docente desigual dificulta criar tarefas que tornem visível o raciocínio do estudante.",
+        "Acesso desigual a equipamentos, conexão e orientação muda quem pode usar a ferramenta de forma produtiva."
+      ],
+      "repertoire": [
+        {
+          "title": "Resolução CNE/CEB nº 2/2025",
+          "description": "Inclui a compreensão de algoritmos, dados e inteligência artificial nas diretrizes sobre educação digital e midiática.",
+          "url": "https://www.gov.br/mec/pt-br/cne/2025/marco/rceb002_25.pdf"
+        },
+        {
+          "title": "Guia de Educação Digital e Midiática",
+          "description": "O MEC orienta redes a incorporar a educação digital ao currículo. Serve para propor formação e planejamento pedagógico.",
+          "url": "https://www.gov.br/mec/pt-br/escolas-conectadas/documentos/guia_eddigital_versofinaloficial.pdf"
+        }
+      ],
+      "intervention": "Secretarias de Educação podem formar docentes e criar oficinas em que os alunos comparem respostas da IA com fontes originais, registrem divergências e expliquem as correções."
+    },
+    {
+      "slug": "justica-climatica",
+      "title": "Caminhos para proteger populações vulneráveis de desastres climáticos no Brasil",
+      "axis": "Meio ambiente",
+      "description": "Moradia em áreas de risco, alertas e capacidade de resposta local.",
+      "why": "Uma ameaça meteorológica se torna mais danosa quando encontra moradias expostas, infraestrutura insuficiente e pouca capacidade de evacuação. O tema permite ligar clima a desigualdade territorial.",
+      "angles": [
+        "A ocupação de áreas vulneráveis se relaciona à falta de alternativas habitacionais acessíveis.",
+        "Alertas em um único canal deixam de alcançar moradores sem conexão, com deficiência ou distantes do atendimento."
+      ],
+      "repertoire": [
+        {
+          "title": "Cemaden · Preparação para eventos extremos",
+          "description": "A nota técnica de 2026 sugere diagnóstico territorial, sistemas de alerta e preparação de escolas, exemplos concretos de adaptação local.",
+          "url": "https://www.gov.br/cemaden/pt-br/assuntos/monitoramento/notas-tecnicas/nota-tecnica-el-nino-2026-2027-orientacoes-para-a-preparacao-das-redes-de-ensino-brasileiras"
+        },
+        {
+          "title": "Lei nº 14.904/2024",
+          "description": "Estabelece diretrizes para planos de adaptação às mudanças do clima. Ajuda a fundamentar uma resposta pública preventiva.",
+          "url": "https://www2.camara.leg.br/legin/fed/lei/2024/lei-14904-27-junho-2024-795864-norma-pl.html"
+        }
+      ],
+      "intervention": "Prefeituras e Defesas Civis podem mapear bairros com moradores, instalar alertas por diferentes canais e ensaiar rotas acessíveis até abrigos com equipes responsáveis por cada trecho."
+    },
+    {
+      "slug": "apostas-digitais",
+      "title": "Desafios para prevenir danos associados às apostas digitais no Brasil",
+      "axis": "Saúde e bem-estar",
+      "description": "Endividamento, normalização das apostas e acesso ao cuidado.",
+      "why": "O SUS disponibiliza orientação e acolhimento para pessoas com problemas relacionados a apostas. O treino aproxima a saúde mental da proteção financeira e da educação midiática.",
+      "angles": [
+        "A normalização social da aposta pode atrasar o reconhecimento de perda de controle.",
+        "Vergonha e falta de informação sobre onde buscar atendimento podem prolongar os danos às famílias."
+      ],
+      "repertoire": [
+        {
+          "title": "Ministério da Saúde · Prevenção dos danos",
+          "description": "A campanha aborda sinais de uso problemático e as consequências para finanças, relações e saúde mental.",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-mental/nao-aposte-sua-saude"
+        },
+        {
+          "title": "SUS · Telessaúde para problemas com apostas",
+          "description": "O serviço permite mostrar como a rede de cuidado pode reduzir barreiras ao atendimento de apostadores e familiares.",
+          "url": "https://www.gov.br/pt-br/servicos/ofertar-estrategia-nacional-de-telessaude-em-saude-mental-para-pessoas-com-necessidades-relacionadas-a-jogos-de-apostas"
+        }
+      ],
+      "intervention": "Secretarias de Saúde podem orientar equipes das UBS a identificar sinais de uso problemático e oferecer encaminhamento reservado à rede de saúde mental, com informações separadas para familiares."
+    },
+    {
+      "slug": "acessibilidade-digital",
+      "title": "Desafios para garantir a acessibilidade de pessoas com deficiência nos serviços públicos digitais",
+      "axis": "Direitos e inclusão",
+      "description": "Barreiras em formulários, aplicativos e serviços essenciais.",
+      "why": "Uma política de governo digital pode simplificar serviços para parte da população e criar novas barreiras para outras pessoas. A redação pode mostrar como o desenho do serviço afeta a autonomia.",
+      "angles": [
+        "Formulários incompatíveis com leitores de tela ou navegação por teclado podem impedir solicitações de serviços.",
+        "Acessibilidade perde eficácia quando aparece apenas no fim do desenvolvimento, sem testes com pessoas com deficiência."
+      ],
+      "repertoire": [
+        {
+          "title": "Lei Brasileira de Inclusão · Art. 63",
+          "description": "Prevê acessibilidade em sites de órgãos públicos e de empresas abrangidas pela lei. Permite diferenciar um direito da sua implementação.",
+          "url": "https://www2.camara.leg.br/legin/fed/lei/2015/lei-13146-6-julho-2015-781174-norma-pl.html"
+        },
+        {
+          "title": "Modelo de Acessibilidade em Governo Eletrônico",
+          "description": "O eMAG dá referências concretas para discutir navegação, legibilidade e compatibilidade com tecnologias assistivas.",
+          "url": "https://emag.governoeletronico.gov.br/"
+        }
+      ],
+      "intervention": "Órgãos responsáveis pelos portais podem exigir testes com usuários com deficiência a cada atualização e acompanhar se as tarefas essenciais podem ser concluídas com leitor de tela e teclado."
+    },
+    {
+      "slug": "saude-mental-na-escola",
+      "title": "Desafios para promover a saúde mental dos estudantes na escola brasileira",
+      "axis": "Saúde e bem-estar",
+      "description": "Acolhimento escolar, estigma e articulação com a rede de saúde.",
+      "why": "A lei de atenção psicossocial às comunidades escolares oferece uma base para discutir o papel da escola e sua articulação com serviços de saúde. O recorte é a experiência dos estudantes no ambiente escolar.",
+      "angles": [
+        "Estigma e receio de exposição desestimulam a procura por ajuda.",
+        "Equipes escolares precisam de protocolos para acolher e encaminhar, com continuidade no atendimento pela rede de saúde."
+      ],
+      "repertoire": [
+        {
+          "title": "Lei nº 14.819/2024",
+          "description": "Institui a Política Nacional de Atenção Psicossocial nas Comunidades Escolares e sustenta a articulação entre educação, saúde e assistência social.",
+          "url": "https://bibliotecadigital.mj.gov.br/bitstream/1/12254/1/LEI_PR_2024_14819.pdf"
+        },
+        {
+          "title": "Programa Acolher · Sergipe",
+          "description": "Exemplo de inserção de profissionais de psicologia e serviço social na rede de ensino estadual, útil para discutir ações locais.",
+          "url": "https://seduc.se.gov.br/programa-acolher-e-pioneiro-na-inclusao-de-psicologos-e-assistentes-sociais-em-escolas-publicas-estaduais-de-sergipe/"
+        }
+      ],
+      "intervention": "Secretarias de Saúde e Educação podem definir referências entre cada escola e sua unidade de saúde, com formação para acolhimento inicial e procedimentos que protejam a privacidade do estudante."
+    },
+    {
+      "slug": "desperdicio-de-alimentos",
+      "title": "Caminhos para reduzir o desperdício de alimentos no Brasil",
+      "axis": "Meio ambiente",
+      "description": "Perdas na distribuição, descarte no consumo e redes de aproveitamento.",
+      "why": "A legislação brasileira trata perdas e desperdício em uma política nacional. Identificar em que etapa ocorre o descarte ajuda a escolher uma solução e o agente responsável por ela.",
+      "angles": [
+        "Falta de armazenamento, refrigeração e logística dificulta a distribuição de produtos perecíveis.",
+        "Padrões de aparência e planejamento inadequado de estoque podem levar ao descarte de alimentos próprios para consumo."
+      ],
+      "repertoire": [
+        {
+          "title": "Lei nº 15.224/2025",
+          "description": "Institui a Política Nacional de Combate à Perda e ao Desperdício de Alimentos. Oferece base para discutir prevenção e aproveitamento seguro.",
+          "url": "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15224-30-setembro-2025-798048-publicacaooriginal-176570-pl.html"
+        },
+        {
+          "title": "IBGE · Segurança Alimentar 2024",
+          "description": "A PNAD Contínua registrou insegurança alimentar em 24,2% dos domicílios brasileiros em 2024. Use como contexto de acesso desigual, sem atribuir toda a insegurança ao desperdício.",
+          "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102212_informativo.pdf"
+        }
+      ],
+      "intervention": "Prefeituras podem articular feiras, mercados e bancos de alimentos por meio de coletas programadas, triagem sanitária e registro do que foi reaproveitado."
+    },
+    {
+      "slug": "mobilidade-urbana",
+      "title": "Desafios para garantir o acesso à mobilidade urbana nas periferias brasileiras",
+      "axis": "Direitos e inclusão",
+      "description": "Transporte coletivo, tempo de viagem e acesso a oportunidades.",
+      "why": "O projeto Acesso a Oportunidades do Ipea permite tratar o transporte como condição para chegar a empregos e serviços, com diferenças entre grupos e bairros.",
+      "angles": [
+        "Redes com pouca integração entre bairros podem exigir viagens longas e múltiplas tarifas.",
+        "A concentração de serviços longe das moradias amplia a desvantagem de quem depende do transporte coletivo."
+      ],
+      "repertoire": [
+        {
+          "title": "Ipea · Projeto Acesso a Oportunidades",
+          "description": "Reúne dados que permitem comparar o acesso a empregos, escolas e serviços de saúde por modo de transporte e localização.",
+          "url": "https://www.ipea.gov.br/acessooportunidades/"
+        },
+        {
+          "title": "Lei nº 12.587/2012",
+          "description": "A Política Nacional de Mobilidade Urbana permite discutir acessibilidade e prioridade ao transporte coletivo e aos modos não motorizados.",
+          "url": "https://www2.camara.leg.br/legin/fed/lei/2012/lei-12587-3-janeiro-2012-612248-norma-pl.html"
+        }
+      ],
+      "intervention": "Prefeituras e autoridades metropolitanas podem revisar linhas e horários com base no tempo até escolas, UBS e empregos, publicando indicadores por bairro e ouvindo usuários."
+    },
+    {
+      "slug": "protecao-digital-de-criancas",
+      "title": "Desafios para a proteção de crianças e adolescentes no ambiente digital brasileiro",
+      "axis": "Tecnologia e mídia",
+      "description": "Responsabilidade das plataformas, segurança e educação digital.",
+      "why": "O ECA Digital oferece um marco concreto para discutir segurança on-line. O tema permite avaliar como famílias, escolas, plataformas e autoridades dividem responsabilidades.",
+      "angles": [
+        "Configurações pouco protetivas podem expor crianças a contatos indevidos ou coleta excessiva de dados.",
+        "Famílias e escolas precisam de orientação sobre privacidade, denúncias e reconhecimento de abordagens abusivas."
+      ],
+      "repertoire": [
+        {
+          "title": "Lei nº 15.211/2025 · ECA Digital",
+          "description": "Estabelece regras de proteção de crianças e adolescentes em ambientes digitais. Ajuda a identificar responsabilidades para além da família.",
+          "url": "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15211-17-setembro-2025-797997-norma-pl.html"
+        },
+        {
+          "title": "ANPD · ECA Digital",
+          "description": "A ANPD reúne orientações e materiais sobre a implementação do estatuto, úteis para delimitar fiscalização, prevenção e privacidade.",
+          "url": "https://www.gov.br/anpd/pt-br/assuntos/eca-digital"
+        }
+      ],
+      "intervention": "A ANPD pode monitorar serviços dirigidos a menores e publicar critérios de proteção, enquanto redes de ensino desenvolvem oficinas de privacidade e denúncia com participação das famílias."
+    },
+    {
+      "slug": "permanencia-na-eja",
+      "title": "Desafios para a permanência de estudantes na educação de jovens e adultos no Brasil",
+      "axis": "Educação",
+      "description": "Horários de trabalho, cuidado familiar e oferta escolar.",
+      "why": "O Pacto EJA ajuda a examinar a diferença entre ampliar vagas e criar condições para que as pessoas permaneçam estudando.",
+      "angles": [
+        "Jornadas de trabalho, deslocamento e responsabilidades de cuidado podem conflitar com horários fixos.",
+        "A oferta distante do local de moradia reduz a possibilidade de frequência regular."
+      ],
+      "repertoire": [
+        {
+          "title": "MEC · Pacto EJA",
+          "description": "Política de cooperação entre entes federados que busca ampliar a oferta, elevar a escolaridade e integrar a EJA à formação profissional.",
+          "url": "https://www.gov.br/mec/pt-br/pacto-eja/pagina-inicial"
+        },
+        {
+          "title": "MEC · Como funciona o Pacto EJA",
+          "description": "Reúne ações e recursos como materiais didáticos, integração profissional e panorama de oferta. Ajuda a escolher medidas que atendam às condições do público.",
+          "url": "https://www.gov.br/mec/pt-br/pacto-eja/como-funciona"
+        }
+      ],
+      "intervention": "Secretarias de Educação podem organizar turmas em horários e pontos escolhidos com a comunidade e acompanhar a frequência para acionar busca ativa e apoios de transporte."
+    },
+    {
+      "slug": "saneamento-rural",
+      "title": "Caminhos para ampliar o acesso ao saneamento básico nas comunidades rurais brasileiras",
+      "axis": "Meio ambiente",
+      "description": "Desigualdade territorial e manutenção de soluções locais.",
+      "why": "A baixa densidade populacional e a diversidade dos territórios tornam a expansão de saneamento rural um problema de planejamento, execução e manutenção.",
+      "angles": [
+        "Soluções feitas para bairros densos podem ser pouco adequadas a comunidades distantes e dispersas.",
+        "Projetos perdem continuidade quando faltam assistência técnica, manutenção e monitoramento da qualidade da água."
+      ],
+      "repertoire": [
+        {
+          "title": "IBGE · Características dos domicílios no Censo 2022",
+          "description": "Permite comparar abastecimento e esgotamento por território. Diferencie a presença de rede coletora do uso de sistemas locais adequados.",
+          "url": "https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/c8c1e181fbe8557c7c14bdf22fc335cc.pdf"
+        },
+        {
+          "title": "Ministério das Cidades · Plansab",
+          "description": "Plano nacional de saneamento que serve para contextualizar a universalização e o planejamento público.",
+          "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/plano-nacional-de-saneamento-basico-plansab/arquivos/plansab"
+        }
+      ],
+      "intervention": "Prefeituras podem definir soluções com moradores e prestadores regionais, capacitar responsáveis pela manutenção e manter um calendário de análises da qualidade da água."
+    },
+    {
+      "slug": "inseguranca-alimentar",
+      "title": "Desafios para enfrentar a insegurança alimentar nas periferias brasileiras",
+      "axis": "Direitos e inclusão",
+      "description": "Renda, preço, distância e qualidade da alimentação.",
+      "why": "O acesso regular à alimentação adequada envolve a renda das famílias e a distribuição de alimentos frescos. Esse recorte permite discutir o território onde as pessoas compram e consomem.",
+      "angles": [
+        "Renda instável pode levar famílias a reduzir a quantidade ou a variedade de alimentos.",
+        "Longos deslocamentos ou pouca oferta de alimentos frescos podem encarecer uma alimentação variada."
+      ],
+      "repertoire": [
+        {
+          "title": "IBGE · Segurança Alimentar 2024",
+          "description": "A PNAD Contínua mede a experiência de insegurança alimentar em graus e permite contextualizar o problema sem confundir qualquer insegurança com fome grave.",
+          "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102212_informativo.pdf"
+        },
+        {
+          "title": "Lei Orgânica de Segurança Alimentar e Nutricional",
+          "description": "A Lei nº 11.346/2006 cria o Sisan e serve de base para tratar a alimentação adequada como direito.",
+          "url": "https://www.gov.br/mds/pt-br/acesso-a-informacao/legislacao/leis/lei-no-11-346-de-15-de-setembro-de-2006"
+        }
+      ],
+      "intervention": "Prefeituras podem mapear bairros com pouca oferta de alimentos frescos, implantar feiras de produtores próximas ao transporte público e acompanhar preços e frequência de atendimento."
+    },
+    {
+      "slug": "equidade-racial-no-sus",
+      "title": "Desafios para garantir atendimento equitativo à população negra no SUS",
+      "axis": "Saúde e bem-estar",
+      "description": "Racismo institucional, qualidade do atendimento e desigualdade territorial.",
+      "why": "Uma política de saúde universal pode demandar ações específicas para enfrentar desigualdades que afetam a qualidade e o acesso ao cuidado.",
+      "angles": [
+        "Estereótipos podem afetar a escuta clínica e a avaliação das queixas dos pacientes.",
+        "O preenchimento incompleto dos registros de raça e cor dificulta localizar desigualdades e acompanhar políticas de equidade."
+      ],
+      "repertoire": [
+        {
+          "title": "Política Nacional de Saúde Integral da População Negra",
+          "description": "A Portaria nº 992/2009 institucionaliza o enfrentamento ao racismo e a promoção da equidade no SUS.",
+          "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2009/prt0992_13_05_2009.html"
+        },
+        {
+          "title": "Ministério da Saúde · Saúde Sem Racismo",
+          "description": "Reúne iniciativas voltadas à equidade racial no SUS e ajuda a identificar políticas e responsabilidades institucionais.",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-sem-racismo"
+        }
+      ],
+      "intervention": "Secretarias de Saúde podem capacitar equipes de UBS, qualificar o registro autodeclarado de raça e cor e usar dados agregados para monitorar diferenças de atendimento, preservando o sigilo individual."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Inep · Provas e gabaritos, 1998–2025",
+      "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos"
+    },
+    {
+      "title": "Inep · Cartilha da redação do Enem 2026",
+      "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-2026-cartilha-da-redacao-esta-disponivel"
+    },
+    {
+      "title": "Inep · Cronograma de aplicação do Enem 2026",
+      "url": "https://www.gov.br/inep/pt-br/acesso-a-informacao/perguntas-frequentes/exame-nacional-do-ensino-medio-enem"
+    }
+  ]
+}
