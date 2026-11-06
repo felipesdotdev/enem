@@ -287,15 +287,15 @@
         "parts": [
           {
             "label": "Assunto",
-            "text": "Quando o dinheiro de uma aposta feita pelo celular faz falta para comprar comida, o prejuízo chega a toda a família."
+            "text": "Quando uma aposta pelo celular compromete o dinheiro da comida, toda a família sofre o prejuízo."
           },
           {
             "label": "Tema",
-            "text": "Em 2026, uma medida provisória proibiu a oferta de apostas de quota fixa, conhecidas como bets, no Brasil. Ainda assim, as dívidas e os conflitos podem continuar."
+            "text": "Em setembro de 2026, uma medida provisória proibiu a oferta de apostas de quota fixa no Brasil, mas dívidas e conflitos podem persistir."
           },
           {
             "label": "Tese",
-            "text": "Para evitar que esses danos se agravem, é preciso reduzir o medo de pedir ajuda e facilitar o acesso ao atendimento de saúde."
+            "text": "Prevenir o agravamento desses danos exige reduzir o medo de pedir ajuda e facilitar o acesso ao atendimento de saúde."
           }
         ]
       },
@@ -308,11 +308,11 @@
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "A Organização Mundial da Saúde aponta que a vergonha afasta dos serviços de saúde quem sofre com apostas. Se teme ser chamada de irresponsável, a pessoa pode esconder uma conta em atraso. Enquanto esconde a perda, ela tem mais dificuldade para conversar sobre a dívida e reorganizar os gastos."
+            "text": "A Organização Mundial da Saúde aponta a vergonha como uma barreira ao cuidado. Por medo de parecer irresponsável, a pessoa pode esconder uma conta em atraso e voltar a apostar em sites ilegais para tentar recuperar o que perdeu."
           },
           {
             "label": "Ligação",
-            "text": "Por isso, oferecer uma escuta sem acusações pode facilitar a primeira conversa sobre o problema."
+            "text": "Por isso, uma escuta sem acusações ajuda a identificar esse ciclo e a combinar com a pessoa uma alternativa para quando sentir vontade de apostar, como procurar alguém de confiança."
           }
         ]
       },
@@ -321,15 +321,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Mesmo quando a pessoa decide buscar ajuda, pode encontrar obstáculos no atendimento."
+            "text": "Mesmo quando a pessoa decide buscar ajuda, pode encontrar obstáculos no acesso ao serviço."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O Meu SUS Digital oferece atendimento remoto a quem teve problemas com apostas e a seus familiares. Para solicitar o serviço, porém, é preciso entrar com uma conta Gov.br. Quem tem dificuldade com essa etapa pode desistir se desconhecer outras opções."
+            "text": "O Meu SUS Digital atende remotamente pessoas afetadas pelas apostas e seus familiares. O acesso, porém, exige uma conta Gov.br. Quem tem dificuldade com a senha e desconhece a opção presencial pode adiar a consulta."
           },
           {
             "label": "Ligação",
-            "text": "Assim, a unidade básica de saúde pode orientar o acesso ao serviço remoto ou receber quem precisa de atendimento presencial."
+            "text": "A unidade básica de saúde (UBS) pode iniciar o atendimento presencial e, nos retornos, rever com a pessoa o que fez diante da vontade de apostar. Isso permite ajustar o plano de cuidado antes que novas perdas aumentem as dívidas."
           }
         ]
       },
@@ -342,19 +342,19 @@
           },
           {
             "label": "O que",
-            "text": "devem organizar o acolhimento de pessoas afetadas por apostas nas unidades básicas."
+            "text": "devem divulgar o acolhimento presencial nas UBS e organizar o acompanhamento."
           },
           {
             "label": "Como",
-            "text": "As equipes precisam aprender a escutar sem julgar e informar como buscar atendimento presencial ou remoto."
+            "text": "Para isso, devem oferecer oficinas em que as equipes simulem a escuta sem julgamentos e pratiquem como orientar o acesso remoto."
           },
           {
             "label": "Para quê",
-            "text": "Com isso, a pessoa pode pedir ajuda mais cedo e reduzir o risco de novas perdas."
+            "text": "A medida busca acelerar o atendimento e reduzir o risco de novas perdas financeiras."
           },
           {
             "label": "Detalhamento",
-            "text": "Na primeira conversa, a equipe deve garantir o sigilo e oferecer orientação aos familiares com o consentimento da pessoa atendida."
+            "text": "Na primeira consulta, em sala reservada, a equipe deve agendar um retorno e encaminhar quem precisar de cuidado especializado ao Centro de Atenção Psicossocial. No retorno, deve verificar se a pessoa conseguiu o atendimento indicado."
           }
         ]
       }
@@ -366,7 +366,7 @@
       },
       {
         "term": "Por isso",
-        "use": "Liga o receio de julgamento à importância de acolher a pessoa sem acusações."
+        "use": "Liga o ciclo de vergonha, silêncio e novas apostas à importância de uma conversa sem acusações."
       },
       {
         "term": "Mesmo quando",
@@ -378,7 +378,7 @@
       },
       {
         "term": "Diante dessas barreiras",
-        "use": "Reúne o medo de se expor e a dificuldade de chegar ao serviço na proposta de acolhimento."
+        "use": "Retoma o medo de se expor e a dificuldade de chegar ao serviço para propor acolhimento e acompanhamento."
       }
     ],
     "repertoire": [
@@ -401,11 +401,11 @@
     "studyNotes": [
       {
         "title": "A vergonha adia o cuidado",
-        "description": "Lembre da Organização Mundial da Saúde quando quiser mostrar que a vergonha dificulta a procura por ajuda. No exemplo, esconder uma conta atrasa a conversa sobre o que fazer."
+        "description": "A Organização Mundial da Saúde ajuda a explicar por que a vergonha dificulta a procura por cuidado. No exemplo, a pessoa esconde a dívida e pode fazer outra aposta para tentar recuperar a perda. O atendimento pode ajudá-la a planejar o que fazer quando tiver vontade de apostar."
       },
       {
         "title": "Da decisão ao atendimento",
-        "description": "A conta Gov.br é uma etapa real de acesso ao Meu SUS Digital. A proposta usa a unidade de saúde para orientar quem tem dificuldade nessa etapa e protege o sigilo para enfrentar o medo de se expor."
+        "description": "A conta Gov.br é uma etapa do acesso ao Meu SUS Digital. O atendimento presencial na UBS oferece outra porta de entrada. Os retornos permitem conferir se a pessoa conseguiu o atendimento indicado e ajustar o plano quando houver dificuldade."
       }
     ]
   },
@@ -566,11 +566,11 @@
           },
           {
             "label": "Tema",
-            "text": "Na escola, humilhações frequentes e pedidos de ajuda sem resposta podem afetar a saúde mental dos alunos."
+            "text": "Nas escolas brasileiras, humilhações frequentes e pedidos de ajuda sem resposta podem afetar a saúde mental dos alunos."
           },
           {
             "label": "Tese",
-            "text": "Nas escolas brasileiras, enfrentar as agressões entre colegas e facilitar o acesso a atendimento são passos para que os estudantes possam participar das aulas e buscar apoio."
+            "text": "Enfrentar as agressões entre colegas e facilitar o acesso ao cuidado profissional são passos para proteger esses estudantes."
           }
         ]
       },
@@ -579,15 +579,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Primeiramente, é preciso enfrentar as humilhações repetidas, que podem levar o aluno a se afastar da turma."
+            "text": "Primeiramente, humilhações repetidas podem levar o aluno a se afastar da turma."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O programa Escola que Protege incentiva a participação dos alunos na construção de uma convivência respeitosa. Se a equipe trata apelidos ofensivos como brincadeira, por exemplo, o aluno atingido pode evitar apresentações para escapar das ofensas. Um acordo feito com a turma ajuda a definir como agir quando esses episódios ocorrem."
+            "text": "O programa Escola que Protege incentiva a participação dos estudantes na construção de uma convivência respeitosa. Quem recebe apelidos ofensivos pode, por exemplo, evitar apresentações para escapar das ofensas. Em um acordo com a turma, a escola pode estabelecer que quem presenciar agressões avise o professor, que deve interrompê-las e acionar a coordenação."
           },
           {
             "label": "Ligação",
-            "text": "Assim, enfrentar as agressões ajuda a devolver ao estudante a segurança para participar da aula."
+            "text": "A coordenação deve ouvir o aluno em particular e pedir ao professor que acompanhe as próximas apresentações. Com esse apoio, o estudante pode recuperar a confiança para participar."
           }
         ]
       },
@@ -596,15 +596,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além de prevenir agressões, a escola precisa ajudar os estudantes que necessitam de atendimento profissional."
+            "text": "Além de enfrentar as agressões, a escola precisa ajudar os estudantes que necessitam de atendimento profissional."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O posto de saúde do SUS é uma porta de entrada para o cuidado em saúde mental. Se a escola apenas entrega o endereço do posto, a família ainda precisa descobrir como marcar o atendimento. Essa etapa pode atrasar a busca por ajuda, sobretudo quando os responsáveis têm pouco tempo disponível."
+            "text": "A unidade básica de saúde (UBS) é uma porta de entrada do SUS para o cuidado em saúde mental. Se a escola apenas informa o endereço, a família ainda precisa descobrir como marcar a consulta. Para responsáveis com pouco tempo disponível, essa etapa pode adiar o atendimento."
           },
           {
             "label": "Ligação",
-            "text": "Por isso, um contato direto entre a escola e a unidade de saúde facilita a passagem da primeira conversa ao atendimento."
+            "text": "Por isso, o contato direto com a UBS facilita a passagem do pedido de ajuda ao primeiro atendimento."
           }
         ]
       },
@@ -617,19 +617,19 @@
           },
           {
             "label": "O que",
-            "text": "devem orientar as escolas públicas a prevenir agressões e a encaminhar estudantes para atendimento."
+            "text": "devem orientar as escolas públicas a responder às agressões e a encaminhar estudantes para atendimento."
           },
           {
             "label": "Como",
-            "text": "Para isso, as equipes escolares devem receber formação para agir diante de ofensas e combinar com a unidade de saúde do bairro como solicitar atendimento."
+            "text": "Em oficinas conjuntas, as equipes escolares devem praticar a escuta reservada e definir com a UBS como solicitar a primeira avaliação."
           },
           {
             "label": "Para quê",
-            "text": "A medida busca reduzir o isolamento dos alunos e facilitar o acesso à ajuda profissional."
+            "text": "A medida busca reduzir o isolamento dos alunos e facilitar o acesso ao cuidado."
           },
           {
             "label": "Detalhamento",
-            "text": "Cada escola deve indicar uma pessoa responsável por ouvir os estudantes em local reservado."
+            "text": "Cada escola deve indicar um profissional para acolher os estudantes e, com autorização dos responsáveis, ajudar a marcar a consulta e confirmar com a família se o atendimento ocorreu."
           }
         ]
       }
@@ -644,7 +644,7 @@
         "use": "Mostra como os apelidos ofensivos podem levar um aluno a evitar apresentações."
       },
       {
-        "term": "Além de prevenir agressões",
+        "term": "Além de enfrentar as agressões",
         "use": "Retoma a convivência escolar e acrescenta o acesso a atendimento profissional."
       },
       {
@@ -653,7 +653,7 @@
       },
       {
         "term": "Portanto",
-        "use": "Retoma os dois problemas para propor a prevenção de agressões e o encaminhamento para atendimento."
+        "use": "Retoma o afastamento causado pelas agressões e a dificuldade de chegar ao serviço de saúde."
       }
     ],
     "repertoire": [
@@ -676,11 +676,11 @@
     "studyNotes": [
       {
         "title": "Da ofensa ao afastamento",
-        "description": "O exemplo acompanha um aluno que evita apresentações para escapar dos apelidos. Ele mostra como uma agressão entre colegas pode prejudicar tanto o bem-estar quanto a participação nas aulas."
+        "description": "O aluno evita apresentações para escapar das ofensas. Pelo acordo da turma, o professor interrompe a agressão e aciona a coordenação, que ouve o estudante e combina o acompanhamento das próximas apresentações."
       },
       {
         "title": "Da primeira conversa ao atendimento",
-        "description": "Indicar um endereço deixa parte do caminho em aberto. A conclusão propõe uma pessoa de referência na escola e um acordo com a unidade de saúde para que o pedido de ajuda tenha continuidade."
+        "description": "A UBS acolhe quem precisa de cuidado em saúde mental. A pessoa de referência na escola ajuda a marcar a consulta e confirma com a família se o atendimento ocorreu."
       }
     ]
   },
@@ -841,11 +841,11 @@
           },
           {
             "label": "Tema",
-            "text": "Nas periferias brasileiras, esse custo pesa quando chegar a um destino exige atravessar a cidade ou esperar muito por uma conexão."
+            "text": "Nas periferias brasileiras, atravessar a cidade ou esperar por uma conexão pode consumir boa parte do dia."
           },
           {
             "label": "Tese",
-            "text": "A concentração de empregos e serviços nas áreas centrais e a oferta irregular de ônibus restringem o acesso dos moradores da periferia a essas oportunidades."
+            "text": "A concentração de empregos e serviços no centro e os horários descoordenados dos ônibus limitam a mobilidade dos moradores da periferia."
           }
         ]
       },
@@ -854,15 +854,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Em primeiro lugar, a distância dos destinos já é um obstáculo, mesmo quando o ônibus chega no horário."
+            "text": "Em primeiro lugar, a distância dos destinos é um obstáculo, mesmo quando o ônibus chega no horário."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "Um estudo do Ipea mostrou que as áreas centrais das cidades analisadas tendem a oferecer melhor acesso a empregos e serviços. Um morador que precisa cruzar a cidade para uma consulta, por exemplo, pode ter de faltar ao trabalho para conseguir ir e voltar."
+            "text": "Em um estudo sobre as 20 maiores cidades brasileiras, o Ipea encontrou, em geral, melhor acesso a empregos e serviços nas áreas centrais. Um morador que cruza a cidade para uma consulta, por exemplo, pode precisar faltar ao trabalho."
           },
           {
             "label": "Ligação",
-            "text": "Por esse motivo, oferecer serviços mais perto de casa reduz o tempo que os moradores gastam no trajeto."
+            "text": "Por esse motivo, aproximar o atendimento das moradias facilita o acesso de quem tem pouco tempo."
           }
         ]
       },
@@ -871,15 +871,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além disso, quando os horários dos ônibus não se encaixam, a distância pesa ainda mais."
+            "text": "Além disso, horários incompatíveis entre linhas dificultam os trajetos que exigem mais de um ônibus."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "A política brasileira de mobilidade prevê acesso mais justo ao transporte coletivo. Para um estudante que pega dois ônibus na volta de um curso noturno, esse acesso depende dos horários das duas linhas. Se o primeiro ônibus chega ao terminal depois que o último da outra linha saiu, o estudante pode ter de pagar uma corrida para chegar em casa."
+            "text": "A Política Nacional de Mobilidade Urbana prevê acesso mais justo ao transporte coletivo. Para o estudante que pega dois ônibus na volta de um curso noturno, esse acesso depende da conexão. Se o primeiro chega ao terminal depois que o último da outra linha saiu, o estudante pode ter de pagar uma corrida para voltar para casa."
           },
           {
             "label": "Ligação",
-            "text": "Nesse caso, o horário dos ônibus pode determinar se estudar à noite cabe no orçamento."
+            "text": "Nesse caso, perder a conexão encarece o estudo e pode dificultar a permanência no curso."
           }
         ]
       },
@@ -896,15 +896,15 @@
           },
           {
             "label": "Como",
-            "text": "Para orientar as mudanças, elas devem mapear o tempo de viagem até escolas, unidades de saúde e áreas de emprego e ouvir moradores sobre as maiores esperas."
+            "text": "Para isso, devem mapear o tempo de trajeto até escolas e unidades de saúde e ouvir os moradores para identificar onde se perdem as conexões."
           },
           {
             "label": "Para quê",
-            "text": "O objetivo é reduzir o tempo de deslocamento e facilitar o acesso ao trabalho, ao estudo e à saúde."
+            "text": "O objetivo é reduzir o tempo de viagem e facilitar o acesso ao trabalho, ao estudo e à saúde."
           },
           {
             "label": "Detalhamento",
-            "text": "Na revisão da rede, os municípios devem garantir horários compatíveis entre as últimas viagens das linhas que se encontram nos terminais."
+            "text": "Os mapas devem orientar a abertura de unidades de saúde nos bairros com os trajetos mais longos para consultas. Nos terminais, a última viagem para o bairro deve sair com tempo para o embarque de quem vem de outra linha."
           }
         ]
       }
@@ -920,7 +920,7 @@
       },
       {
         "term": "Por esse motivo",
-        "use": "Liga o custo do trajeto à importância de aproximar serviços."
+        "use": "Liga o tempo perdido em um trajeto longo à importância de aproximar o serviço de saúde."
       },
       {
         "term": "Além disso",
@@ -928,7 +928,7 @@
       },
       {
         "term": "Por essas razões",
-        "use": "Transforma os dois obstáculos em propostas para os serviços públicos e os horários dos ônibus."
+        "use": "Reúne os dois obstáculos para propor a abertura de serviços e o ajuste dos horários nos terminais."
       }
     ],
     "repertoire": [
@@ -946,11 +946,11 @@
     "studyNotes": [
       {
         "title": "O trajeto começa na localização do serviço",
-        "description": "A consulta distante pode obrigar o trabalhador a se ausentar do emprego mesmo que o ônibus chegue no horário. O exemplo ajuda a entender por que instalar serviços mais perto também é uma ação de mobilidade."
+        "description": "O exemplo da consulta mostra que um serviço distante pode consumir parte da jornada de trabalho. Medir o tempo dos trajetos ajuda a escolher os bairros que precisam de novas unidades."
       },
       {
         "title": "Uma linha depende da outra",
-        "description": "O curso noturno só é viável para o estudante se ele puder voltar para casa. A conclusão transforma esse caso em um ajuste concreto entre os horários das últimas viagens."
+        "description": "O curso noturno pode ficar mais caro se os horários das linhas forem incompatíveis. A proposta prevê que as últimas viagens deixem tempo para o estudante trocar de ônibus."
       }
     ]
   },
@@ -1128,11 +1128,11 @@
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "A Lei de Diretrizes e Bases da Educação prevê que a EJA considere a rotina de trabalho dos estudantes. Em um bairro com uma única turma noturna, por exemplo, quem passa a trabalhar à noite perde aulas. Quando volta, pode ter dificuldade para acompanhar a matéria."
+            "text": "A Lei de Diretrizes e Bases da Educação prevê que a EJA considere a rotina de trabalho dos estudantes. Em um bairro com uma única turma noturna, por exemplo, quem passa a trabalhar à noite perde aulas e pode ter dificuldade para acompanhar a matéria ao voltar."
           },
           {
             "label": "Ligação",
-            "text": "O horário da turma, portanto, pode determinar se o estudante consegue continuar na escola."
+            "text": "Assim, a oferta de outro turno permite conciliar a nova escala com os estudos."
           }
         ]
       },
@@ -1141,15 +1141,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além do conflito de horários, a falta de contato com quem se ausenta torna o retorno mais difícil."
+            "text": "Além do conflito de horários, a demora em procurar quem falta deixa problemas de transporte sem resposta."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O transporte escolar é uma das formas de apoio à permanência previstas no Plano Nacional de Educação. Se um estudante começa a faltar porque perdeu a condução, a equipe da escola pode procurá-lo para entender o motivo e buscar uma alternativa de transporte."
+            "text": "O Plano Nacional de Educação prevê o transporte escolar como apoio à permanência na EJA. Se o último ônibus passa antes do fim da aula, um estudante pode deixar de ir à escola. Sem contato, a equipe registra as faltas sem entender sua causa, enquanto o aluno perde explicações necessárias para acompanhar a turma."
           },
           {
             "label": "Ligação",
-            "text": "Por isso, agir cedo ajuda a evitar que a matéria perdida se acumule e o estudante desista."
+            "text": "Com a matéria acumulada, o estudante pode desistir de voltar mesmo depois de resolver o problema do trajeto."
           }
         ]
       },
@@ -1162,19 +1162,19 @@
           },
           {
             "label": "O que",
-            "text": "devem oferecer turnos compatíveis com a rotina dos alunos e acompanhar as faltas."
+            "text": "devem diversificar os turnos e orientar as escolas a acompanhar as faltas."
           },
           {
             "label": "Como",
-            "text": "Para isso, devem consultar os estudantes sobre os turnos e definir quem entrará em contato após faltas seguidas."
+            "text": "Na matrícula, a rede deve consultar os alunos sobre os horários de trabalho para abrir turmas em outros turnos onde houver demanda. Após duas faltas seguidas, a coordenação escolar deve telefonar ao estudante."
           },
           {
             "label": "Para quê",
-            "text": "A medida busca prevenir faltas e facilitar o retorno de quem precisou se ausentar."
+            "text": "A medida busca evitar que dificuldades passageiras levem ao abandono dos estudos."
           },
           {
             "label": "Detalhamento",
-            "text": "No primeiro contato, a equipe deve combinar a reposição da matéria e verificar se o aluno precisa de apoio com transporte ou de troca de turma."
+            "text": "Na conversa, a coordenação deve identificar a causa das faltas, solicitar à secretaria apoio com transporte quando necessário e combinar com os professores a reposição das atividades perdidas."
           }
         ]
       }
@@ -1186,19 +1186,19 @@
       },
       {
         "term": "por exemplo",
-        "use": "Mostra como a turma em turno único afeta quem trabalha por escala."
+        "use": "Mostra como a turma em turno único afeta quem muda de horário no trabalho."
       },
       {
         "term": "Além do conflito de horários",
-        "use": "Retoma a primeira barreira e acrescenta a falta de contato da escola com o estudante."
+        "use": "Acrescenta a demora da escola em procurar o estudante que falta."
       },
       {
-        "term": "Por isso",
-        "use": "Relaciona o risco de acumular matéria à necessidade de procurar cedo quem falta."
+        "term": "Com a matéria acumulada",
+        "use": "Mostra por que a demora torna o retorno difícil mesmo quando o problema de transporte é resolvido."
       },
       {
         "term": "Diante disso",
-        "use": "Retoma horários e faltas para propor duas ações à rede de ensino."
+        "use": "Reúne as duas barreiras e introduz a proposta sobre turnos e acompanhamento de faltas."
       }
     ],
     "repertoire": [
@@ -1220,7 +1220,7 @@
       },
       {
         "title": "O que fazer quando alguém falta",
-        "description": "O segundo parágrafo de desenvolvimento mostra como o contato pode revelar um problema de transporte. A conclusão explica quem procura o estudante e como a escola o ajuda a retomar as aulas."
+        "description": "O registro de faltas mostra que alguém se ausentou. A conversa revela a causa e permite agir antes que a matéria se acumule. Na proposta, a coordenação liga após duas faltas seguidas para organizar esse apoio."
       }
     ]
   },
@@ -1390,7 +1390,7 @@
           },
           {
             "label": "Tese",
-            "text": "A distância até os alimentos frescos e a falta de renda dificultam o acesso regular à alimentação adequada nesses bairros."
+            "text": "A distância até os alimentos frescos e a renda insuficiente ou irregular dificultam o acesso contínuo à alimentação adequada nesses bairros."
           }
         ]
       },
@@ -1416,15 +1416,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Ainda assim, uma feira próxima pode ser insuficiente para quem está sem dinheiro para comprar comida."
+            "text": "Ainda assim, a falta de dinheiro pode impedir a compra mesmo com uma feira perto de casa."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "As cozinhas solidárias oferecem refeições gratuitas a quem precisa. Quando a cozinha abre em dias fixos, a família pode planejar quando buscar as refeições. Se o serviço é esporádico, a dúvida sobre a próxima refeição continua."
+            "text": "Uma família que recebe por serviços ocasionais pode gastar o último pagamento com o aluguel e ficar sem dinheiro para comida. As cozinhas solidárias oferecem refeições gratuitas a famílias nessa situação."
           },
           {
             "label": "Ligação",
-            "text": "Por isso, manter o atendimento regular faz diferença no combate à fome nesses bairros."
+            "text": "Por isso, manter dias fixos de atendimento permite que a família saiba quando pode buscar refeições enquanto espera pelo próximo pagamento."
           }
         ]
       },
@@ -1441,15 +1441,15 @@
           },
           {
             "label": "Como",
-            "text": "Para isso, devem montar feiras em áreas com poucos mercados e financiar o funcionamento regular de cozinhas solidárias."
+            "text": "Para isso, devem instalar feiras em áreas com poucos mercados e financiar o funcionamento das cozinhas solidárias em dias fixos."
           },
           {
             "label": "Para quê",
-            "text": "As medidas buscam reduzir o gasto com transporte e garantir refeições a quem precisa."
+            "text": "As medidas buscam reduzir o gasto com transporte e garantir refeições nos períodos em que falta dinheiro para as compras."
           },
           {
             "label": "Detalhamento",
-            "text": "A prefeitura deve ouvir os moradores sobre os locais acessíveis a pé e divulgar os dias de funcionamento das cozinhas."
+            "text": "As prefeituras devem consultar os moradores sobre locais acessíveis a pé e divulgar os horários das cozinhas nos postos de saúde do bairro."
           }
         ]
       }
@@ -1469,7 +1469,7 @@
       },
       {
         "term": "Por isso",
-        "use": "Relaciona a incerteza das famílias à necessidade de manter a oferta de refeições."
+        "use": "Liga os intervalos sem renda à necessidade de manter a oferta de refeições em dias fixos."
       },
       {
         "term": "Diante dessas barreiras",
@@ -1495,7 +1495,7 @@
       },
       {
         "title": "A feira e a cozinha atendem a necessidades diferentes",
-        "description": "A feira diminui o custo de chegar aos alimentos. A cozinha atende famílias sem recursos para pagar por uma refeição. A conclusão inclui uma medida para cada situação."
+        "description": "A feira próxima reduz o custo do trajeto. Uma família pode continuar sem dinheiro para comprar comida enquanto espera o próximo pagamento. A cozinha com dias fixos oferece refeições gratuitas nesse intervalo."
       }
     ]
   },
@@ -1796,11 +1796,11 @@
           },
           {
             "label": "Tema",
-            "text": "Nas cidades brasileiras, ondas de calor trazem mais riscos a quem tem menos condições de se refrescar."
+            "text": "Durante ondas de calor nas cidades brasileiras, quem tem poucas formas de se refrescar corre mais risco."
           },
           {
             "label": "Tese",
-            "text": "Para proteger essas pessoas, é preciso criar sombra nos trajetos mais usados e organizar o atendimento a quem corre risco em casa."
+            "text": "Por isso, é preciso criar sombra nos trajetos de bairros pouco arborizados e apoiar quem tem dificuldade de se proteger em casa."
           }
         ]
       },
@@ -1809,15 +1809,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Em primeiro lugar, o plantio deve priorizar os lugares em que as pessoas ficam mais expostas ao sol."
+            "text": "Em primeiro lugar, a falta de árvores nos trajetos diários prolonga a exposição ao sol."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O Ministério do Meio Ambiente incentiva o plantio de árvores para ampliar a sombra nas cidades. Uma praça arborizada beneficia quem a frequenta. Já quem depende de uma parada descoberta pode passar muito tempo sob o sol, mesmo que haja uma praça em outra parte do bairro."
+            "text": "O Ministério do Meio Ambiente incentiva a arborização para ampliar a sombra nas cidades. Uma praça arborizada oferece alívio a quem a frequenta. Já quem depende de uma parada descoberta pode fazer o trajeto e esperar pelo ônibus sob o sol."
           },
           {
             "label": "Ligação",
-            "text": "Por isso, identificar as paradas e calçadas mais expostas ajuda a definir onde plantar."
+            "text": "Por isso, o plantio deve priorizar calçadas e paradas expostas nos caminhos até escolas e postos de saúde."
           }
         ]
       },
@@ -1826,15 +1826,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além do plantio, é preciso atender quem tem dificuldade de se proteger em casa durante uma onda de calor."
+            "text": "Além do plantio, é preciso atender quem continua exposto ao calor ao voltar para casa."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O Ministério da Saúde alerta que o calor extremo traz riscos maiores para pessoas idosas. Uma pessoa idosa que mora sozinha em uma casa abafada, por exemplo, pode precisar de ajuda para chegar a um lugar fresco. Se a equipe de saúde conhece esses moradores, pode visitá-los logo que houver previsão de calor intenso."
+            "text": "O Ministério da Saúde alerta que pessoas idosas correm mais risco durante ondas de calor. Em um bairro com pouca sombra, uma pessoa idosa pode enfrentar o sol para ir ao mercado e voltar a uma casa abafada. Se mora sozinha e tem dificuldade de locomoção, pode depender de ajuda para chegar a um local fresco."
           },
           {
             "label": "Ligação",
-            "text": "Assim, o atendimento pode começar antes que o morador passe mal."
+            "text": "Assim, o calor no trajeto se soma ao da moradia, e a falta de apoio prolonga a exposição, o que aumenta o risco de desidratação e de agravamento de doenças crônicas."
           }
         ]
       },
@@ -1847,19 +1847,19 @@
           },
           {
             "label": "O que",
-            "text": "devem criar planos de proteção ao calor para os bairros mais expostos."
+            "text": "devem organizar planos de proteção nos bairros mais expostos."
           },
           {
             "label": "Como",
-            "text": "A prefeitura deve plantar árvores nos trajetos mais usados. Nos dias de alerta, as equipes de saúde devem visitar moradores em risco e ajudá-los a chegar a um local fresco."
+            "text": "A prefeitura deve arborizar os trajetos prioritários e instalar coberturas nas paradas expostas enquanto as árvores crescem. Nos dias de alerta, as equipes de saúde devem visitar moradores em risco."
           },
           {
             "label": "Para quê",
-            "text": "A medida reduz a exposição diária e oferece ajuda durante as ondas de calor."
+            "text": "A medida busca reduzir a exposição diária e prevenir problemas de saúde durante as ondas de calor."
           },
           {
             "label": "Detalhamento",
-            "text": "Os locais de acolhimento devem oferecer água e ter seus horários divulgados nas unidades de saúde e nas rádios locais."
+            "text": "Nas visitas, as equipes devem priorizar idosos que vivem sozinhos em casas abafadas e, quando necessário, solicitar transporte municipal para levá-los a centros comunitários com água e ventilação."
           }
         ]
       }
@@ -1867,7 +1867,7 @@
     "connectors": [
       {
         "term": "Em primeiro lugar",
-        "use": "Apresenta a arborização dos locais mais expostos como primeira forma de proteção."
+        "use": "Abre a discussão mostrando como a falta de sombra no trajeto prolonga a exposição ao sol."
       },
       {
         "term": "Já",
@@ -1879,7 +1879,7 @@
       },
       {
         "term": "Assim",
-        "use": "Mostra como conhecer os moradores em risco permite agir assim que sai a previsão."
+        "use": "Mostra como calor na rua, moradia abafada e falta de apoio podem somar riscos."
       },
       {
         "term": "Diante desse cenário",
@@ -1901,11 +1901,11 @@
     "studyNotes": [
       {
         "title": "A árvore e a parada de ônibus",
-        "description": "Lembre da sombra na parada quando quiser mostrar que o lugar do plantio importa. Uma praça distante pouco ajuda quem precisa esperar pelo ônibus no sol todos os dias."
+        "description": "Uma praça com árvores pode oferecer sombra aos frequentadores, enquanto quem precisa esperar em uma parada descoberta continua exposto. A proposta prioriza os trajetos de uso diário."
       },
       {
         "title": "A onda de calor e o idoso sozinho",
-        "description": "A orientação do Ministério da Saúde ajuda a lembrar por que a equipe deve procurar quem tem dificuldade de se refrescar. O plantio protege no longo prazo, e a visita atende quem corre risco no dia do alerta."
+        "description": "A exposição no caminho pode se somar ao calor em uma casa abafada. Um idoso que mora sozinho e tem dificuldade para sair precisa de apoio para chegar a um local fresco."
       }
     ]
   },
@@ -2202,15 +2202,15 @@
         "parts": [
           {
             "label": "Assunto",
-            "text": "Depois de uma enchente, a escola pode reabrir enquanto parte das famílias ainda procura moradia ou repõe o que perdeu."
+            "text": "Depois de uma enchente, a escola pode reabrir enquanto algumas famílias ainda procuram moradia."
           },
           {
             "label": "Tema",
-            "text": "Na volta às aulas, essa diferença de ritmos faz do cuidado com a saúde mental um desafio para a escola brasileira."
+            "text": "Essa diferença de ritmos faz da promoção da saúde mental um desafio na escola brasileira."
           },
           {
             "label": "Tese",
-            "text": "Para que os alunos recuperem a confiança e retomem os estudos, a escola precisa ajustar as cobranças às condições da turma e envolver os estudantes na reconstrução da rotina."
+            "text": "Para recuperar a confiança dos alunos, é preciso ajustar as cobranças às condições da turma e envolvê-la na reconstrução da rotina."
           }
         ]
       },
@@ -2219,15 +2219,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Como primeiro passo, é preciso entender o que cada turma tem condições de retomar."
+            "text": "Como primeiro passo, a escola precisa entender em que condições os alunos voltam."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O UNICEF recomenda que as escolas reservem tempo para ouvir os alunos depois de uma emergência. Uma conversa no início do retorno pode revelar que alguns alunos estão em moradias provisórias ou precisam dividir materiais. Se a primeira semana for tomada por provas, essas dificuldades podem aparecer apenas como faltas ou notas baixas."
+            "text": "O UNICEF recomenda reservar tempo para ouvir os estudantes depois de uma emergência. Uma conversa pode revelar que alguns ainda vivem em abrigos com pouco espaço para estudar. Se a volta começa com provas, essa dificuldade pode aparecer apenas como nota baixa e agravar o medo de ficar para trás."
           },
           {
             "label": "Ligação",
-            "text": "Com essa escuta, a escola pode reorganizar prazos e perceber quem precisa de apoio individual."
+            "text": "Com essa escuta, a escola pode espaçar as avaliações e dar à turma tempo para recuperar o ritmo de estudo."
           }
         ]
       },
@@ -2236,15 +2236,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além dos ajustes nas avaliações, a participação dos estudantes ajuda a reconstruir os laços com a escola."
+            "text": "Além de ajustar as avaliações, a escola precisa envolver a turma no acolhimento de quem retorna."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O Programa Saúde na Escola inclui ações de promoção da saúde mental. Como parte desse cuidado, representantes de turma podem organizar duplas para compartilhar materiais e ajudar colegas a recuperar o conteúdo perdido."
+            "text": "O Programa Saúde na Escola inclui a promoção da saúde mental entre suas ações. Nessa linha, representantes de turma podem organizar duplas voluntárias para receber quem volta depois. Saber que um colega o espera para fazer as primeiras atividades pode diminuir o medo de voltar e de ficar sozinho."
           },
           {
             "label": "Ligação",
-            "text": "Quando os estudantes ajudam a organizar a volta, quem chega depois encontra apoio para retomar as atividades."
+            "text": "Se quiser falar sobre o que viveu na enchente, o aluno pode pedir ao colega que o acompanhe até um professor de confiança."
           }
         ]
       },
@@ -2257,19 +2257,19 @@
           },
           {
             "label": "O que",
-            "text": "devem orientar a retomada das aulas depois de emergências."
+            "text": "devem organizar a retomada das aulas após enchentes."
           },
           {
             "label": "Como",
-            "text": "Nas primeiras semanas, as escolas devem reservar tempo para ouvir os alunos, ajustar as avaliações e discutir com as turmas formas de receber quem ainda está voltando."
+            "text": "Nas primeiras semanas, as escolas devem ouvir as turmas para ajustar o calendário de provas e organizar duplas de acolhimento com os alunos."
           },
           {
             "label": "Para quê",
-            "text": "A medida busca reduzir o isolamento e devolver aos estudantes condições para aprender."
+            "text": "A medida busca reduzir o isolamento e dar aos estudantes segurança para participar das aulas."
           },
           {
             "label": "Detalhamento",
-            "text": "A escola deve oferecer uma conversa reservada a alunos com faltas repetidas e acionar a unidade de saúde do bairro quando houver necessidade."
+            "text": "A direção deve indicar professores para conversas reservadas e acionar a unidade de saúde do bairro quando o aluno precisar de apoio especializado."
           }
         ]
       }
@@ -2281,19 +2281,19 @@
       },
       {
         "term": "Com essa escuta",
-        "use": "Mostra como ouvir os alunos orienta o ajuste de prazos e ajuda a identificar quem precisa de apoio."
+        "use": "Mostra como conhecer as condições dos alunos orienta o ajuste das avaliações."
       },
       {
-        "term": "Além dos ajustes nas avaliações",
-        "use": "Passa das decisões da escola para o papel dos estudantes na retomada."
+        "term": "Além de ajustar as avaliações",
+        "use": "Acrescenta a participação dos estudantes às mudanças feitas pela escola."
       },
       {
-        "term": "Quando",
-        "use": "Liga a participação dos colegas ao apoio de quem volta depois."
+        "term": "Nessa linha",
+        "use": "Aplica a ideia de promoção da saúde mental a uma ação que a turma pode organizar."
       },
       {
         "term": "Por isso",
-        "use": "Reúne a escuta e a participação dos alunos na proposta para a volta às aulas."
+        "use": "Reúne a escuta, o acolhimento entre colegas e o apoio dos adultos na proposta de retomada."
       }
     ],
     "repertoire": [
@@ -2311,11 +2311,11 @@
     "studyNotes": [
       {
         "title": "Da volta ao prédio à volta aos estudos",
-        "description": "A enchente dá sentido a uma diferença de ritmos. A escola pode reabrir antes de a turma ter condições de fazer provas, e a escuta ajuda a perceber essa diferença."
+        "description": "A enchente dá sentido à diferença de ritmos. As notas baixas podem esconder a falta de um lugar para estudar. Ao ouvir a turma, a escola entende por que precisa reorganizar as avaliações."
       },
       {
-        "title": "Pertencimento em uma decisão da turma",
-        "description": "Organizar duplas para receber colegas transforma a participação em uma tarefa concreta. Assim, o estudante que volta mais tarde encontra ajuda para se reintegrar."
+        "title": "Do apoio do colega à conversa com um adulto",
+        "description": "A dupla dá ao aluno alguém com quem contar nos primeiros dias e facilita o contato com um professor de confiança. A conclusão prevê uma conversa reservada e apoio da unidade de saúde quando necessário."
       }
     ]
   },
@@ -2337,15 +2337,15 @@
         "parts": [
           {
             "label": "Assunto",
-            "text": "No curta Ilha das Flores, de Jorge Furtado, um tomate vai parar no lixo. Ali, parte da comida descartada é separada para os porcos. Mulheres e crianças só podem recolher o que sobra. O filme expõe o contraste entre comida descartada e fome."
+            "text": "No curta Ilha das Flores, de Jorge Furtado, um tomate vai parar no lixo. Ali, mulheres e crianças só podem recolher a comida descartada depois que uma parte é separada para os porcos."
           },
           {
             "label": "Tema",
-            "text": "O filme expõe o contraste entre comida descartada e fome. No Brasil, evitar o desperdício começa também em cozinhas coletivas, como as da merenda escolar."
+            "text": "A cena expõe o contraste entre a fome e o descarte de alimentos. Nas cozinhas escolares brasileiras, as decisões diárias de preparo e serviço podem evitar que parte da comida tenha esse destino."
           },
           {
             "label": "Tese",
-            "text": "Para reduzir esse desperdício, é preciso ajustar o preparo ao número de alunos que comem e entender por que parte da refeição volta nos pratos."
+            "text": "Reduzir o desperdício, nesse caso, exige ajustar a quantidade preparada à demanda e investigar por que parte da refeição volta nos pratos."
           }
         ]
       },
@@ -2354,15 +2354,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Primeiramente, medir o que sobra nas panelas ajuda a descobrir se a cozinha prepara comida demais."
+            "text": "Primeiramente, calcular as porções pelo total de matriculados pode gerar sobras, pois parte dos alunos falta ou dispensa a merenda."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "Um relatório da ONU sobre desperdício mostra a importância de medir o descarte em serviços de alimentação. Na escola, se parte do arroz preparado fica na panela quase todo dia, a equipe pode comparar a quantidade feita com o número de refeições servidas."
+            "text": "Um relatório da ONU destaca a importância de medir o descarte em serviços de alimentação. Se o arroz fica na panela com frequência, a equipe pode pesar a sobra e comparar a quantidade preparada com o número de refeições servidas."
           },
           {
             "label": "Ligação",
-            "text": "Com esse registro, a cozinha pode ajustar o preparo ao consumo da turma."
+            "text": "Com esse registro, a cozinha pode ajustar as quantidades à demanda da escola."
           }
         ]
       },
@@ -2371,15 +2371,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Já a comida que volta no prato pede atenção ao modo como os alunos recebem a refeição."
+            "text": "Já os restos nos pratos podem indicar rejeição ao preparo, mesmo quando a porção é adequada."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O programa federal da merenda prevê que as equipes avaliem se os alunos aceitam os pratos. Se uma salada volta quase inteira com frequência, a equipe pode servir pequenas amostras em preparos diferentes e ouvir a turma sobre o sabor e a textura."
+            "text": "O Programa Nacional de Alimentação Escolar prevê testes de aceitação. Se uma salada costuma voltar quase inteira, a equipe pode testar outros preparos com o mesmo ingrediente e ouvir os alunos sobre sabor e textura."
           },
           {
             "label": "Ligação",
-            "text": "Desse modo, a escola pode melhorar a aceitação do prato e manter seu valor nutricional."
+            "text": "Desse modo, o nutricionista pode melhorar a aceitação e preservar o valor nutricional do cardápio."
           }
         ]
       },
@@ -2392,19 +2392,19 @@
           },
           {
             "label": "O que",
-            "text": "devem criar uma rotina de acompanhamento das sobras na merenda."
+            "text": "devem acompanhar as sobras da merenda."
           },
           {
             "label": "Como",
-            "text": "As equipes devem pesar separadamente o que fica nas panelas e o que volta nos pratos, além de ouvir os alunos sobre as receitas menos aceitas."
+            "text": "Para isso, as equipes devem registrar diariamente o número de refeições servidas e pesar separadamente as sobras das panelas e os restos dos pratos."
           },
           {
             "label": "Para quê",
-            "text": "A medida busca preparar a quantidade necessária e fazer com que mais da comida servida seja aproveitada."
+            "text": "A medida busca evitar o excesso de preparo e aproveitar melhor a comida servida."
           },
           {
             "label": "Detalhamento",
-            "text": "Com os registros, a cozinha pode revisar as quantidades e testar novos preparos para os ingredientes menos aceitos."
+            "text": "Ao fim de cada mês, os nutricionistas devem revisar as quantidades com base nos registros e testar novas receitas com os alunos quando a rejeição for recorrente."
           }
         ]
       }
@@ -2412,11 +2412,11 @@
     "connectors": [
       {
         "term": "Primeiramente",
-        "use": "Abre a discussão pelas sobras nas panelas, que podem indicar excesso no preparo."
+        "use": "Abre a discussão com o excesso de preparo, que pode ocorrer quando o número de matriculados é maior que o de alunos que comem."
       },
       {
         "term": "Com esse registro",
-        "use": "Liga a medição das sobras ao planejamento das quantidades."
+        "use": "Liga a medição da sobra e a contagem de refeições ao planejamento das quantidades."
       },
       {
         "term": "Já",
@@ -2424,7 +2424,7 @@
       },
       {
         "term": "Desse modo",
-        "use": "Liga o teste de preparos e a escuta dos alunos à melhora da aceitação do prato."
+        "use": "Liga o teste de preparos e a escuta dos alunos à escolha de receitas que conciliem aceitação e nutrição."
       },
       {
         "term": "Portanto",
@@ -2451,11 +2451,11 @@
     "studyNotes": [
       {
         "title": "Duas sobras, duas perguntas",
-        "description": "O arroz que fica na panela faz a equipe perguntar quanto precisava preparar. A salada que volta no prato faz perguntar por que os estudantes deixaram de comê-la."
+        "description": "O arroz que fica na panela faz a equipe perguntar quanto precisava preparar. A salada que volta no prato faz perguntar por que os estudantes deixaram de comê-la. A proposta registra cada tipo de sobra separadamente para orientar ajustes diferentes."
       },
       {
         "title": "A participação muda uma escolha",
-        "description": "A turma pode ajudar a identificar se a rejeição está no sabor, na textura ou na forma de servir. A equipe de nutrição usa essas respostas ao testar ajustes no preparo."
+        "description": "A turma pode ajudar a identificar se a rejeição está no sabor ou na textura. O nutricionista usa essas respostas para testar outros preparos e preservar o valor nutricional da merenda."
       }
     ]
   },
@@ -2617,15 +2617,15 @@
         "parts": [
           {
             "label": "Assunto",
-            "text": "Em uma rede social, o botão de denúncia pode ser o primeiro recurso de quem sofre uma ameaça."
+            "text": "Nas redes sociais, o botão de denúncia pode ser o primeiro recurso de quem sofre uma ameaça."
           },
           {
             "label": "Tema",
-            "text": "Para crianças e adolescentes no Brasil, a proteção no ambiente digital depende tanto desse primeiro contato quanto da resposta ao relato."
+            "text": "No Brasil, a proteção de crianças e adolescentes no ambiente digital depende desse primeiro contato e da resposta ao relato."
           },
           {
             "label": "Tese",
-            "text": "É preciso tornar a denúncia fácil de enviar e encaminhar rapidamente os casos graves, para que quem pede ajuda receba proteção."
+            "text": "É preciso facilitar o envio de denúncias e agilizar o encaminhamento de casos graves."
           }
         ]
       },
@@ -2634,15 +2634,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Em primeiro lugar, crianças e adolescentes precisam de um canal de denúncia que consigam usar."
+            "text": "Em primeiro lugar, o canal de denúncia precisa ser fácil de usar."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O ECA Digital estabelece deveres de proteção para as plataformas. Se o botão fica escondido em vários menus, uma pessoa jovem pode desistir antes de relatar a ameaça. Mesmo depois de achar o formulário, ela pode parar se não entender como indicar o que aconteceu."
+            "text": "O ECA Digital prevê que as plataformas ofereçam canais para denunciar violações de direitos. Se o botão fica escondido, o jovem pode desistir antes de relatar a ameaça. Mesmo depois de encontrá-lo, pode parar se as instruções do formulário forem confusas."
           },
           {
             "label": "Ligação",
-            "text": "Por isso, um formulário curto, com instruções claras, ajuda o jovem a concluir a denúncia."
+            "text": "Por isso, um botão visível e um formulário claro facilitam o pedido de ajuda."
           }
         ]
       },
@@ -2651,15 +2651,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Depois do envio, casos graves exigem uma resposta que vá além da própria plataforma."
+            "text": "Depois do envio, casos graves exigem uma resposta fora da plataforma."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "Uma regra do Ministério da Justiça prevê que as plataformas notifiquem a Polícia Federal em casos como a circulação de material de violência sexual contra crianças. A Polícia Federal deve analisar essas notificações e repassá-las à autoridade responsável. Com essa divisão de tarefas, o relato tem mais chance de chegar rapidamente a quem pode intervir."
+            "text": "Uma portaria do Ministério da Justiça prevê que as plataformas notifiquem a Polícia Federal sobre casos como a circulação de material de violência sexual contra crianças e adolescentes. O centro de triagem da polícia analisa o relato e o encaminha à autoridade competente."
           },
           {
             "label": "Ligação",
-            "text": "Assim, o encaminhamento dá continuidade à proteção que começa com a denúncia."
+            "text": "Assim, quando há indícios de abuso em curso, o repasse rápido pode ajudar a interromper a violência."
           }
         ]
       },
@@ -2668,23 +2668,23 @@
         "parts": [
           {
             "label": "Quem",
-            "text": "Diante desses desafios, a Agência Nacional de Proteção de Dados e o Ministério da Justiça"
+            "text": "Diante desses desafios, a Agência Nacional de Proteção de Dados e o Ministério da Justiça e Segurança Pública"
           },
           {
             "label": "O que",
-            "text": "devem acompanhar os canais de denúncia e o encaminhamento de casos graves."
+            "text": "devem corrigir falhas no envio e no repasse das denúncias."
           },
           {
             "label": "Como",
-            "text": "A agência deve testar os formulários das plataformas, e o ministério deve acompanhar o tempo entre a confirmação do risco e o repasse à autoridade responsável."
+            "text": "A agência deve testar os canais e cobrar que as plataformas deixem o botão junto às publicações e simplifiquem os campos que geram dúvidas. Já o ministério deve medir, com a Polícia Federal, o tempo entre a notificação e o repasse e ampliar a equipe de triagem se casos urgentes se acumularem."
           },
           {
             "label": "Para quê",
-            "text": "A medida busca evitar que jovens desistam de denunciar e agilizar a resposta a situações graves."
+            "text": "As medidas buscam reduzir a desistência e agilizar a proteção das vítimas."
           },
           {
             "label": "Detalhamento",
-            "text": "Com casos fictícios, os testes devem verificar se o usuário encontra o botão e recebe uma confirmação do envio que consiga entender."
+            "text": "Os testes devem usar casos fictícios. Nos registros reais, apenas equipes autorizadas devem acessar os dados das vítimas."
           }
         ]
       }
@@ -2699,16 +2699,16 @@
         "use": "Mostra que entender o formulário ainda pode ser difícil depois de encontrá-lo."
       },
       {
-        "term": "Por isso",
-        "use": "Liga o risco de desistência à necessidade de um formulário curto e claro."
-      },
-      {
         "term": "Depois do envio",
         "use": "Marca a passagem do registro da denúncia para o encaminhamento dos casos graves."
       },
       {
         "term": "Diante desses desafios",
-        "use": "Introduz uma proposta que acompanha tanto o envio da denúncia quanto a resposta aos casos graves."
+        "use": "Retoma os problemas no envio e no repasse da denúncia para introduzir a proposta."
+      },
+      {
+        "term": "Já o ministério",
+        "use": "Distingue o acompanhamento dos encaminhamentos da fiscalização dos canais de denúncia."
       }
     ],
     "repertoire": [
@@ -2726,11 +2726,11 @@
     "studyNotes": [
       {
         "title": "Dois pontos de desistência",
-        "description": "O jovem pode parar porque não encontra o botão ou porque não entende o formulário. O teste da conclusão transforma a facilidade de denunciar em algo que se pode verificar."
+        "description": "O jovem pode parar porque não encontra o botão ou porque não entende o formulário. A agência testa o canal com casos fictícios e cobra correções específicas para cada dificuldade."
       },
       {
         "title": "Uma denúncia precisa chegar a quem pode agir",
-        "description": "O texto segue o relato até a autoridade que pode intervir em casos graves. A proposta transforma essa etapa em algo mensurável ao acompanhar o tempo de encaminhamento."
+        "description": "A denúncia precisa chegar logo à autoridade competente, sobretudo se o abuso estiver em curso. A proposta liga o tempo de repasse ao reforço da triagem e restringe o acesso aos dados das vítimas."
       }
     ]
   },
@@ -2752,7 +2752,7 @@
         "parts": [
           {
             "label": "Assunto",
-            "text": "Quem calcula material para uma obra já usa matemática, mesmo que tenha deixado a escola cedo."
+            "text": "Quem estima o material para uma obra já usa matemática."
           },
           {
             "label": "Tema",
@@ -2769,15 +2769,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "De início, partir de situações conhecidas pela turma ajuda a dar sentido ao que se aprende na escola."
+            "text": "De início, a ligação entre o conteúdo e o cotidiano ajuda a dar sentido ao tempo que a turma dedica à escola."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "Para Paulo Freire, a leitura das palavras parte da compreensão que cada pessoa já tem do mundo. Na EJA, uma turma pode calcular quantos pisos cobrem uma sala para aprender a medir áreas. Depois, pode aplicar o mesmo raciocínio ao interpretar a planta de uma casa."
+            "text": "Para Paulo Freire, a leitura das palavras parte da compreensão que cada pessoa já tem do mundo. Na EJA, o professor pode partir do cálculo de pisos para ensinar a medir áreas. Ao aplicar esse cálculo na leitura da planta de uma casa, o aluno percebe que pode conferir as medidas de uma obra."
           },
           {
             "label": "Ligação",
-            "text": "Com isso, o estudante percebe como a escola amplia um saber que ele já usa."
+            "text": "Com isso, quem chega cansado do trabalho encontra na utilidade da aula um motivo para voltar."
           }
         ]
       },
@@ -2786,15 +2786,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além de aproximar as aulas da vida da turma, a escola pode usar a avaliação para mostrar ao estudante o que ele já aprendeu e o que ainda precisa praticar."
+            "text": "Além de aproximar as aulas do cotidiano, é preciso mostrar ao estudante como ele pode avançar."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "As diretrizes da EJA orientam que a avaliação acompanhe a aprendizagem. Em um texto de opinião, receber apenas uma nota baixa pode desanimar. Se o professor aponta que a tese está clara e pede um exemplo para sustentar o argumento, o estudante sabe o que fazer ao reescrever."
+            "text": "As diretrizes da EJA orientam que a avaliação acompanhe a aprendizagem. Ao corrigir um texto de opinião, o professor pode dizer que a tese está clara e pedir um exemplo para sustentar o argumento. Ao reescrever e comparar as versões, o aluno percebe como o exemplo fortalece seu argumento."
           },
           {
             "label": "Ligação",
-            "text": "Assim, reconhecer o próprio avanço dá confiança para continuar estudando."
+            "text": "Assim, reconhecer o próprio avanço dá ao estudante confiança para continuar frequentando as aulas mesmo em semanas de trabalho intenso."
           }
         ]
       },
@@ -2807,19 +2807,19 @@
           },
           {
             "label": "O que",
-            "text": "devem apoiar o planejamento de aulas e avaliações na EJA."
+            "text": "devem oferecer formação aos professores da EJA sobre planejamento de aulas e avaliações."
           },
           {
             "label": "Como",
-            "text": "Em oficinas, os professores devem criar atividades a partir de experiências da turma e preparar comentários que orientem os estudantes."
+            "text": "Em oficinas, os docentes devem criar atividades ligadas à experiência da turma e prever tempo para revisar os trabalhos."
           },
           {
             "label": "Para quê",
-            "text": "A medida busca ampliar a participação e incentivar a continuidade dos estudos."
+            "text": "A medida busca fortalecer a participação nas aulas e a permanência na escola."
           },
           {
             "label": "Detalhamento",
-            "text": "Ao fim de cada projeto, o professor deve indicar um avanço e combinar com cada estudante uma meta para a próxima atividade."
+            "text": "Em cada projeto, o professor deve apontar um avanço e combinar com cada estudante uma melhoria que ele possa testar na atividade seguinte."
           }
         ]
       }
@@ -2831,11 +2831,11 @@
       },
       {
         "term": "Com isso",
-        "use": "Mostra o que o estudante percebe ao aplicar o que aprendeu em outra situação."
+        "use": "Liga a utilidade percebida na aula à disposição de continuar frequentando a escola."
       },
       {
-        "term": "Além de aproximar as aulas da vida da turma",
-        "use": "Retoma o papel das aulas e acrescenta a avaliação como forma de apoiar a permanência."
+        "term": "Além de aproximar as aulas do cotidiano",
+        "use": "Acrescenta a avaliação como forma de apoiar a permanência na EJA."
       },
       {
         "term": "Assim",
@@ -2843,7 +2843,7 @@
       },
       {
         "term": "Diante desses desafios",
-        "use": "Encaminha a proposta de apoiar os professores no planejamento das aulas e avaliações."
+        "use": "Introduz a proposta de formar professores para planejar aulas e avaliações na EJA."
       }
     ],
     "repertoire": [
@@ -2860,12 +2860,12 @@
     ],
     "studyNotes": [
       {
-        "title": "A experiência da turma inicia a aula",
-        "description": "O cálculo de pisos dá um sentido conhecido ao estudo de áreas. A planta de uma casa mostra como aplicar o mesmo raciocínio em outra situação."
+        "title": "Uma razão para voltar depois do trabalho",
+        "description": "O cálculo de pisos dá um sentido conhecido ao estudo de áreas. Quando percebe que pode conferir as medidas de uma obra, o estudante vê utilidade no que aprende e tem mais um motivo para voltar à escola."
       },
       {
         "title": "Uma observação dá rumo à reescrita",
-        "description": "O exemplo do texto de opinião separa o que o estudante já conseguiu fazer do que ainda pode melhorar. A proposta leva essa lógica aos projetos da turma ao pedir um avanço e uma meta."
+        "description": "O professor indica uma qualidade do texto e uma mudança possível. Ao comparar as versões, o aluno enxerga o próprio progresso e ganha confiança para continuar estudando."
       }
     ]
   },
