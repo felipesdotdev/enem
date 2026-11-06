@@ -160,6 +160,7 @@ img { display: block; max-width: 100%; }
 .practice-intro p { max-width: 590px; color: var(--muted); margin-top: 6px; font-size: 13px; line-height: 1.65; }
 .practice-group { padding-block: 12px 21px; }
 .practice-group + .practice-group { padding-top: 19px; border-top: 1px solid var(--line); }
+.practice-divider { border-top: 1px solid var(--line); padding-top: 14px; font-size: 13px; font-weight: 800; }
 .practice-group .section-head h2 { max-width: 750px; font-size: clamp(18px, 2.05vw, 25px); }
 .practice-group .essay-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .practice-group .essay-card { min-height: 178px; }

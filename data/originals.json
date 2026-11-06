@@ -34,11 +34,11 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Quando a nota depende só do texto final, copiar uma resposta pronta pode bastar para obter um bom resultado."
+            "text": "Em primeiro lugar, a forma de avaliar pode incentivar o uso de respostas prontas."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "Em Pedagogia da Autonomia, Paulo Freire defende que o aluno participe da construção do conhecimento. Em um trabalho sobre o bairro, por exemplo, ele pode usar a IA para revisar a escrita. Ao pedir que o aluno explique por que escolheu cada fonte, o professor verifica como ele chegou às próprias conclusões."
+            "text": "Quando a nota depende só do texto final, copiar pode bastar para obter um bom resultado. Em Pedagogia da Autonomia, Paulo Freire defende que o aluno participe da construção do conhecimento. Em um trabalho sobre o bairro, por exemplo, o aluno pode usar a IA para revisar a escrita. Ainda assim, cabe a ele explicar por que escolheu cada fonte e como chegou às conclusões."
           },
           {
             "label": "Ligação",
@@ -55,7 +55,7 @@
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "No jornalismo de checagem, investigar a origem de uma informação ajuda a decidir se ela merece confiança. Em uma aula de História, o professor pode seguir esse exemplo. A turma compara uma data sugerida pela IA com a de um documento da época e explica em que fonte confia e por quê."
+            "text": "No jornalismo de checagem, investigar a origem de uma informação ajuda a decidir se ela merece confiança. Em uma aula de História, o professor pode seguir esse exemplo. A turma consulta um documento da época e explica se ele confirma a data sugerida pela IA."
           },
           {
             "label": "Ligação",
@@ -72,11 +72,11 @@
           },
           {
             "label": "O que",
-            "text": "devem incluir a verificação de fontes nas avaliações escolares."
+            "text": "devem orientar as escolas a avaliar a escolha das fontes e preparar os professores para ensinar a checagem."
           },
           {
             "label": "Como",
-            "text": "Em oficinas, os professores devem preparar atividades de checagem e definir como avaliar o raciocínio dos alunos."
+            "text": "Para isso, as secretarias devem oferecer oficinas em que os professores elaborem atividades de checagem e definam como avaliar as justificativas dos alunos."
           },
           {
             "label": "Para quê",
@@ -84,27 +84,31 @@
           },
           {
             "label": "Detalhamento",
-            "text": "Parte da nota deve vir da explicação de uma correção feita após consultar uma fonte."
+            "text": "Parte da nota deve considerar como o aluno justificou uma resposta com base na fonte consultada."
           }
         ]
       }
     ],
     "connectors": [
       {
-        "term": "por exemplo",
-        "use": "Mostra como uma pesquisa sobre o bairro permite avaliar o raciocínio."
+        "term": "Em primeiro lugar",
+        "use": "Abre o primeiro argumento da tese e mostra como o modo de avaliar influencia o uso da IA."
       },
       {
-        "term": "Assim",
-        "use": "Explica o que muda quando o professor avalia o caminho até a resposta."
+        "term": "por exemplo",
+        "use": "Aplica a ideia de Paulo Freire a uma pesquisa sobre o bairro."
+      },
+      {
+        "term": "Ainda assim",
+        "use": "Mostra que usar a IA para revisar a escrita não dispensa o aluno de justificar as escolhas."
       },
       {
         "term": "Além de avaliar esse percurso",
-        "use": "Liga a avaliação ao ensino da verificação de fontes."
+        "use": "Retoma o caminho até a resposta e acrescenta o ensino da checagem."
       },
       {
         "term": "Portanto",
-        "use": "Reúne os dois argumentos na proposta para as secretarias de educação."
+        "use": "Leva os dois argumentos à proposta de avaliar fontes e preparar os professores."
       }
     ],
     "repertoire": [
@@ -165,15 +169,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Um aviso genérico de chuva forte pode deixar o morador sem saber se precisa sair ou qual caminho tomar."
+            "text": "De início, é preciso garantir que o alerta indique ao morador se ele deve sair e por onde seguir."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "A Defesa Civil envia alertas pelo celular. Para orientar quem mora perto de um córrego, a mensagem pode indicar qual ponte evitar e em que escola fica o abrigo. Para isso, a equipe precisa consultar os moradores sobre quais ruas alagam primeiro."
+            "text": "A Defesa Civil já envia alertas pelo celular. Em um bairro cortado por um córrego, por exemplo, a mensagem pode indicar qual ponte evitar e em que escola fica o abrigo. Para dar essas instruções, a equipe precisa consultar os moradores sobre quais ruas alagam primeiro."
           },
           {
             "label": "Ligação",
-            "text": "Desse modo, o conhecimento do bairro ajuda a transformar uma previsão em orientação de saída."
+            "text": "Desse modo, o conhecimento do bairro ajuda a transformar um alerta geral em instruções para a saída."
           }
         ]
       },
@@ -190,7 +194,7 @@
           },
           {
             "label": "Ligação",
-            "text": "Nesse caso, planejar o transporte evita que a pessoa fique para trás mesmo depois de receber o alerta."
+            "text": "Assim, prever rotas acessíveis e oferecer transporte quando necessário ajuda a garantir que todos cheguem ao abrigo."
           }
         ]
       },
@@ -222,20 +226,24 @@
     ],
     "connectors": [
       {
-        "term": "Para orientar",
-        "use": "Introduz o exemplo da mensagem com indicações do bairro."
+        "term": "De início",
+        "use": "Introduz o primeiro ponto da tese, a necessidade de alertas que orientem a saída."
+      },
+      {
+        "term": "por exemplo",
+        "use": "Mostra que tipo de informação torna um aviso de enchente mais útil."
       },
       {
         "term": "Desse modo",
-        "use": "Liga o conhecimento dos moradores à orientação de saída."
+        "use": "Liga o conhecimento dos moradores às instruções para chegar ao abrigo."
       },
       {
         "term": "Mesmo com um aviso claro",
-        "use": "Passa da comunicação para as condições de deslocamento."
+        "use": "Mostra que receber boas instruções pode ser insuficiente para chegar ao abrigo."
       },
       {
         "term": "Por isso",
-        "use": "Retoma os dois obstáculos na proposta de evacuação por bairro."
+        "use": "Retoma a comunicação e o deslocamento na proposta de evacuação por bairro."
       }
     ],
     "repertoire": [
@@ -296,15 +304,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "O receio de ser julgado pode adiar o pedido de ajuda."
+            "text": "Primeiramente, o receio de ser julgado pode adiar o pedido de ajuda."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "A Organização Mundial da Saúde aponta que a vergonha afasta dos serviços de saúde quem sofre com apostas. Se espera ser chamada de irresponsável, a pessoa pode esconder uma conta que deixou de pagar. Enquanto esconde a perda, tem mais dificuldade para reorganizar os gastos e pedir apoio."
+            "text": "A Organização Mundial da Saúde aponta que a vergonha afasta dos serviços de saúde quem sofre com apostas. Se teme ser chamada de irresponsável, a pessoa pode esconder uma conta em atraso. Enquanto esconde a perda, ela tem mais dificuldade para conversar sobre a dívida e reorganizar os gastos."
           },
           {
             "label": "Ligação",
-            "text": "Por isso, uma escuta sem acusações ajuda a enfrentar o problema antes que as perdas aumentem."
+            "text": "Por isso, oferecer uma escuta sem acusações pode facilitar a primeira conversa sobre o problema."
           }
         ]
       },
@@ -353,20 +361,24 @@
     ],
     "connectors": [
       {
-        "term": "Enquanto",
-        "use": "Mostra o que pode acontecer no período em que a pessoa esconde as perdas."
+        "term": "Primeiramente",
+        "use": "Apresenta a primeira barreira apontada na tese, o medo de pedir ajuda."
+      },
+      {
+        "term": "Por isso",
+        "use": "Liga o receio de julgamento à importância de acolher a pessoa sem acusações."
       },
       {
         "term": "Mesmo quando",
-        "use": "Passa do medo de pedir ajuda à dificuldade de acessar o serviço."
+        "use": "Mostra que as barreiras podem continuar depois da decisão de pedir ajuda."
       },
       {
         "term": "porém",
-        "use": "Aponta uma condição de acesso ao atendimento remoto."
+        "use": "Apresenta a exigência de uma conta Gov.br depois de explicar que há atendimento remoto."
       },
       {
         "term": "Diante dessas barreiras",
-        "use": "Retoma o medo do julgamento e a dificuldade de chegar ao atendimento."
+        "use": "Reúne o medo de se expor e a dificuldade de chegar ao serviço na proposta de acolhimento."
       }
     ],
     "repertoire": [
@@ -432,11 +444,11 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Um campo mal identificado pode impedir o cidadão de prosseguir sozinho."
+            "text": "Quanto ao preenchimento, a autonomia depende de saber o que cada campo pede."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "A Lei Brasileira de Inclusão exige acessibilidade nos sites de órgãos públicos. Em um formulário, porém, um leitor de tela pode anunciar apenas “campo de edição” se o sistema não informar que o campo pede o CPF. A pessoa pode ter de pedir ajuda e revelar um dado que preferia manter privado."
+            "text": "A Lei Brasileira de Inclusão exige acessibilidade nos sites de órgãos públicos. Em um formulário, porém, o leitor de tela pode anunciar apenas “campo de edição” se o sistema não indicar que o campo pede o CPF. A pessoa pode ter de pedir ajuda e revelar um dado que preferia manter privado."
           },
           {
             "label": "Ligação",
@@ -489,20 +501,24 @@
     ],
     "connectors": [
       {
+        "term": "Quanto ao preenchimento",
+        "use": "Retoma a primeira etapa discutida na tese e abre o argumento sobre a identificação dos campos."
+      },
+      {
         "term": "porém",
-        "use": "Contrasta a obrigação prevista em lei com uma barreira no formulário."
+        "use": "Contrasta a obrigação prevista em lei com uma barreira que pode surgir no formulário."
       },
       {
         "term": "Nesse caso",
-        "use": "Explica como o nome do campo afeta a autonomia e a privacidade."
+        "use": "Mostra por que identificar um campo de CPF protege a autonomia e a privacidade."
       },
       {
         "term": "Além disso",
-        "use": "Passa do preenchimento à etapa de envio."
+        "use": "Acrescenta uma barreira que pode surgir no envio mesmo depois de o cidadão preencher os campos."
       },
       {
         "term": "Por isso",
-        "use": "Liga as barreiras à correção dos formulários e aos testes do pedido completo."
+        "use": "Leva os dois exemplos à proposta de corrigir o formulário e testar o pedido completo."
       }
     ],
     "repertoire": [
@@ -563,7 +579,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "As humilhações repetidas podem levar o aluno a se afastar da turma."
+            "text": "Primeiramente, é preciso enfrentar as humilhações repetidas, que podem levar o aluno a se afastar da turma."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -580,7 +596,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "O acolhimento também precisa continuar quando o estudante necessita de atendimento profissional."
+            "text": "Além de prevenir agressões, a escola precisa ajudar os estudantes que necessitam de atendimento profissional."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -588,7 +604,7 @@
           },
           {
             "label": "Ligação",
-            "text": "Um contato direto entre a escola e a unidade de saúde facilita a passagem da primeira conversa ao atendimento."
+            "text": "Por isso, um contato direto entre a escola e a unidade de saúde facilita a passagem da primeira conversa ao atendimento."
           }
         ]
       },
@@ -597,11 +613,11 @@
         "parts": [
           {
             "label": "Quem",
-            "text": "Para enfrentar esses problemas, as secretarias municipais de educação e saúde"
+            "text": "Portanto, as secretarias municipais de educação e saúde"
           },
           {
             "label": "O que",
-            "text": "devem organizar a prevenção de agressões e o encaminhamento de estudantes nas escolas públicas."
+            "text": "devem orientar as escolas públicas a prevenir agressões e a encaminhar estudantes para atendimento."
           },
           {
             "label": "Como",
@@ -609,7 +625,7 @@
           },
           {
             "label": "Para quê",
-            "text": "A medida busca reduzir o isolamento dos alunos e facilitar o acesso a ajuda profissional."
+            "text": "A medida busca reduzir o isolamento dos alunos e facilitar o acesso à ajuda profissional."
           },
           {
             "label": "Detalhamento",
@@ -620,20 +636,24 @@
     ],
     "connectors": [
       {
+        "term": "Primeiramente",
+        "use": "Abre o primeiro argumento, sobre o afastamento causado pelas agressões entre colegas."
+      },
+      {
         "term": "por exemplo",
-        "use": "Introduz a reação do aluno quando as ofensas são tratadas como brincadeira."
+        "use": "Mostra como os apelidos ofensivos podem levar um aluno a evitar apresentações."
       },
       {
-        "term": "Assim",
-        "use": "Liga o combate às agressões à segurança para participar da aula."
+        "term": "Além de prevenir agressões",
+        "use": "Retoma a convivência escolar e acrescenta o acesso a atendimento profissional."
       },
       {
-        "term": "também",
-        "use": "Acrescenta o acesso à saúde ao cuidado que começa na escola."
+        "term": "Por isso",
+        "use": "Liga a dificuldade de marcar atendimento à necessidade de contato entre a escola e o posto de saúde."
       },
       {
-        "term": "Para isso",
-        "use": "Apresenta como as secretarias podem colocar a proposta em prática."
+        "term": "Portanto",
+        "use": "Retoma os dois problemas para propor a prevenção de agressões e o encaminhamento para atendimento."
       }
     ],
     "repertoire": [
@@ -699,7 +719,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "A aparência pode tirar da banca um alimento que continua bom para consumo."
+            "text": "Em primeiro lugar, é preciso evitar que a aparência tire da banca alimentos que continuam próprios para consumo."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -756,20 +776,24 @@
     ],
     "connectors": [
       {
-        "term": "por exemplo",
-        "use": "Apresenta a cenoura torta como caso de descarte por aparência."
+        "term": "Em primeiro lugar",
+        "use": "Abre a discussão pela etapa da venda, quando ainda é possível evitar parte do descarte."
       },
       {
-        "term": "Nesse caso",
-        "use": "Retoma o exemplo para mostrar o efeito de mudar a oferta."
+        "term": "por exemplo",
+        "use": "Apresenta a cenoura torta como caso de alimento que pode ser descartado pela aparência."
       },
       {
         "term": "Mesmo com esse cuidado",
-        "use": "Reconhece que parte dos alimentos pode sobrar após a venda."
+        "use": "Reconhece que parte dos alimentos pode sobrar mesmo com mudanças na venda."
       },
       {
         "term": "Por isso",
         "use": "Liga o risco de perder as verduras à necessidade de organizar a coleta."
+      },
+      {
+        "term": "Diante desse quadro",
+        "use": "Reúne os dois argumentos na proposta de vender com desconto e organizar a doação das sobras."
       }
     ],
     "repertoire": [
@@ -830,7 +854,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "A distância dos destinos já é um obstáculo mesmo quando o ônibus chega no horário."
+            "text": "Em primeiro lugar, a distância dos destinos já é um obstáculo, mesmo quando o ônibus chega no horário."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -838,7 +862,7 @@
           },
           {
             "label": "Ligação",
-            "text": "Portanto, aproximar serviços dos bairros reduz o tempo que os moradores precisam tirar de outras atividades."
+            "text": "Por esse motivo, oferecer serviços mais perto de casa reduz o tempo que os moradores gastam no trajeto."
           }
         ]
       },
@@ -847,7 +871,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Quando os horários dos ônibus não se encaixam, a distância pesa ainda mais."
+            "text": "Além disso, quando os horários dos ônibus não se encaixam, a distância pesa ainda mais."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -868,7 +892,7 @@
           },
           {
             "label": "O que",
-            "text": "devem aproximar serviços públicos das periferias e organizar melhor as conexões de ônibus."
+            "text": "devem aproximar serviços públicos das periferias e coordenar os horários dos ônibus."
           },
           {
             "label": "Como",
@@ -887,20 +911,24 @@
     ],
     "connectors": [
       {
+        "term": "Em primeiro lugar",
+        "use": "Apresenta a distância entre os bairros periféricos e os destinos como o primeiro obstáculo."
+      },
+      {
         "term": "por exemplo",
         "use": "Mostra como a distância de uma consulta pode afetar a jornada de trabalho."
       },
       {
-        "term": "Portanto",
+        "term": "Por esse motivo",
         "use": "Liga o custo do trajeto à importância de aproximar serviços."
       },
       {
-        "term": "Nesse caso",
-        "use": "Retoma o estudante para mostrar o impacto financeiro da conexão perdida."
+        "term": "Além disso",
+        "use": "Acrescenta o descompasso entre os horários dos ônibus à distância já discutida."
       },
       {
         "term": "Por essas razões",
-        "use": "Reúne a distância e o descompasso entre horários na proposta."
+        "use": "Transforma os dois obstáculos em propostas para os serviços públicos e os horários dos ônibus."
       }
     ],
     "repertoire": [
@@ -961,7 +989,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "As escolhas feitas pela plataforma já definem o grau de exposição de uma conta nova."
+            "text": "Antes de tudo, a plataforma precisa definir quem pode enviar mensagens para uma conta infantil."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -969,7 +997,7 @@
           },
           {
             "label": "Ligação",
-            "text": "Dessa maneira, a proteção começa no momento em que a conta é aberta."
+            "text": "Dessa maneira, a criança já recebe alguma proteção ao começar a usar o serviço."
           }
         ]
       },
@@ -978,7 +1006,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Saber como reagir ajuda quando uma abordagem indevida acontece."
+            "text": "Mesmo com as restrições de contato, crianças e adolescentes precisam saber como reagir a uma abordagem indevida."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -995,11 +1023,11 @@
         "parts": [
           {
             "label": "Quem",
-            "text": "Diante desses riscos, a Agência Nacional de Proteção de Dados e as secretarias de educação"
+            "text": "Assim, a Agência Nacional de Proteção de Dados e as secretarias de educação"
           },
           {
             "label": "O que",
-            "text": "devem proteger as contas de crianças e adolescentes e orientar alunos sobre bloqueio e denúncia."
+            "text": "devem atuar na proteção das contas e na orientação dos alunos."
           },
           {
             "label": "Como",
@@ -1018,16 +1046,20 @@
     ],
     "connectors": [
       {
+        "term": "Antes de tudo",
+        "use": "Abre a discussão pela proteção que já pode existir na hora do cadastro."
+      },
+      {
         "term": "Dessa maneira",
-        "use": "Liga a restrição de contatos à proteção no momento do cadastro."
+        "use": "Liga a restrição de mensagens à proteção no momento de abrir a conta."
       },
       {
-        "term": "quando",
-        "use": "Introduz a situação em que o jovem precisa pôr em prática o que aprendeu."
+        "term": "Mesmo com as restrições de contato",
+        "use": "Reconhece que abordagens indevidas ainda podem acontecer e introduz a necessidade de saber como reagir."
       },
       {
-        "term": "Ao ensaiar",
-        "use": "Liga a prática em uma atividade à reação diante de uma abordagem real."
+        "term": "Assim",
+        "use": "Reúne a proteção no cadastro e a orientação dos alunos na proposta de intervenção."
       },
       {
         "term": "enquanto",
@@ -1092,7 +1124,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "A oferta de aulas em um só turno dificulta a frequência de quem trabalha por escala."
+            "text": "Em primeiro lugar, a oferta de aulas em um só turno dificulta a frequência de quem trabalha por escala."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -1109,11 +1141,11 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além disso, a demora em procurar quem falta torna o retorno mais difícil."
+            "text": "Além do conflito de horários, a falta de contato com quem se ausenta torna o retorno mais difícil."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O transporte escolar é uma das formas de apoio à permanência previstas no Plano Nacional de Educação. Se um estudante começa a faltar porque perdeu a condução, o contato com a escola ajuda a identificar o motivo e a buscar alternativas de transporte."
+            "text": "O transporte escolar é uma das formas de apoio à permanência previstas no Plano Nacional de Educação. Se um estudante começa a faltar porque perdeu a condução, a equipe da escola pode procurá-lo para entender o motivo e buscar uma alternativa de transporte."
           },
           {
             "label": "Ligação",
@@ -1142,23 +1174,27 @@
           },
           {
             "label": "Detalhamento",
-            "text": "No primeiro contato, a equipe deve combinar a reposição da matéria e oferecer uma troca de turma, se houver vaga."
+            "text": "No primeiro contato, a equipe deve combinar a reposição da matéria e verificar se o aluno precisa de apoio com transporte ou de troca de turma."
           }
         ]
       }
     ],
     "connectors": [
       {
+        "term": "Em primeiro lugar",
+        "use": "Abre a discussão com o conflito entre o horário das aulas e o do trabalho."
+      },
+      {
         "term": "por exemplo",
         "use": "Mostra como a turma em turno único afeta quem trabalha por escala."
       },
       {
-        "term": "Além disso",
-        "use": "Passa do conflito de horários à demora no contato com quem falta."
+        "term": "Além do conflito de horários",
+        "use": "Retoma a primeira barreira e acrescenta a falta de contato da escola com o estudante."
       },
       {
         "term": "Por isso",
-        "use": "Liga o acúmulo de conteúdo à necessidade de agir cedo."
+        "use": "Relaciona o risco de acumular matéria à necessidade de procurar cedo quem falta."
       },
       {
         "term": "Diante disso",
@@ -1223,15 +1259,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "A escolha do sistema deve considerar onde ficam as casas e de onde vem a água que elas usam."
+            "text": "Antes da instalação, a escolha do sistema deve considerar onde ficam as casas e de onde vem a água que elas usam."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O Censo do IBGE registrou no campo tanto fossas sépticas quanto formas precárias de descarte. Onde as casas ficam distantes, uma fossa séptica por domicílio pode ser uma opção. A equipe técnica precisa, porém, verificar o solo e a distância até os poços para evitar a contaminação da água."
+            "text": "O Censo do IBGE registrou no campo tanto fossas sépticas quanto formas precárias de descarte. Em locais com casas afastadas, por exemplo, uma fossa séptica por domicílio pode ser uma opção. A equipe técnica precisa, porém, verificar o solo e a distância até os poços para evitar a contaminação da água."
           },
           {
             "label": "Ligação",
-            "text": "Por isso, examinar o local antes da obra ajuda a proteger as famílias."
+            "text": "Por isso, a vistoria do terreno deve orientar a escolha do sistema."
           }
         ]
       },
@@ -1244,7 +1280,7 @@
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "A Constituição prevê que o poder público aja para reduzir o risco de doenças. No campo, isso inclui cuidar das instalações de esgoto. Se ninguém inspeciona uma fossa nem organiza a retirada do lodo, ela pode transbordar e levar a família a descartar esgoto a céu aberto."
+            "text": "A Constituição prevê que o poder público aja para reduzir o risco de doenças. No campo, isso inclui cuidar das instalações de esgoto. Quando uma fossa passa muito tempo sem inspeção ou retirada de lodo, ela pode transbordar e expor os moradores ao esgoto."
           },
           {
             "label": "Ligação",
@@ -1257,7 +1293,7 @@
         "parts": [
           {
             "label": "Quem",
-            "text": "Para ampliar esse acesso, os municípios"
+            "text": "Portanto, os municípios"
           },
           {
             "label": "O que",
@@ -1280,20 +1316,24 @@
     ],
     "connectors": [
       {
-        "term": "porém",
-        "use": "Apresenta o cuidado necessário para escolher uma fossa séptica."
+        "term": "Antes da instalação",
+        "use": "Apresenta a primeira etapa do acesso ao tratamento de esgoto, a escolha do sistema."
       },
       {
-        "term": "Por isso",
-        "use": "Conclui que examinar o local ajuda a evitar contaminação."
+        "term": "porém",
+        "use": "Acrescenta uma ressalva à possibilidade de instalar fossas sépticas em casas afastadas."
       },
       {
         "term": "Depois da instalação",
-        "use": "Passa da escolha do equipamento ao funcionamento do serviço."
+        "use": "Marca a passagem da escolha do sistema à manutenção do serviço."
       },
       {
         "term": "Assim",
-        "use": "Mostra o efeito de atribuir a manutenção a uma equipe."
+        "use": "Relaciona o risco de transbordamento à necessidade de definir quem fará a manutenção."
+      },
+      {
+        "term": "Portanto",
+        "use": "Reúne as duas etapas na proposta de vistoria e manutenção pelos municípios."
       }
     ],
     "repertoire": [
@@ -1359,7 +1399,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "A falta de feiras e mercados próximos encarece a compra de alimentos frescos."
+            "text": "Primeiramente, a falta de feiras e mercados próximos encarece a compra de alimentos frescos."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -1376,15 +1416,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Para quem está sem dinheiro para comprar comida, mesmo uma feira próxima pode ser insuficiente."
+            "text": "Ainda assim, uma feira próxima pode ser insuficiente para quem está sem dinheiro para comprar comida."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "As cozinhas solidárias oferecem refeições gratuitas a quem precisa. Quando a cozinha funciona em dias conhecidos, a família pode contar com aquele almoço. Se as refeições são esporádicas, a incerteza volta a cada semana."
+            "text": "As cozinhas solidárias oferecem refeições gratuitas a quem precisa. Quando a cozinha abre em dias fixos, a família pode planejar quando buscar as refeições. Se o serviço é esporádico, a dúvida sobre a próxima refeição continua."
           },
           {
             "label": "Ligação",
-            "text": "Por isso, a frequência do atendimento faz diferença no combate à fome."
+            "text": "Por isso, manter o atendimento regular faz diferença no combate à fome nesses bairros."
           }
         ]
       },
@@ -1416,20 +1456,24 @@
     ],
     "connectors": [
       {
-        "term": "Com menos dinheiro para a compra",
-        "use": "Mostra como o custo do transporte pode mudar o que a família compra."
+        "term": "Primeiramente",
+        "use": "Abre a análise pelo custo de chegar a feiras e mercados."
       },
       {
         "term": "Nesse cenário",
-        "use": "Relaciona a distância até o comércio à vantagem de ter uma feira no bairro."
+        "use": "Relaciona o gasto com o transporte à vantagem de ter uma feira no bairro."
+      },
+      {
+        "term": "Ainda assim",
+        "use": "Mostra o limite de uma feira próxima para quem não consegue pagar pela comida."
       },
       {
         "term": "Por isso",
-        "use": "Liga a oferta previsível de refeições à redução da incerteza."
+        "use": "Relaciona a incerteza das famílias à necessidade de manter a oferta de refeições."
       },
       {
         "term": "Diante dessas barreiras",
-        "use": "Reúne o problema da distância e o da renda para propor respostas diferentes."
+        "use": "Reúne o problema da distância e o da renda para propor uma medida para cada situação."
       }
     ],
     "repertoire": [
@@ -1490,11 +1534,11 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "O preconceito pode interferir na decisão sobre como atender um paciente."
+            "text": "Em primeiro lugar, o preconceito pode influenciar a forma como uma equipe avalia a queixa de um paciente."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "A Constituição garante acesso igual aos serviços de saúde. Essa garantia fica ameaçada quando uma profissional minimiza a dor de uma paciente negra por acreditar em um estereótipo. A profissional pode investigar a queixa com menos cuidado. A paciente, por sua vez, pode hesitar em voltar."
+            "text": "A Constituição garante acesso igual aos serviços de saúde. Essa garantia fica ameaçada quando uma profissional minimiza a dor de uma paciente negra por acreditar em um estereótipo. Com isso, a queixa pode ser investigada com menos cuidado, e a paciente pode hesitar em voltar."
           },
           {
             "label": "Ligação",
@@ -1507,15 +1551,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além disso, o registro incompleto de raça ou cor dificulta perceber padrões de desigualdade."
+            "text": "Na gestão do SUS, por sua vez, registros incompletos de raça ou cor dificultam perceber padrões de desigualdade."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "No SUS, o registro de raça ou cor segue a declaração do paciente. Com esse dado, uma secretaria pode comparar a espera de grupos com necessidades parecidas pela mesma especialidade. Se o campo fica em branco, porém, diferenças de acesso podem passar despercebidas."
+            "text": "A equipe de saúde deve registrar a raça ou cor conforme a declaração do paciente. Com esse dado, uma secretaria pode comparar quanto tempo pacientes de grupos raciais diferentes esperam por uma mesma especialidade, em casos de urgência semelhante. Se o campo fica em branco, porém, diferenças de acesso podem passar despercebidas."
           },
           {
             "label": "Ligação",
-            "text": "Assim, o registro ajuda a indicar em que serviço a gestão deve investigar a desigualdade."
+            "text": "Assim, o registro ajuda a indicar onde a gestão deve investigar essas diferenças."
           }
         ]
       },
@@ -1547,12 +1591,16 @@
     ],
     "connectors": [
       {
-        "term": "por sua vez",
-        "use": "Passa da conduta da profissional ao efeito dessa conduta sobre a paciente."
+        "term": "Em primeiro lugar",
+        "use": "Abre a análise pelo efeito do preconceito na avaliação da queixa."
       },
       {
-        "term": "Além disso",
-        "use": "Acrescenta a dificuldade de medir diferenças na fila de espera."
+        "term": "Com isso",
+        "use": "Liga a dor minimizada à investigação da queixa e à decisão da paciente de voltar."
+      },
+      {
+        "term": "Na gestão do SUS, por sua vez",
+        "use": "Passa do atendimento na unidade à análise das desigualdades pela rede de saúde."
       },
       {
         "term": "porém",
@@ -1626,11 +1674,11 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Deixar a prática para casa reduz as chances de parte da turma aprender a conferir informações."
+            "text": "Antes de tudo, é preciso garantir que toda a turma tenha tempo e equipamento para praticar a checagem."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "Segundo o IBGE, o acesso à internet pelo computador é menos comum entre estudantes da rede pública do que entre os da rede privada. Quem tem computador pode comparar várias fontes. Quem divide um celular com a família pode ter tempo apenas para ler a primeira resposta da IA."
+            "text": "Segundo o IBGE, o acesso à internet pelo computador é menos comum entre estudantes da rede pública do que entre os da rede privada. Com um computador disponível, o estudante pode abrir várias fontes para comparar as informações. Já quem divide um celular com a família pode ter tempo apenas para ler a primeira resposta da IA."
           },
           {
             "label": "Ligação",
@@ -1643,7 +1691,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "A escola também precisa ensinar a usar a ferramenta sem expor informações pessoais."
+            "text": "Além de garantir o acesso, a escola precisa ensinar a turma a usar a ferramenta sem expor informações pessoais."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -1651,7 +1699,7 @@
           },
           {
             "label": "Ligação",
-            "text": "Usar uma história fictícia protege a identidade dos colegas e permite praticar a reescrita."
+            "text": "Nesse caso, uma história fictícia permite praticar a reescrita sem revelar dados dos colegas."
           }
         ]
       },
@@ -1683,16 +1731,20 @@
     ],
     "connectors": [
       {
-        "term": "Por isso",
-        "use": "Liga a desigualdade de recursos à necessidade de tempo de prática na escola."
+        "term": "Antes de tudo",
+        "use": "Apresenta o tempo e os equipamentos como condições para a turma praticar a checagem."
       },
       {
-        "term": "também",
-        "use": "Soma a proteção de dados à discussão sobre acesso."
+        "term": "Já",
+        "use": "Contrasta a possibilidade de comparar fontes com o tempo limitado de quem divide um celular."
+      },
+      {
+        "term": "Além de garantir o acesso",
+        "use": "Retoma as condições de prática e acrescenta o cuidado com dados pessoais."
       },
       {
         "term": "por exemplo",
-        "use": "Mostra como dados pessoais podem ser expostos em um exercício comum."
+        "use": "Mostra como um exercício comum de escrita pode expor dados de um colega."
       },
       {
         "term": "Diante disso",
@@ -1757,7 +1809,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "A sombra faz mais diferença quando está nos lugares em que as pessoas passam parte do dia."
+            "text": "Em primeiro lugar, o plantio deve priorizar os lugares em que as pessoas ficam mais expostas ao sol."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -1774,15 +1826,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Durante uma onda de calor, também é necessário chegar a quem tem dificuldade para se proteger em casa."
+            "text": "Além do plantio, é preciso atender quem tem dificuldade de se proteger em casa durante uma onda de calor."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O Ministério da Saúde alerta que o calor extremo traz riscos maiores para pessoas idosas. Quem mora sozinho em uma casa abafada, por exemplo, pode precisar de ajuda para chegar a um lugar fresco. Se a equipe de saúde já conhece esses moradores, pode visitá-los assim que houver previsão de calor intenso."
+            "text": "O Ministério da Saúde alerta que o calor extremo traz riscos maiores para pessoas idosas. Uma pessoa idosa que mora sozinha em uma casa abafada, por exemplo, pode precisar de ajuda para chegar a um lugar fresco. Se a equipe de saúde conhece esses moradores, pode visitá-los logo que houver previsão de calor intenso."
           },
           {
             "label": "Ligação",
-            "text": "Assim, a previsão orienta o atendimento antes que o morador passe mal."
+            "text": "Assim, o atendimento pode começar antes que o morador passe mal."
           }
         ]
       },
@@ -1814,20 +1866,24 @@
     ],
     "connectors": [
       {
+        "term": "Em primeiro lugar",
+        "use": "Apresenta a arborização dos locais mais expostos como primeira forma de proteção."
+      },
+      {
         "term": "Já",
-        "use": "Contrasta a proteção oferecida pela praça com a exposição em um trajeto diário."
+        "use": "Contrasta a sombra de uma praça com a exposição de quem espera o ônibus em uma parada descoberta."
       },
       {
-        "term": "Por isso",
-        "use": "Explica por que os trajetos mais expostos devem orientar a arborização."
-      },
-      {
-        "term": "Durante uma onda de calor",
-        "use": "Marca a passagem das medidas permanentes para a resposta nos dias de risco."
+        "term": "Além do plantio",
+        "use": "Soma à arborização uma resposta para quem corre risco em casa nos dias de calor intenso."
       },
       {
         "term": "Assim",
-        "use": "Mostra como a previsão pode orientar as visitas."
+        "use": "Mostra como conhecer os moradores em risco permite agir assim que sai a previsão."
+      },
+      {
+        "term": "Diante desse cenário",
+        "use": "Retoma a exposição nos trajetos e o risco em casa na proposta de um plano por bairro."
       }
     ],
     "repertoire": [
@@ -1888,7 +1944,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "A publicidade pode fazer um ganho isolado parecer comum."
+            "text": "Em primeiro lugar, a publicidade pode fazer um ganho isolado parecer comum."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -1896,7 +1952,7 @@
           },
           {
             "label": "Ligação",
-            "text": "Por isso, a fiscalização da publicidade de apostas de quota fixa, proibida por medida provisória, precisa alcançar anúncios disfarçados."
+            "text": "Uma medida provisória proíbe a publicidade de apostas de quota fixa. Por isso, a fiscalização precisa alcançar também os anúncios disfarçados."
           }
         ]
       },
@@ -1905,11 +1961,11 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além de reconhecer um anúncio, é preciso fazer a conta que ficou de fora do vídeo."
+            "text": "Além de fiscalizar a publicidade, é preciso ensinar a fazer a conta que ficou de fora do vídeo."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O Banco Central oferece materiais de educação financeira para as escolas. Em Matemática, a turma pode simular quatro perdas de R$ 15 e um lucro de R$ 40 em outra rodada. Embora a última rodada pareça vantajosa, o saldo fica R$ 20 abaixo do valor inicial."
+            "text": "O Banco Central oferece materiais de educação financeira para as escolas. Em Matemática, a turma pode simular quatro perdas de R$ 15 e um lucro de R$ 40 na quinta rodada. Embora a última rodada pareça vantajosa, o saldo fica R$ 20 abaixo do valor inicial."
           },
           {
             "label": "Ligação",
@@ -1945,20 +2001,24 @@
     ],
     "connectors": [
       {
+        "term": "Em primeiro lugar",
+        "use": "Abre o primeiro argumento mostrando como um anúncio pode distorcer a percepção do público."
+      },
+      {
         "term": "por exemplo",
         "use": "Mostra como um vídeo com link de cadastro pode disfarçar a publicidade."
       },
       {
-        "term": "Por isso",
-        "use": "Liga a aparência de relato pessoal à necessidade de fiscalizar o conteúdo."
-      },
-      {
-        "term": "Além de reconhecer um anúncio",
-        "use": "Retoma a publicidade e passa à conta do orçamento."
+        "term": "Além de fiscalizar a publicidade",
+        "use": "Retoma o combate aos anúncios e acrescenta o papel da educação financeira."
       },
       {
         "term": "Embora",
-        "use": "Contrasta o lucro de uma rodada com o prejuízo acumulado."
+        "use": "Contrasta o lucro da quinta rodada com o prejuízo acumulado."
+      },
+      {
+        "term": "Assim",
+        "use": "Leva a fiscalização e o cálculo das perdas às duas frentes da proposta."
       }
     ],
     "repertoire": [
@@ -2024,11 +2084,11 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Uma mensagem vaga pode transformar um erro simples em motivo para abandonar o pedido."
+            "text": "Primeiramente, uma mensagem vaga pode transformar um erro simples em motivo para abandonar o pedido."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "A Lei do Governo Digital prevê linguagem clara e acessibilidade. Em um pedido de benefício, a mensagem “dados inconsistentes” deixa o usuário sem saber se o documento venceu ou se falta um anexo. Já a instrução “anexe a foto do verso do documento” indica a quem tem deficiência intelectual o que fazer para prosseguir."
+            "text": "A Lei do Governo Digital prevê linguagem clara e acessibilidade. Em um pedido de benefício, a mensagem “dados inconsistentes” deixa o usuário sem saber se o documento venceu ou se falta um anexo. Já a instrução “anexe a foto do verso do documento” dá a quem tem deficiência intelectual um próximo passo concreto."
           },
           {
             "label": "Ligação",
@@ -2041,7 +2101,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "A barreira pode surgir até antes do preenchimento, na confirmação da identidade."
+            "text": "Além das dificuldades no preenchimento, a confirmação da identidade pode impedir o acesso ao serviço."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -2081,16 +2141,20 @@
     ],
     "connectors": [
       {
-        "term": "Assim",
-        "use": "Relaciona a indicação do próximo passo à autonomia do usuário."
+        "term": "Primeiramente",
+        "use": "Abre o primeiro argumento da tese, o efeito de instruções vagas sobre a autonomia do usuário."
       },
       {
-        "term": "até antes do preenchimento",
-        "use": "Leva o leitor da correção de erros à entrada no portal."
+        "term": "Já",
+        "use": "Contrasta um aviso vago com uma instrução que indica como corrigir o erro."
+      },
+      {
+        "term": "Além das dificuldades no preenchimento",
+        "use": "Acrescenta um obstáculo que pode surgir antes mesmo de preencher o pedido."
       },
       {
         "term": "mesmo quando",
-        "use": "Mostra que receber o código pode ser insuficiente para conseguir entrar."
+        "use": "Mostra que receber o código pode ser insuficiente se a pessoa tiver de memorizar os dígitos."
       },
       {
         "term": "Diante desses obstáculos",
@@ -2116,7 +2180,7 @@
       },
       {
         "title": "Menos etapas de memória",
-        "description": "O código já está com o usuário, mas a proibição de colar faz com que ele tenha de memorizar a sequência. A proposta retoma esse obstáculo e prevê um caminho seguro para quem não consegue receber a mensagem."
+        "description": "O código já está com o usuário, mas o bloqueio da colagem pode obrigá-lo a memorizar a sequência. A proposta prevê que o portal aceite a colagem e ofereça um caminho seguro para recuperar o acesso."
       }
     ]
   },
@@ -2155,15 +2219,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "A volta às aulas exige entender o que cada turma tem condições de retomar."
+            "text": "Como primeiro passo, é preciso entender o que cada turma tem condições de retomar."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O UNICEF recomenda que as escolas reservem tempo para ouvir os alunos depois de uma emergência. Uma conversa no início do retorno pode revelar que colegas ainda mudam de endereço ou dividem materiais. Se a primeira semana for tomada por provas, essas dificuldades podem aparecer apenas como faltas ou notas baixas."
+            "text": "O UNICEF recomenda que as escolas reservem tempo para ouvir os alunos depois de uma emergência. Uma conversa no início do retorno pode revelar que alguns alunos estão em moradias provisórias ou precisam dividir materiais. Se a primeira semana for tomada por provas, essas dificuldades podem aparecer apenas como faltas ou notas baixas."
           },
           {
             "label": "Ligação",
-            "text": "A escuta permite reorganizar prazos e perceber quem precisa de apoio individual."
+            "text": "Com essa escuta, a escola pode reorganizar prazos e perceber quem precisa de apoio individual."
           }
         ]
       },
@@ -2172,7 +2236,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "A participação dos estudantes também ajuda a refazer os laços com a escola."
+            "text": "Além dos ajustes nas avaliações, a participação dos estudantes ajuda a reconstruir os laços com a escola."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -2212,12 +2276,16 @@
     ],
     "connectors": [
       {
-        "term": "depois de",
-        "use": "Situa as dificuldades da volta às aulas no período que sucede uma emergência."
+        "term": "Como primeiro passo",
+        "use": "Apresenta a escuta como ponto de partida para reorganizar a volta às aulas."
       },
       {
-        "term": "também",
-        "use": "Acrescenta a participação da turma ao ajuste das cobranças."
+        "term": "Com essa escuta",
+        "use": "Mostra como ouvir os alunos orienta o ajuste de prazos e ajuda a identificar quem precisa de apoio."
+      },
+      {
+        "term": "Além dos ajustes nas avaliações",
+        "use": "Passa das decisões da escola para o papel dos estudantes na retomada."
       },
       {
         "term": "Quando",
@@ -2225,7 +2293,7 @@
       },
       {
         "term": "Por isso",
-        "use": "Reúne a escuta e a participação na proposta de retorno."
+        "use": "Reúne a escuta e a participação dos alunos na proposta para a volta às aulas."
       }
     ],
     "repertoire": [
@@ -2269,7 +2337,7 @@
         "parts": [
           {
             "label": "Assunto",
-            "text": "No curta Ilha das Flores, de Jorge Furtado, um tomate vai parar no lixo. Ali, mulheres e crianças recolhem os restos que sobraram depois da triagem para alimentar os porcos."
+            "text": "No curta Ilha das Flores, de Jorge Furtado, um tomate vai parar no lixo. Ali, parte da comida descartada é separada para os porcos. Mulheres e crianças só podem recolher o que sobra. O filme expõe o contraste entre comida descartada e fome."
           },
           {
             "label": "Tema",
@@ -2286,7 +2354,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "O controle das sobras ajuda a descobrir quando a cozinha prepara comida demais."
+            "text": "Primeiramente, medir o que sobra nas panelas ajuda a descobrir se a cozinha prepara comida demais."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -2294,7 +2362,7 @@
           },
           {
             "label": "Ligação",
-            "text": "Esse registro permite planejar o preparo com base no consumo da turma."
+            "text": "Com esse registro, a cozinha pode ajustar o preparo ao consumo da turma."
           }
         ]
       },
@@ -2320,7 +2388,7 @@
         "parts": [
           {
             "label": "Quem",
-            "text": "Para reduzir o desperdício, as secretarias de educação, com as equipes de nutrição escolar,"
+            "text": "Portanto, as secretarias de educação, com as equipes de nutrição escolar,"
           },
           {
             "label": "O que",
@@ -2343,20 +2411,24 @@
     ],
     "connectors": [
       {
-        "term": "também",
-        "use": "Traz o problema do desperdício apresentado pelo filme para a merenda escolar."
+        "term": "Primeiramente",
+        "use": "Abre a discussão pelas sobras nas panelas, que podem indicar excesso no preparo."
+      },
+      {
+        "term": "Com esse registro",
+        "use": "Liga a medição das sobras ao planejamento das quantidades."
       },
       {
         "term": "Já",
-        "use": "Passa do excesso de preparo à aceitação das refeições."
+        "use": "Marca a passagem do excesso de preparo para a aceitação do que foi servido."
       },
       {
         "term": "Desse modo",
-        "use": "Liga a escuta dos alunos à melhora da aceitação do prato."
+        "use": "Liga o teste de preparos e a escuta dos alunos à melhora da aceitação do prato."
       },
       {
-        "term": "além de",
-        "use": "Acrescenta a participação dos alunos à medição das sobras."
+        "term": "Portanto",
+        "use": "Reúne os dois tipos de sobra em uma proposta de acompanhamento da merenda."
       }
     ],
     "repertoire": [
@@ -2422,7 +2494,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Uma travessia perigosa pode tornar pouco útil uma linha que passa perto do destino."
+            "text": "Inicialmente, uma travessia perigosa pode impedir que o passageiro chegue ao destino, mesmo quando o ônibus para perto."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -2479,12 +2551,16 @@
     ],
     "connectors": [
       {
+        "term": "Inicialmente",
+        "use": "Abre o primeiro argumento com o efeito das travessias perigosas sobre o trajeto."
+      },
+      {
         "term": "Na prática",
         "use": "Aplica a prioridade dada à caminhada ao caso da avenida sem faixa."
       },
       {
         "term": "Além da segurança nas travessias",
-        "use": "Introduz a autonomia de quem enfrenta barreiras na calçada."
+        "use": "Acrescenta as barreiras que dificultam a circulação de pessoas com mobilidade reduzida."
       },
       {
         "term": "por exemplo",
@@ -2492,7 +2568,7 @@
       },
       {
         "term": "Diante dessas barreiras",
-        "use": "Retoma os dois problemas para propor a recuperação dos trajetos."
+        "use": "Retoma os problemas de segurança e acessibilidade para propor a recuperação dos trajetos."
       }
     ],
     "repertoire": [
@@ -2558,7 +2634,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "O primeiro desafio é criar um canal de denúncia que crianças e adolescentes consigam usar."
+            "text": "Em primeiro lugar, crianças e adolescentes precisam de um canal de denúncia que consigam usar."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -2583,7 +2659,7 @@
           },
           {
             "label": "Ligação",
-            "text": "Esse encaminhamento dá continuidade à proteção que começa com a denúncia."
+            "text": "Assim, o encaminhamento dá continuidade à proteção que começa com a denúncia."
           }
         ]
       },
@@ -2592,7 +2668,7 @@
         "parts": [
           {
             "label": "Quem",
-            "text": "Para melhorar a resposta, a Agência Nacional de Proteção de Dados e o Ministério da Justiça"
+            "text": "Diante desses desafios, a Agência Nacional de Proteção de Dados e o Ministério da Justiça"
           },
           {
             "label": "O que",
@@ -2615,20 +2691,24 @@
     ],
     "connectors": [
       {
+        "term": "Em primeiro lugar",
+        "use": "Apresenta a facilidade de usar o canal de denúncia como a primeira condição para pedir ajuda."
+      },
+      {
         "term": "Mesmo depois de",
-        "use": "Mostra uma segunda dificuldade após o jovem encontrar o formulário."
+        "use": "Mostra que entender o formulário ainda pode ser difícil depois de encontrá-lo."
       },
       {
         "term": "Por isso",
-        "use": "Liga o risco de desistência à necessidade de um caminho mais simples."
+        "use": "Liga o risco de desistência à necessidade de um formulário curto e claro."
       },
       {
         "term": "Depois do envio",
-        "use": "Marca a passagem da denúncia para a resposta ao caso."
+        "use": "Marca a passagem do registro da denúncia para o encaminhamento dos casos graves."
       },
       {
-        "term": "Para melhorar a resposta",
-        "use": "Introduz a proposta para o envio e o encaminhamento dos relatos."
+        "term": "Diante desses desafios",
+        "use": "Introduz uma proposta que acompanha tanto o envio da denúncia quanto a resposta aos casos graves."
       }
     ],
     "repertoire": [
@@ -2689,7 +2769,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "A aula ganha sentido quando parte de uma situação que os estudantes conhecem."
+            "text": "De início, partir de situações conhecidas pela turma ajuda a dar sentido ao que se aprende na escola."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -2706,7 +2786,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "A avaliação, por sua vez, pode mostrar o que o estudante já aprendeu e o que precisa praticar."
+            "text": "Além de aproximar as aulas da vida da turma, a escola pode usar a avaliação para mostrar ao estudante o que ele já aprendeu e o que ainda precisa praticar."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -2723,7 +2803,7 @@
         "parts": [
           {
             "label": "Quem",
-            "text": "Para fortalecer a permanência, as secretarias de educação"
+            "text": "Diante desses desafios, as secretarias de educação"
           },
           {
             "label": "O que",
@@ -2746,20 +2826,24 @@
     ],
     "connectors": [
       {
-        "term": "Depois",
-        "use": "Mostra como o conhecimento aprendido em uma tarefa pode ser usado em outras."
+        "term": "De início",
+        "use": "Abre o desenvolvimento com a relação entre as aulas e a experiência da turma."
       },
       {
         "term": "Com isso",
-        "use": "Liga a aula próxima da vida da turma à utilidade do conteúdo escolar."
+        "use": "Mostra o que o estudante percebe ao aplicar o que aprendeu em outra situação."
       },
       {
-        "term": "por sua vez",
-        "use": "Passa do planejamento das aulas à forma de avaliar."
+        "term": "Além de aproximar as aulas da vida da turma",
+        "use": "Retoma o papel das aulas e acrescenta a avaliação como forma de apoiar a permanência."
       },
       {
         "term": "Assim",
-        "use": "Explica por que a orientação do professor ajuda a continuar aprendendo."
+        "use": "Relaciona a percepção do próprio avanço à confiança para continuar estudando."
+      },
+      {
+        "term": "Diante desses desafios",
+        "use": "Encaminha a proposta de apoiar os professores no planejamento das aulas e avaliações."
       }
     ],
     "repertoire": [
@@ -2820,15 +2904,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "A falta de água nos meses de seca exige soluções pensadas para cada comunidade."
+            "text": "O primeiro desafio é garantir água durante os meses de seca."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "Onde chove durante poucos meses, cisternas permitem guardar água da chuva para a seca. Para que a reserva dure, porém, é preciso calcular quanto a família consome e por quanto tempo pode ficar sem chuva."
+            "text": "O Programa Cisternas apoia a instalação de reservatórios para guardar água da chuva. Para que a reserva dure até o fim da seca, é preciso calcular quanto a família consome e por quanto tempo pode ficar sem chuva."
           },
           {
             "label": "Ligação",
-            "text": "Planejar o tamanho da cisterna reduz o risco de a reserva acabar antes do próximo período chuvoso."
+            "text": "Assim, o tamanho da cisterna deve levar em conta as condições de cada comunidade."
           }
         ]
       },
@@ -2837,7 +2921,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "A água disponível, entretanto, precisa ser segura para o consumo."
+            "text": "Mesmo com o abastecimento garantido, é preciso verificar se a água está própria para o consumo."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -2854,7 +2938,7 @@
         "parts": [
           {
             "label": "Quem",
-            "text": "Para enfrentar esses problemas, as prefeituras, com apoio dos estados,"
+            "text": "Diante desses problemas, as prefeituras, com apoio dos estados,"
           },
           {
             "label": "O que",
@@ -2877,20 +2961,24 @@
     ],
     "connectors": [
       {
-        "term": "também",
-        "use": "Amplia o problema do esgoto mostrado no filme para o abastecimento de água."
+        "term": "O primeiro desafio",
+        "use": "Abre a análise pela falta de água nos meses de seca."
       },
       {
-        "term": "porém",
-        "use": "Apresenta a condição para que a reserva ajude durante a seca."
+        "term": "Para que a reserva dure até o fim da seca",
+        "use": "Explica por que o consumo e a duração da seca entram no cálculo da capacidade da cisterna."
       },
       {
-        "term": "entretanto",
-        "use": "Passa da quantidade de água à segurança do consumo."
+        "term": "Mesmo com o abastecimento garantido",
+        "use": "Passa da disponibilidade da água ao risco de contaminação, que exige outra medida."
       },
       {
         "term": "Por isso",
         "use": "Liga o risco de contaminação à necessidade de análise e comunicação."
+      },
+      {
+        "term": "Diante desses problemas",
+        "use": "Retoma a escassez e o risco de contaminação para propor medidas de abastecimento e controle da qualidade."
       }
     ],
     "repertoire": [
@@ -2956,11 +3044,11 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "O risco de faltar comida pode passar despercebido nos serviços públicos."
+            "text": "O primeiro passo é reconhecer o risco de faltar comida, que pode passar despercebido nos serviços públicos."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "A Unidade Básica de Saúde (UBS) pode ajudar a encontrar famílias que precisam de apoio. Em uma consulta, por exemplo, a equipe pode perguntar se alguém reduziu as porções para a comida durar até o fim do mês. A resposta ajuda a identificar o risco e acionar a assistência social."
+            "text": "O Protocolo Brasil Sem Fome prevê que as unidades básicas de saúde ajudem a identificar quem precisa de apoio. Em uma consulta, por exemplo, a equipe pode perguntar se alguém reduziu as porções para a comida durar até o fim do mês. A resposta ajuda a identificar o risco e acionar a assistência social."
           },
           {
             "label": "Ligação",
@@ -2973,11 +3061,11 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "O encaminhamento, contudo, precisa levar a uma oferta regular de alimentos."
+            "text": "Depois de identificar o risco, é preciso garantir que a família receba alimentos com regularidade."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "Compras públicas da agricultura familiar podem abastecer cozinhas comunitárias. Quando os produtos chegam em datas previsíveis, a cozinha consegue planejar o cardápio e manter as refeições. Se as entregas falham, as famílias voltam a ter dias sem esse apoio."
+            "text": "O Programa de Aquisição de Alimentos compra produtos da agricultura familiar e pode abastecer cozinhas comunitárias. Quando os produtos chegam em datas previsíveis, a cozinha consegue planejar o cardápio e manter as refeições. Se as entregas falham, as famílias voltam a ter dias sem esse apoio."
           },
           {
             "label": "Ligação",
@@ -3013,16 +3101,20 @@
     ],
     "connectors": [
       {
+        "term": "O primeiro passo",
+        "use": "Apresenta a identificação do risco como etapa inicial do atendimento."
+      },
+      {
         "term": "por exemplo",
         "use": "Mostra um sinal de insegurança alimentar que pode aparecer em uma consulta."
       },
       {
-        "term": "contudo",
-        "use": "Mostra que identificar o risco é só a primeira etapa do atendimento."
+        "term": "Depois de identificar o risco",
+        "use": "Retoma a primeira etapa e passa à oferta regular de alimentos."
       },
       {
         "term": "portanto",
-        "use": "Liga a regularidade das entregas à frequência das refeições."
+        "use": "Relaciona a regularidade das entregas à continuidade das refeições."
       },
       {
         "term": "Diante disso",
@@ -3049,7 +3141,7 @@
     "studyNotes": [
       {
         "title": "A fome pode dar sinais antes de se agravar",
-        "description": "A mãe do exemplo reduz as porções para fazer a comida durar. A pergunta na consulta permite que a equipe reconheça o risco e encaminhe a família para receber apoio."
+        "description": "A pergunta sobre o tamanho das porções ajuda a identificar famílias que precisam fazer a comida durar. Ao reconhecer esse sinal na consulta, a equipe pode encaminhar a família para receber apoio."
       },
       {
         "title": "O encaminhamento precisa chegar a um serviço",
@@ -3092,7 +3184,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "As diferenças no cuidado podem começar nas consultas e nos exames da gestação."
+            "text": "Já no pré-natal, as desigualdades podem aparecer no acesso às consultas e aos exames."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -3109,7 +3201,7 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Na hora do parto, a desigualdade pode aparecer na dificuldade de conseguir atendimento."
+            "text": "Mais adiante, gestantes negras podem enfrentar mais barreiras na busca por atendimento para o parto."
           },
           {
             "label": "Desenvolvimento e repertório",
@@ -3117,7 +3209,7 @@
           },
           {
             "label": "Ligação",
-            "text": "Essa orientação ajuda quando a gestante sabe para onde ir e a unidade está preparada para recebê-la."
+            "text": "A indicação prévia ajuda a evitar deslocamentos quando a gestante sabe para onde ir e a unidade está preparada para recebê-la."
           }
         ]
       },
@@ -3134,7 +3226,7 @@
           },
           {
             "label": "Como",
-            "text": "As equipes devem acompanhar os exames por raça ou cor autodeclarada, remarcar os que ficaram pendentes e confirmar a maternidade de referência."
+            "text": "Para isso, as equipes devem verificar a realização dos exames por raça ou cor autodeclarada, remarcar os que ficaram pendentes e confirmar a maternidade de referência."
           },
           {
             "label": "Para quê",
@@ -3149,16 +3241,20 @@
     ],
     "connectors": [
       {
-        "term": "por exemplo",
-        "use": "Mostra uma consequência concreta de um pré-natal incompleto."
+        "term": "Já no pré-natal",
+        "use": "Marca o início da trajetória e mostra que as desigualdades podem surgir antes do parto."
       },
       {
         "term": "Por isso",
-        "use": "Liga o risco de atraso à necessidade de acompanhar consultas e exames."
+        "use": "Liga o risco de atraso à necessidade de acompanhar os exames previstos."
       },
       {
-        "term": "O mesmo estudo",
-        "use": "Retoma a pesquisa e passa da gestação à chegada para o parto."
+        "term": "Mais adiante",
+        "use": "Avança do pré-natal para a chegada à maternidade."
+      },
+      {
+        "term": "Para evitar essa busca",
+        "use": "Liga os deslocamentos entre hospitais à indicação prévia da maternidade de referência."
       },
       {
         "term": "Diante dessas dificuldades",

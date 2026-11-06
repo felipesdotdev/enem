@@ -185,23 +185,35 @@ export function librarySummary(count, type) {
   return `${plural(count, 'redação', 'redações')}${type === 'official' ? ` <span>· ${verifiedCount} com nota 900+ verificada no acervo</span>` : ''}`;
 }
 
+function practiceGroups(entries, reading) {
+  return practiceThemes.map((theme) => {
+    const models = entries.filter((essay) => essay.themeId === theme.slug);
+    if (!models.length) return '';
+    return `<section class="practice-group">
+      <header class="section-head"><div><div class="eyebrow">${esc(theme.axis)}</div><h2>${esc(theme.title)}</h2></div>
+        <a class="text-link" href="/temas/${esc(theme.slug)}" aria-label="Ver proposta de treino sobre o tema ${esc(theme.title)}">Ver proposta ${arrows.right}</a>
+      </header>
+      ${essayGrid(models, reading)}
+    </section>`;
+  }).join('');
+}
+
 export function libraryResults(state, reading, matches = searchEssays(state.query, state)) {
   if (!matches.length) return empty('Nenhuma redação encontrada', 'Experimente outro termo ou limpe os filtros.', `<a class="button button-secondary" href="${esc(catalogUrl({ type: state.type }))}">Limpar filtros</a>`);
+  const unread = [];
+  const completed = [];
+  for (const essay of matches) (reading[essay.id]?.done ? completed : unread).push(essay);
+  const ordered = [...unread, ...completed];
   if (state.type === practiceFilter) {
-    return practiceThemes.map((theme) => {
-      const models = matches.filter((essay) => essay.themeId === theme.slug);
-      if (!models.length) return '';
-      return `<section class="practice-group">
-        <header class="section-head"><div><div class="eyebrow">${esc(theme.axis)}</div><h2>${esc(theme.title)}</h2></div>
-          <a class="text-link" href="/temas/${esc(theme.slug)}" aria-label="Ver proposta de treino sobre o tema ${esc(theme.title)}">Ver proposta ${arrows.right}</a>
-        </header>
-        ${essayGrid(models, reading)}
-      </section>`;
-    }).join('');
+    const multipleThemes = matches.some((essay) => essay.themeId !== matches[0].themeId);
+    if (unread.length && completed.length && multipleThemes) {
+      return `${practiceGroups(unread, reading)}<div class="practice-divider">Já lidas</div>${practiceGroups(completed, reading)}`;
+    }
+    return practiceGroups(ordered, reading);
   }
-  const total = Math.max(1, Math.ceil(matches.length / pageSize));
+  const total = Math.ceil(ordered.length / pageSize);
   const page = Math.max(1, Math.min(total, Math.floor(state.page)));
-  return `${essayGrid(matches.slice((page - 1) * pageSize, page * pageSize), reading)}
+  return `${essayGrid(ordered.slice((page - 1) * pageSize, page * pageSize), reading)}
     ${total > 1 ? `<nav class="pagination" aria-label="Páginas de resultados">
       ${page > 1 ? `<a class="button button-secondary" href="${esc(catalogUrl({ ...state, page: page - 1 }))}">${arrows.left} Anterior</a>` : '<span></span>'}
       <span>Página ${page} de ${total}</span>
