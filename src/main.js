@@ -264,7 +264,8 @@ async function submitAccount(form) {
     setSession(session);
     account.close();
     render();
-    document.querySelector('.button-account, .reader [data-save]')?.focus({ preventScroll: true });
+    const readerAction = action?.field === 'done' ? '[data-done]' : '[data-save]';
+    document.querySelector(`.button-account, .reader ${readerAction}`)?.focus({ preventScroll: true });
     notify(mode === 'register' ? 'Conta criada.' : 'Você entrou no Caderno.');
   } catch (error) {
     errorMessage.textContent = error.message;
