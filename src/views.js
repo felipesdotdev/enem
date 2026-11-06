@@ -1,6 +1,6 @@
 import {
   analysis, essays, themes, themeBySlug, axes, years, officialCount, verifiedCount,
-  originalCount, searchEssays, scoreLabel, readingTime, pageSize,
+  originalCount, searchEssays, scoreLabel, readingTime, pageSize, practiceFilter, practiceThemes, isPracticeEssay,
 } from './catalog.js';
 
 const symbols = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
@@ -85,7 +85,7 @@ function sectionHead(label, title, description, action = '') {
 }
 
 function pageHead(label, title, description, glyph) {
-  return `<header class="page-head"><div class="eyebrow">${icon(glyph)} ${label}</div><h1>${title}</h1><p>${description}</p></header>`;
+  return `<header class="page-head"><div class="eyebrow">${icon(glyph)} ${label}</div><h1>${title}</h1>${description ? `<p>${description}</p>` : ''}</header>`;
 }
 
 function empty(title, description, action = '', glyph = 'rounded-magnifier-linear') {
@@ -120,7 +120,7 @@ export function home(reading) {
     </section>
     <div class="stats" aria-label="Números do acervo">
       <a href="/biblioteca?tipo=official">${icon('book-linear')}<strong>${officialCount}</strong><span>exemplos do Inep</span></a>
-      <a href="/biblioteca?tipo=original">${icon('pen-new-square-linear')}<strong>${originalCount}</strong><span>modelos comentados</span></a>
+      <a href="${catalogUrl({ type: practiceFilter })}">${icon('pen-new-square-linear')}<strong>${originalCount}</strong><span>modelos comentados</span></a>
       <a href="/temas">${icon('compass-linear')}<strong>${themes.length}</strong><span>temas para treinar</span></a>
     </div>
     <section class="section home-featured">
@@ -134,37 +134,48 @@ export function home(reading) {
 }
 
 const filters = [
-  ['', 'Todas'], ['verified', 'Notas 900+'], ['official', 'Acervo Inep'], ['original', 'Modelos com IA'],
+  ['', 'Todas'], ['verified', 'Notas 900+'], ['official', 'Acervo Inep'], [practiceFilter, 'Possíveis temas'],
 ];
 
 export function catalogState(params) {
   const query = params.get('q') || '';
-  const type = params.get('tipo') || '';
-  const axis = params.get('eixo') || '';
-  const year = params.get('ano') || '';
+  const requestedType = params.get('tipo') || '';
+  const type = requestedType === 'original' ? practiceFilter : requestedType;
+  const practice = type === practiceFilter;
+  const axis = practice ? '' : params.get('eixo') || '';
+  const year = practice ? '' : params.get('ano') || '';
+  const theme = practice ? params.get('tema') || '' : '';
   const page = Number(params.get('p')) || 1;
-  return { query, type, axis, year, page };
+  return { query, type, axis, year, theme, page };
 }
 
-function catalogUrl({ query, type, axis, year, page }) {
+export function catalogUrl({ query, type, axis, year, theme, page }) {
   const params = new URLSearchParams();
   if (query) params.set('q', query);
   if (type) params.set('tipo', type);
-  if (axis) params.set('eixo', axis);
-  if (year) params.set('ano', year);
-  if (page > 1) params.set('p', page);
+  if (type === practiceFilter) {
+    if (theme) params.set('tema', theme);
+  } else {
+    if (axis) params.set('eixo', axis);
+    if (year) params.set('ano', year);
+    if (page > 1) params.set('p', page);
+  }
   return `/biblioteca${params.size ? `?${params}` : ''}`;
 }
 
 export function library(params, reading) {
   const state = catalogState(params);
+  const practice = state.type === practiceFilter;
   const matches = searchEssays(state.query, state);
-  return `${pageHead('ACERVO', 'Biblioteca', 'Leia redações do Inep e modelos comentados. Busque por tema, repertório ou ano de prova.', 'book-linear')}
-    <div class="catalog-tabs" aria-label="Tipo de redação">${filters.map(([value, label]) => `<a href="${esc(catalogUrl({ ...state, type: value, year: value === 'original' ? '' : state.year, page: 1 }))}" ${state.type === value ? 'aria-current="true"' : ''}>${label}</a>`).join('')}</div>
-    <form class="filters" id="library-filters">
-      <label class="search-input">${icon('rounded-magnifier-linear')}<span class="sr-only">Buscar no acervo</span><input type="search" name="q" value="${esc(state.query)}" placeholder="Buscar por tema, autor ou ano…" autocomplete="off" /></label>
-      <label class="select"><span class="sr-only">Eixo temático</span><select name="eixo"><option value="">Todos os eixos</option>${axes.map((axis) => `<option ${axis === state.axis ? 'selected' : ''}>${esc(axis)}</option>`).join('')}</select>${icon('alt-arrow-down-linear')}</label>
-      ${state.type === 'original' ? '' : `<label class="select"><span class="sr-only">Ano do Enem</span><select name="ano"><option value="">Todos os anos</option>${years.map((year) => `<option ${String(year) === state.year ? 'selected' : ''}>${year}</option>`).join('')}</select>${icon('alt-arrow-down-linear')}</label>`}
+  return `${pageHead('ACERVO', 'Biblioteca', practice ? '' : 'Leia redações do Inep e modelos comentados. Busque por tema, repertório ou ano de prova.', 'book-linear')}
+    <nav class="catalog-tabs" aria-label="Tipo de redação">${filters.map(([value, label]) => `<a href="${esc(catalogUrl({ ...state, type: value, page: 1 }))}" data-catalog-type="${value}" ${state.type === value ? 'aria-current="true"' : ''}>${label}</a>`).join('')}</nav>
+    ${practice ? `<section class="practice-intro"><div><div class="eyebrow">${icon('compass-linear')} ENEM ${exam} · PROPOSTAS DE TREINO</div><h2>Possíveis temas de redação</h2><p>Compare modelos autorais sobre o mesmo enunciado. O modo Estrutura e os comentários mostram como cada texto sustenta sua tese e propõe uma intervenção.</p></div><a class="text-link" href="/temas#padroes">Ver análise dos temas ${arrows.right}</a></section>` : ''}
+    <form class="filters${practice ? ' filters-practice' : ''}" id="library-filters">
+      <label class="search-input">${icon('rounded-magnifier-linear')}<span class="sr-only">Buscar no acervo</span><input type="search" name="q" value="${esc(state.query)}" placeholder="${practice ? 'Buscar por tema ou repertório…' : 'Buscar por tema, autor ou ano…'}" autocomplete="off" /></label>
+      ${practice
+        ? `<label class="select"><span class="sr-only">Tema de treino</span><select name="tema"><option value="">Todos os temas</option>${practiceThemes.map((theme) => `<option value="${esc(theme.slug)}" ${theme.slug === state.theme ? 'selected' : ''}>${esc(theme.title)}</option>`).join('')}</select>${icon('alt-arrow-down-linear')}</label>`
+        : `<label class="select"><span class="sr-only">Eixo temático</span><select name="eixo"><option value="">Todos os eixos</option>${axes.map((axis) => `<option ${axis === state.axis ? 'selected' : ''}>${esc(axis)}</option>`).join('')}</select>${icon('alt-arrow-down-linear')}</label>
+          <label class="select"><span class="sr-only">Ano do Enem</span><select name="ano"><option value="">Todos os anos</option>${years.map((year) => `<option ${String(year) === state.year ? 'selected' : ''}>${year}</option>`).join('')}</select>${icon('alt-arrow-down-linear')}</label>`}
     </form>
     <div class="results-meta" role="status" id="catalog-summary">${librarySummary(matches.length, state.type)}</div>
     <div id="catalog-results">${libraryResults(state, reading, matches)}</div>`;
@@ -175,9 +186,21 @@ export function librarySummary(count, type) {
 }
 
 export function libraryResults(state, reading, matches = searchEssays(state.query, state)) {
+  if (!matches.length) return empty('Nenhuma redação encontrada', 'Experimente outro termo ou limpe os filtros.', `<a class="button button-secondary" href="${esc(catalogUrl({ type: state.type }))}">Limpar filtros</a>`);
+  if (state.type === practiceFilter) {
+    return practiceThemes.map((theme) => {
+      const models = matches.filter((essay) => essay.themeId === theme.slug);
+      if (!models.length) return '';
+      return `<section class="practice-group">
+        <header class="section-head"><div><div class="eyebrow">${esc(theme.axis)}</div><h2>${esc(theme.title)}</h2></div>
+          <a class="text-link" href="/temas/${esc(theme.slug)}" aria-label="Ver proposta de treino sobre o tema ${esc(theme.title)}">Ver proposta ${arrows.right}</a>
+        </header>
+        ${essayGrid(models, reading)}
+      </section>`;
+    }).join('');
+  }
   const total = Math.max(1, Math.ceil(matches.length / pageSize));
   const page = Math.max(1, Math.min(total, Math.floor(state.page)));
-  if (!matches.length) return empty('Nenhuma redação encontrada', 'Experimente outro termo ou limpe os filtros.', '<a class="button button-secondary" href="/biblioteca">Limpar filtros</a>');
   return `${essayGrid(matches.slice((page - 1) * pageSize, page * pageSize), reading)}
     ${total > 1 ? `<nav class="pagination" aria-label="Páginas de resultados">
       ${page > 1 ? `<a class="button button-secondary" href="${esc(catalogUrl({ ...state, page: page - 1 }))}">${arrows.left} Anterior</a>` : '<span></span>'}
@@ -209,8 +232,12 @@ export function reader(essay, reading, annotate) {
   if (!essay) return missing('Redação não encontrada', 'Voltar à biblioteca', '/biblioteca');
   const done = Boolean(reading[essay.id]?.done);
   const theme = themeBySlug.get(essay.themeId);
+  const practice = isPracticeEssay(essay);
+  const backUrl = practice ? catalogUrl({ type: practiceFilter, theme: theme.slug }) : '/biblioteca';
+  const studyNotes = essay.type === 'original' ? essay.studyNotes : essay.notes;
+  const alternatives = practice ? essays.filter((item) => isPracticeEssay(item) && item.themeId === theme.slug && item.id !== essay.id) : [];
   return `<div class="reader">
-    <a class="back-link" href="/biblioteca">${arrows.left} Biblioteca</a>
+    <a class="back-link" href="${esc(backUrl)}">${arrows.left} ${practice ? 'Possíveis temas' : 'Biblioteca'}</a>
     <header class="reader-head"><div class="reader-kicker">${pill(essay)}<span>${esc(essay.category)}${essay.year ? ` · Enem ${essay.year}` : ''}</span></div>
       <h1>${esc(essay.title)}</h1>
       <p class="reader-topic">${esc(essay.topic)}</p>
@@ -228,12 +255,13 @@ export function reader(essay, reading, annotate) {
         <div class="inline-actions"><button class="button button-primary" type="button" data-pdf="${esc(pdfUrl(essay.source, true))}" aria-expanded="false" aria-controls="cartilha-pdf">Ler aqui ${arrows.right}</button><a class="button button-secondary" href="${esc(pdfUrl(essay.source))}" target="_blank" rel="noopener noreferrer">Abrir PDF ${arrows.up}</a></div>
         <div id="cartilha-pdf" class="pdf-view" hidden></div>
       </div>`}
-      ${essay.type === 'official' && essay.notes?.length ? `<section class="study-section"><div class="eyebrow">LEITURA GUIADA</div><h2>O que observar</h2>${essay.notes.map((note) => `<div class="study-note"><h3>${esc(note.title)}</h3><p>${esc(note.description)}</p></div>`).join('')}</section>` : ''}
-      <div class="reader-end"><button class="button ${done ? 'button-secondary' : 'button-primary'}" type="button" data-done="${esc(essay.id)}" aria-pressed="${done}">${icon('check-circle-linear')} ${done ? 'Leitura concluída' : 'Marcar como lida'}</button><a class="text-link" href="/biblioteca">Voltar à biblioteca ${arrows.right}</a></div>
+      ${studyNotes?.length ? `<section class="study-section"><div class="eyebrow">LEITURA GUIADA</div><h2>O que observar</h2>${studyNotes.map((note) => `<div class="study-note"><h3>${esc(note.title)}</h3><p>${esc(note.description)}</p></div>`).join('')}</section>` : ''}
+      <div class="reader-end"><button class="button ${done ? 'button-secondary' : 'button-primary'}" type="button" data-done="${esc(essay.id)}" aria-pressed="${done}">${icon('check-circle-linear')} ${done ? 'Leitura concluída' : 'Marcar como lida'}</button><a class="text-link" href="${esc(backUrl)}">${practice ? 'Ver redações deste tema' : 'Voltar à biblioteca'} ${arrows.right}</a></div>
     </div>
     <aside class="reader-aside">
       ${essay.type === 'original' ? `<section class="aside-card"><h2>${icon('link-linear')} Conectivos</h2><dl class="connector-list">${essay.connectors.map((item) => `<dt>${esc(item.term)}</dt><dd>${esc(item.use)}</dd>`).join('')}</dl></section>
       <section class="aside-card"><h2>${icon('lightbulb-minimalistic-linear')} Repertório</h2>${resourceList(essay.repertoire)}</section>` : `<section class="aside-card"><h2>${icon('verified-check-linear')} Sobre a avaliação</h2><p>${essay.scoreSource ? `Nota ${essay.score} confirmada na fonte indicada abaixo.` : essay.score >= 900 ? `O Inep identifica esta redação com nota ${essay.score} na cartilha de origem.` : 'O Inep selecionou este texto como exemplo de boa redação na cartilha. A nota individual não foi informada na fonte.'}</p>${essay.scoreSource ? resourceList([essay.scoreSource]) : ''}</section>`}
+      ${alternatives.length ? `<section class="aside-card"><h2>${icon('book-linear')} Compare as abordagens</h2><ul class="resource-list">${alternatives.map((item) => `<li><a href="/redacoes/${esc(item.id)}">${esc(item.title)} ${arrows.right}</a><p>${esc(item.description)}</p></li>`).join('')}</ul></section>` : ''}
       ${theme ? `<section class="aside-card"><h2>${icon('compass-linear')} Pratique este tema</h2><p>${esc(theme.description || theme.why)}</p><a class="text-link" href="/temas/${esc(theme.slug)}">Ver proposta ${arrows.right}</a></section>` : ''}
     </aside></div>
   </div>`;
@@ -246,7 +274,7 @@ function themeGrid(entries) {
 export function topics() {
   return `${pageHead(`PREPARAÇÃO / ${exam}`, `Temas ${exam}`, esc(analysis.intro), 'compass-linear')}
     <div class="page-jumps"><a href="#propostas">Propostas de treino</a><a href="#padroes">Padrões do Enem</a><a href="#historico">Histórico</a></div>
-    <section class="section" id="propostas">${sectionHead('01 / PROPOSTAS', 'Temas para praticar', 'Cada proposta reúne recortes, repertórios com fontes e um caminho de intervenção.')}${themeGrid(themes)}</section>
+    <section class="section" id="propostas">${sectionHead('01 / PROPOSTAS', 'Temas para praticar', 'Cada proposta reúne recortes, repertórios com fontes e um caminho de intervenção.', `<a class="text-link" href="${catalogUrl({ type: practiceFilter })}">Ver redações autorais ${arrows.right}</a>`)}${themeGrid(themes)}</section>
     <section class="section" id="padroes">${sectionHead('02 / ANÁLISE', 'Como o Enem recorta um assunto', esc(analysis.method))}
       <div class="pattern-grid">${analysis.patterns.map((pattern, index) => `<article class="pattern-card"><span class="pattern-number">${String(index + 1).padStart(2, '0')}</span><h3>${esc(pattern.title)}</h3><p>${esc(pattern.description)}</p><ul>${pattern.examples.map((example) => `<li>${esc(example)}</li>`).join('')}</ul></article>`).join('')}</div>
     </section>

@@ -155,7 +155,17 @@ img { display: block; max-width: 100%; }
 .catalog-tabs a { padding: 10px 2px 11px; font-size: 12px; font-weight: 750; color: var(--muted); white-space: nowrap; border-bottom: 2px solid transparent; }
 .catalog-tabs a[aria-current] { border-color: var(--ink); color: var(--ink); }
 .catalog-tabs a:focus-visible { outline-offset: -2px; }
+.practice-intro { display: flex; align-items: flex-end; justify-content: space-between; gap: 18px; background: var(--rail); border: 1px solid var(--line); border-radius: var(--radius); padding: 19px; margin-bottom: 14px; }
+.practice-intro h2 { margin-top: 5px; font-size: clamp(22px, 2.3vw, 30px); line-height: 1.15; letter-spacing: -.045em; }
+.practice-intro p { max-width: 590px; color: var(--muted); margin-top: 6px; font-size: 13px; line-height: 1.65; }
+.practice-group { padding-block: 12px 21px; }
+.practice-group + .practice-group { padding-top: 19px; border-top: 1px solid var(--line); }
+.practice-group .section-head h2 { max-width: 750px; font-size: clamp(18px, 2.05vw, 25px); }
+.practice-group .essay-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.practice-group .essay-card { min-height: 178px; }
+.practice-group .essay-overline { display: none; }
 .filters { display: grid; grid-template-columns: minmax(185px, 1.7fr) minmax(125px, 1fr) minmax(115px, .7fr); gap: 9px; }
+.filters-practice { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .search-input, .select { display: flex; align-items: center; gap: 8px; border: 1px solid var(--line-strong); background: #fff; border-radius: 8px; min-height: 44px; min-width: 0; }
 .search-input { padding-inline: 10px; }
 .search-input .icon, .select .icon { color: var(--muted); width: 17px; height: 17px; }
@@ -321,6 +331,7 @@ dialog h2 { margin: 10px 30px 4px 0; font-size: 24px; font-weight: 800; letter-s
   .mobile-nav .icon { width: 17px; height: 17px; }
   #notice:not(:empty) { bottom: calc(60px + env(safe-area-inset-bottom)); }
   .reader-layout, .topic-layout { grid-template-columns: 1fr; }
+  .practice-intro { align-items: flex-start; flex-direction: column; gap: 9px; }
   .reader-aside { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .search-input input, .select select, #account-form input { font-size: 16px; }
 }
@@ -352,6 +363,8 @@ dialog h2 { margin: 10px 30px 4px 0; font-size: 24px; font-weight: 800; letter-s
   .catalog-tabs { gap: 10px; margin-bottom: 9px; }
   .catalog-tabs a { font-size: 11px; }
   .filters { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px; }
+  .filters-practice, .practice-group .essay-grid { grid-template-columns: minmax(0, 1fr); }
+  .practice-group .essay-card { min-height: 0; }
   .filters .search-input { grid-column: 1 / -1; }
   .filters .select select { font-size: 13px; }
   .pagination { gap: 4px; }

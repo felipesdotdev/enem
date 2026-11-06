@@ -291,13 +291,18 @@
       "slug": "apostas-digitais",
       "title": "Desafios para prevenir danos associados às apostas digitais no Brasil",
       "axis": "Saúde e bem-estar",
-      "description": "Endividamento, normalização das apostas e acesso ao cuidado.",
-      "why": "O SUS disponibiliza orientação e acolhimento para pessoas com problemas relacionados a apostas. O treino aproxima a saúde mental da proteção financeira e da educação midiática.",
+      "description": "Publicidade irregular, endividamento e acesso ao cuidado.",
+      "why": "Em setembro de 2026, uma medida provisória em tramitação no Congresso proibiu a exploração e a publicidade de apostas de quota fixa. O tema permite discutir tanto o cumprimento da medida quanto o cuidado de pessoas já afetadas pelas apostas.",
       "angles": [
-        "A normalização social da aposta pode atrasar o reconhecimento de perda de controle.",
+        "Anúncios disfarçados de relatos pessoais podem normalizar as apostas e dificultar a fiscalização.",
         "Vergonha e falta de informação sobre onde buscar atendimento podem prolongar os danos às famílias."
       ],
       "repertoire": [
+        {
+          "title": "Senado Federal · Medida Provisória nº 1.394/2026",
+          "description": "A medida proíbe a exploração e a publicidade de apostas de quota fixa e prevê fiscalização entre órgãos públicos.",
+          "url": "https://legis.senado.gov.br/norma/44059160"
+        },
         {
           "title": "Ministério da Saúde · Prevenção dos danos",
           "description": "A campanha aborda sinais de uso problemático e as consequências para finanças, relações e saúde mental.",

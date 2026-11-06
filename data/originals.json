@@ -118,6 +118,16 @@
         "description": "As diretrizes curriculares tratam da educação digital e midiática e da compreensão de sistemas de IA.",
         "url": "https://dgui.cps.sp.gov.br/dgui_atos_normativos/cne-ceb-02/"
       }
+    ],
+    "studyNotes": [
+      {
+        "title": "A nota orienta o comportamento",
+        "description": "No primeiro desenvolvimento, a nota pelo texto final cria um incentivo concreto para copiar a resposta. A defesa oral muda esse incentivo ao exigir que o estudante explique uma escolha. Use esse contraste para mostrar por que a forma de avaliar afeta a autoria."
+      },
+      {
+        "title": "A intervenção fecha o circuito",
+        "description": "A introdução promete valorizar o raciocínio, e a conclusão reserva parte da nota à justificativa das correções. Assim, a rubrica mostra exatamente qual comportamento o estudante precisa demonstrar depois de conferir uma fonte."
+      }
     ]
   },
   {
@@ -239,6 +249,16 @@
         "description": "O plano reúne riscos urbanos e propõe medidas que dependem de diferentes setores.",
         "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/desenvolvimento-urbano-e-metropolitano/cidade-protagonista-da-acao-climatica/plano-clima-adaptacao-cidades-1/"
       }
+    ],
+    "studyNotes": [
+      {
+        "title": "Da chuva à capacidade de agir",
+        "description": "A abertura distingue a ocorrência da chuva de seus efeitos para quem mora em determinada área. O texto usa essa distinção para explicar por que reconhecer uma ponte no aviso pode mudar a decisão de quem precisa sair de casa."
+      },
+      {
+        "title": "Duas barreiras na mesma evacuação",
+        "description": "O primeiro desenvolvimento trata de entender o aviso. O segundo mostra alguém que o entende, mas encontra escadas na única rota segura. A passagem de um argumento ao outro justifica a combinação de alertas locais, transporte acessível e pontos de embarque."
+      }
     ]
   },
   {
@@ -263,7 +283,7 @@
           },
           {
             "label": "Tema",
-            "text": "No Brasil, os danos das apostas digitais podem se prolongar mesmo após a interrupção do jogo, pois dívidas e conflitos familiares exigem acompanhamento."
+            "text": "No Brasil, a medida provisória que proibiu as apostas de quota fixa em setembro de 2026 restringe a oferta, mas dívidas e conflitos familiares podem persistir após o fim do jogo."
           },
           {
             "label": "Tese",
@@ -359,6 +379,21 @@
         "title": "Ministério da Saúde — Atendimento pelo Meu SUS Digital",
         "description": "A página descreve o teleatendimento oferecido a pessoas afetadas por jogos e apostas e a familiares.",
         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/outubro/jogos-e-apostas-causaram-ou-ainda-causam-problemas-saiba-como-fazer-o-autoteste-e-buscar-atendimento-pelo-meu-sus-digital"
+      },
+      {
+        "title": "Senado Federal — Medida Provisória nº 1.394/2026",
+        "url": "https://legis.senado.gov.br/norma/44059160",
+        "description": "A medida publicada em setembro de 2026 restringe a oferta de apostas de quota fixa. O cuidado das pessoas afetadas envolve a rede de saúde."
+      }
+    ],
+    "studyNotes": [
+      {
+        "title": "O que a vergonha adia",
+        "description": "A referência da OMS introduz o estigma. O julgamento leva a esconder perdas e atrasa a conversa sobre o orçamento. Assim, o parágrafo explica como esse silêncio reduz a chance de buscar ajuda antes de outra crise."
+      },
+      {
+        "title": "Oferta e acesso ao atendimento",
+        "description": "O Meu SUS Digital comprova que já existe um canal de apoio. A dificuldade com o aplicativo explica por que a proposta envolve também as unidades básicas. Ao oferecer orientação à família e proteger o sigilo, a conclusão responde ao medo de se expor."
       }
     ]
   },
@@ -481,6 +516,16 @@
         "description": "O modelo reúne recomendações para incorporar acessibilidade a portais públicos brasileiros.",
         "url": "https://emag.governoeletronico.gov.br/"
       }
+    ],
+    "studyNotes": [
+      {
+        "title": "Da regra à privacidade",
+        "description": "A lei estabelece o dever de acessibilidade. O exemplo do campo sem rótulo mostra o que está em jogo. Sem saber onde inserir o documento, o usuário pode depender de outra pessoa e compartilhar um dado que queria manter privado."
+      },
+      {
+        "title": "O teste acompanha a tarefa inteira",
+        "description": "O percurso pelo formulário inclui corrigir um erro e confirmar o envio. Ao retomar essa sequência na conclusão, o texto permite verificar se a ação proposta garante autonomia até o fim do pedido."
+      }
     ]
   },
   {
@@ -601,6 +646,16 @@
         "title": "Lei nº 14.819/2024 — Atenção psicossocial nas comunidades escolares",
         "description": "A política articula saúde, educação e assistência social para desenvolver ações psicossociais nas comunidades escolares.",
         "url": "https://bibliotecadigital.mj.gov.br/bitstream/1/12254/2/LEI_PR_2024_14819.htm"
+      }
+    ],
+    "studyNotes": [
+      {
+        "title": "Como a ofensa vira afastamento",
+        "description": "O aluno passa a evitar apresentações para reduzir as ocasiões de constrangimento. Essa escolha liga uma prática da convivência à perda de participação nas aulas e explica por que a reação da escola pode atuar na origem do problema."
+      },
+      {
+        "title": "O destino do encaminhamento importa",
+        "description": "O segundo desenvolvimento mostra que indicar uma unidade de saúde ainda deixa à família a tarefa de descobrir como será atendida. A conclusão dá continuidade à primeira escuta ao ligar a escola a uma unidade de referência e indicar um responsável."
       }
     ]
   },
@@ -723,6 +778,16 @@
         "description": "A rede integra bancos públicos, privados e da sociedade civil para reduzir desperdício e promover a alimentação adequada.",
         "url": "https://www.gov.br/pt-br/servicos/participar-da-rede-brasileira-de-banco-de-alimentos"
       }
+    ],
+    "studyNotes": [
+      {
+        "title": "O mesmo produto pode seguir dois caminhos",
+        "description": "A fruta fora do padrão estético pode ser comercializada com desconto enquanto estiver em boas condições. Quando o estoque ainda sobra, entram os bancos de alimentos. Essa ordem diferencia a prevenção da sobra do aproveitamento seguro do excedente."
+      },
+      {
+        "title": "O detalhamento resolve um risco do argumento",
+        "description": "O segundo desenvolvimento mostra que uma entrega mal planejada pode apenas deslocar a perda para a triagem. Ao prever refrigeração conforme a perecibilidade, a proposta explica uma condição para a doação cumprir seu objetivo."
+      }
     ]
   },
   {
@@ -798,11 +863,11 @@
           },
           {
             "label": "O que",
-            "text": "devem revisar as conexões do transporte coletivo que atende áreas periféricas,"
+            "text": "devem conectar bairros periféricos a polos de emprego e de serviços e ajustar os horários das integrações,"
           },
           {
             "label": "Como",
-            "text": "mediante mapas de tempo de viagem a serviços e consulta a moradores sobre esperas e horários,"
+            "text": "mediante mapas de tempo de viagem, revisão de itinerários e consulta a moradores sobre esperas e horários,"
           },
           {
             "label": "Para quê",
@@ -843,6 +908,16 @@
         "title": "Lei nº 12.587/2012 — Política Nacional de Mobilidade Urbana",
         "description": "A política inclui a equidade no acesso ao transporte público coletivo entre seus princípios.",
         "url": "https://legis.senado.gov.br/norma/589510/publicacao/34619104"
+      }
+    ],
+    "studyNotes": [
+      {
+        "title": "Uma linha pontual também pode deixar alguém longe",
+        "description": "O estudo do Ipea fundamenta a concentração de serviços. A consulta distante mostra que a distribuição dos equipamentos da cidade gera tempo de viagem mesmo quando o ônibus cumpre seu horário. Isso prepara o contraste com a irregularidade da rede."
+      },
+      {
+        "title": "Uma meta vinculada ao exemplo",
+        "description": "Perder a última integração depois de um curso limita as oportunidades disponíveis à noite. A conclusão transforma esse episódio em uma meta de conexão no período noturno e indica dados de pontualidade e relatos de passageiros para acompanhá-la."
       }
     ]
   },
@@ -965,6 +1040,16 @@
         "description": "O material orienta a mediação por famílias, cuidadores e educadores no uso de dispositivos digitais.",
         "url": "https://www.gov.br/secom/pt-br/assuntos/uso-de-telas-por-criancas-e-adolescentes/guia/para-baixar"
       }
+    ],
+    "studyNotes": [
+      {
+        "title": "O menu de privacidade entra na cadeia causal",
+        "description": "O exemplo da conta aberta a mensagens de desconhecidos mostra de quem depende a proteção inicial. Quando o padrão é permissivo, uma criança precisa descobrir e entender o menu para evitar o contato. A fiscalização das configurações responde a esse ponto."
+      },
+      {
+        "title": "O que vale ensaiar em sala",
+        "description": "O segundo argumento mostra que denunciar na plataforma e procurar um adulto de confiança são formas de pedir ajuda. O uso de contas fictícias na conclusão permite praticar ambos os passos preservando a privacidade dos alunos."
+      }
     ]
   },
   {
@@ -1023,7 +1108,7 @@
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O Plano Nacional de Educação prevê políticas de permanência na EJA e ações de busca ativa. Na escola, o contato após uma sequência de faltas ajuda a identificar se a barreira é o transporte, a carga de trabalho ou outra dificuldade concreta. A partir daí, torna-se possível organizar a retomada dos conteúdos."
+            "text": "O Plano Nacional de Educação prevê políticas de apoio à permanência na EJA, entre elas programas suplementares de transporte, alimentação e saúde. Na escola, o contato após uma sequência de faltas ajuda a identificar se a barreira é o transporte, a carga de trabalho ou outra dificuldade concreta. A partir daí, torna-se possível organizar a retomada dos conteúdos."
           },
           {
             "label": "Ligação",
@@ -1083,8 +1168,18 @@
       },
       {
         "title": "Plano Nacional de Educação — Lei nº 15.388/2026",
-        "description": "O plano prevê busca ativa de pessoas que não concluíram a educação básica e medidas de apoio à permanência na EJA.",
+        "description": "As estratégias 11.4 e 11.7 preveem políticas de permanência e programas suplementares de transporte, alimentação e saúde.",
         "url": "https://www2.camara.leg.br/legin/fed/lei/2026/lei-15388-14-abril-2026-798950-normaatualizada-pl.html"
+      }
+    ],
+    "studyNotes": [
+      {
+        "title": "Da escala de trabalho à dificuldade de acompanhar",
+        "description": "Uma troca de turno produz faltas repetidas, e cada falta pode dificultar a aula seguinte. Esse encadeamento dá sentido à exigência da LDB de considerar as condições de trabalho e explica por que abrir vagas resolve apenas uma etapa."
+      },
+      {
+        "title": "A falta indica onde intervir",
+        "description": "O contato da escola serve para descobrir se o obstáculo é transporte, trabalho ou outra dificuldade. Ao prever reposição e eventual troca de turno, o texto mostra como o acompanhamento pode mudar as condições de retorno."
       }
     ]
   },
@@ -1207,6 +1302,16 @@
         "description": "O programa reúne soluções de infraestrutura, gestão e participação da comunidade.",
         "url": "https://www.gov.br/funasa/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/programa-nacional-de-saneamento-rural"
       }
+    ],
+    "studyNotes": [
+      {
+        "title": "O repertório sustenta uma escolha técnica",
+        "description": "O Censo informa que há diferentes formas de esgotamento no campo. O texto usa essa diversidade para justificar um diagnóstico local que examine a composição do solo, a posição dos poços e as condições de retirada de lodo."
+      },
+      {
+        "title": "A manutenção ganha responsável e prazo",
+        "description": "O segundo argumento explica como uma falha pequena pode levar uma família a abandonar o sistema. O contrato da proposta enfrenta esse ponto ao fixar prazos de inspeção e indicar por onde pedir reparos."
+      }
     ]
   },
   {
@@ -1328,6 +1433,16 @@
         "description": "O programa apoia o fornecimento comunitário de refeições gratuitas para pessoas em vulnerabilidade.",
         "url": "https://www.gov.br/mds/pt-br/acoes-e-programas/acesso-a-alimentos-e-a-agua/programa-cozinha-solidaria/programa-cozinha-solidaria"
       }
+    ],
+    "studyNotes": [
+      {
+        "title": "O preço da passagem faz parte da compra",
+        "description": "A introdução trata o deslocamento como custo, e o primeiro desenvolvimento materializa essa ideia com duas passagens de ônibus para comprar frutas. O conceito de deserto alimentar ajuda a explicar por que uma feira próxima pode alterar o orçamento."
+      },
+      {
+        "title": "Proximidade e regularidade resolvem problemas diferentes",
+        "description": "As feiras reduzem o custo de chegar aos alimentos, enquanto a cozinha solidária atende a quem ainda não consegue pagar. A intervenção mantém as duas respostas porque o segundo argumento estabelece um limite para a primeira."
+      }
     ]
   },
   {
@@ -1444,6 +1559,16 @@
         "title": "Ministério da Saúde — Saúde Sem Racismo",
         "description": "A página reúne ações do SUS para enfrentar desigualdades étnico-raciais no cuidado.",
         "url": "https://www.gov.br/saude/pt-br/assuntos/saude-sem-racismo"
+      }
+    ],
+    "studyNotes": [
+      {
+        "title": "Do estereótipo à continuidade do cuidado",
+        "description": "O parágrafo concretiza o racismo institucional com o exemplo de uma dor subestimada. A avaliação pode ficar incompleta, e a paciente pode hesitar em voltar. Essa sequência liga o acolhimento no primeiro encontro às etapas seguintes do atendimento."
+      },
+      {
+        "title": "O dado precisa responder a uma pergunta",
+        "description": "O campo raça ou cor permite examinar se pessoas com necessidades semelhantes esperam tempos diferentes pelo mesmo serviço. A comparação dá finalidade ao monitoramento, enquanto os resultados agregados permitem discussão pública com proteção da identidade."
       }
     ]
   },
@@ -1566,6 +1691,16 @@
         "description": "O enunciado orienta a aplicação do artigo 14 da LGPD e prioriza o melhor interesse da criança e do adolescente.",
         "url": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-divulga-enunciado-sobre-o-tratamento-de-dados-pessoais-de-criancas-e-adolescentes"
       }
+    ],
+    "studyNotes": [
+      {
+        "title": "Comparar condições, comparar o que se aprende",
+        "description": "O primeiro argumento mantém a mesma tarefa e muda as condições para realizá-la. Um estudante pode conferir várias fontes em casa, enquanto outro depende de um celular compartilhado. O contraste mostra como a infraestrutura interfere na prática da verificação."
+      },
+      {
+        "title": "Uma regra de privacidade que cabe na atividade",
+        "description": "O exemplo dos nomes e histórias familiares explica como um exercício de reescrita pode expor dados. O uso de dados fictícios preserva o objetivo pedagógico, e a orientação antes da aula torna explícito o que os alunos podem inserir."
+      }
     ]
   },
   {
@@ -1624,7 +1759,7 @@
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O painel do Ministério da Saúde relaciona excesso de calor a vulnerabilidade socioeconômica. Com esse tipo de informação, equipes locais podem planejar visitas a moradores em maior risco e divulgar pontos de apoio acessíveis durante episódios severos."
+            "text": "O painel do Ministério da Saúde combina dados de excesso de calor e vulnerabilidade socioeconômica. Nos bairros de maior risco, agentes comunitários podem usar o alerta para priorizar visitas a pessoas idosas que vivem sozinhas em casas sem ventilação e indicar onde elas podem se refrescar."
           },
           {
             "label": "Ligação",
@@ -1645,7 +1780,7 @@
           },
           {
             "label": "Como",
-            "text": "mediante mapas de risco, arborização de rotas de pedestres e abertura de pontos de apoio em alertas severos,"
+            "text": "mediante mapas de risco, arborização de rotas de pedestres e, nos alertas severos, visitas domiciliares e abertura de pontos de apoio,"
           },
           {
             "label": "Para quê",
@@ -1687,6 +1822,16 @@
         "description": "O painel combina intensidade do calor e vulnerabilidade socioeconômica para identificar territórios com maior risco.",
         "url": "https://miniapps.saude.gov.br/guia-clima/painel-de-excesso-de-calor"
       }
+    ],
+    "studyNotes": [
+      {
+        "title": "Onde colocar a sombra",
+        "description": "A comparação entre uma praça arborizada e um ponto de ônibus descoberto mostra que o benefício depende do lugar em que as pessoas ficam expostas. Por isso, o argumento transforma a arborização em uma decisão sobre trajetos cotidianos."
+      },
+      {
+        "title": "Proteção permanente e resposta imediata",
+        "description": "O texto separa a exposição diária do risco durante um alerta severo. Essa distinção sustenta medidas permanentes, como arborizar rotas de pedestres, e ações imediatas, como visitar moradores e abrir pontos de apoio com água."
+      }
     ]
   },
   {
@@ -1715,7 +1860,7 @@
           },
           {
             "label": "Tese",
-            "text": "Prevenir seus danos exige examinar o apelo da publicidade e ensinar a avaliar riscos para o orçamento."
+            "text": "Prevenir seus danos exige enfrentar a publicidade irregular e ensinar a avaliar riscos para o orçamento."
           }
         ]
       },
@@ -1732,7 +1877,7 @@
           },
           {
             "label": "Ligação",
-            "text": "Por isso, a leitura crítica da publicidade deve perguntar quais informações ficaram fora da narrativa."
+            "text": "Por isso, após a proibição da publicidade de apostas de quota fixa pela Medida Provisória nº 1.394, de setembro de 2026, identificar anúncios disfarçados tornou-se parte da prevenção."
           }
         ]
       },
@@ -1758,23 +1903,23 @@
         "parts": [
           {
             "label": "Quem",
-            "text": "Portanto, as secretarias de educação, em parceria com as redes de saúde,"
+            "text": "Portanto, o Ministério da Fazenda e as secretarias de educação"
           },
           {
             "label": "O que",
-            "text": "devem promover atividades de prevenção aos danos das apostas,"
+            "text": "devem, respectivamente, fiscalizar a publicidade irregular e ensinar estudantes a avaliar promessas de ganho,"
           },
           {
             "label": "Como",
-            "text": "com análise de publicidade fictícia e exercícios de probabilidade e orçamento nas aulas,"
+            "text": "com monitoramento de perfis que divulgam apostas e exercícios de probabilidade e orçamento nas escolas,"
           },
           {
             "label": "Para quê",
-            "text": "para que estudantes reconheçam promessas enganosas e compreendam o efeito de perdas sucessivas."
+            "text": "para reduzir a circulação de anúncios proibidos e a adesão motivada pela expectativa de lucro fácil."
           },
           {
             "label": "Detalhamento",
-            "text": "Os materiais devem terminar com a indicação dos canais de acolhimento do SUS para alunos e familiares afetados."
+            "text": "Os materiais de aula devem mostrar como identificar um anúncio disfarçado em um relato pessoal e indicar canais de acolhimento do SUS."
           }
         ]
       }
@@ -1782,7 +1927,7 @@
     "connectors": [
       {
         "term": "Por isso",
-        "use": "Liga a seleção de ganhos à necessidade de leitura crítica."
+        "use": "Liga o efeito da seleção de ganhos à importância de identificar publicidade irregular."
       },
       {
         "term": "Além dessa leitura",
@@ -1794,7 +1939,7 @@
       },
       {
         "term": "Portanto",
-        "use": "Reúne análise de publicidade e orçamento na proposta."
+        "use": "Distribui o enfrentamento da publicidade e a educação financeira entre agentes diferentes."
       }
     ],
     "repertoire": [
@@ -1807,6 +1952,21 @@
         "title": "Banco Central — Aprender Valor",
         "description": "O programa oferece formação e recursos para trabalhar letramento financeiro no ensino fundamental.",
         "url": "https://www.bcb.gov.br/meubc/faqs/s/aprender-valor"
+      },
+      {
+        "title": "Senado Federal — Medida Provisória nº 1.394/2026",
+        "url": "https://legis.senado.gov.br/norma/44059160",
+        "description": "Publicada em setembro de 2026 e em tramitação, a medida proíbe a publicidade de apostas de quota fixa e institui um comitê de fiscalização."
+      }
+    ],
+    "studyNotes": [
+      {
+        "title": "A cena que ficou fora do anúncio",
+        "description": "A vitória exibida em um vídeo pode ser verdadeira e ainda induzir uma conclusão enganosa sobre sua frequência. O texto explica esse efeito pela seleção das cenas, mostrando por que interessa ao leitor perguntar quais rodadas ficaram de fora."
+      },
+      {
+        "title": "Da promessa ao saldo acumulado",
+        "description": "O exercício com perdas e ganhos fictícios traduz a leitura crítica em uma operação verificável. Ao calcular o saldo de todas as rodadas e compará-lo às despesas familiares, a turma consegue avaliar o efeito da aposta sobre o orçamento."
       }
     ]
   },
@@ -1895,7 +2055,7 @@
           },
           {
             "label": "Detalhamento",
-            "text": "Os testes devem incluir tarefas de recuperação de acesso, como preencher um código recebido por outro canal."
+            "text": "Os testes devem verificar se é possível colar um código recebido por mensagem e confirmar a identidade por um caminho assistido quando o usuário não puder acessar esse canal."
           }
         ]
       }
@@ -1928,6 +2088,16 @@
         "title": "W3C — Autenticação acessível",
         "description": "O critério prevê alternativas ou mecanismos de assistência quando a autenticação exige tarefas cognitivas.",
         "url": "https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum.html"
+      }
+    ],
+    "studyNotes": [
+      {
+        "title": "Uma mensagem clara muda a próxima ação",
+        "description": "A expressão genérica sobre dados inconsistentes admite três causas no exemplo. Indicar o campo a corrigir resolve essa ambiguidade e mostra o efeito da linguagem sobre a autonomia de uma pessoa com deficiência intelectual."
+      },
+      {
+        "title": "O recurso de apoio reduz uma exigência concreta",
+        "description": "A regra do W3C ganha função no exemplo do código que o portal impede de colar. A obrigação de memorizar e transcrever explica a barreira e justifica incluir a recuperação do acesso entre as tarefas dos testes."
       }
     ]
   },
@@ -1991,7 +2161,7 @@
           },
           {
             "label": "Ligação",
-            "text": "Assim, a retomada inclui os estudantes nas decisões sobre a rotina que precisam reconstruir."
+            "text": "Assim, participar da reconstrução da rotina abre espaço para pedir ajuda e reduz o isolamento de quem ainda tem dificuldade de voltar à escola."
           }
         ]
       },
@@ -2012,11 +2182,11 @@
           },
           {
             "label": "Para quê",
-            "text": "para favorecer o pertencimento e a continuidade dos estudos."
+            "text": "para reduzir o isolamento e preservar as condições emocionais de aprendizagem."
           },
           {
             "label": "Detalhamento",
-            "text": "O plano deve reservar momentos de acompanhamento individual para estudantes com faltas recorrentes."
+            "text": "O plano deve prever escuta reservada para estudantes com faltas recorrentes ou sofrimento persistente e encaminhamento à unidade de saúde de referência quando necessário."
           }
         ]
       }
@@ -2049,6 +2219,16 @@
         "title": "Ministério da Saúde — Programa Saúde na Escola",
         "description": "As ações do programa incluem promoção da saúde mental, da cultura de paz e dos direitos humanos.",
         "url": "https://www.gov.br/saude/pt-br/composicao/saps/pse/faq/quais-sao-as-acoes-do"
+      }
+    ],
+    "studyNotes": [
+      {
+        "title": "O calendário retoma antes da rotina",
+        "description": "A enchente delimita o tema à volta às aulas após uma emergência. O argumento mostra que concentrar a primeira semana em provas limita a chance de descobrir por que a turma enfrenta dificuldades de frequência ou concentração."
+      },
+      {
+        "title": "Participar significa ter uma decisão em pauta",
+        "description": "O conselho de turma discute como receber colegas que voltam depois ou perderam materiais. Esse exemplo transforma pertencimento em participação concreta e justifica envolver as turmas na revisão do planejamento escolar."
       }
     ]
   },
@@ -2176,6 +2356,16 @@
         "description": "O programa inclui planejamento de cardápios, educação alimentar e testes de aceitabilidade.",
         "url": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/pnae/pnae-alimentacao-e-nutricao"
       }
+    ],
+    "studyNotes": [
+      {
+        "title": "Um repertório abre o tema e outro orienta a análise",
+        "description": "O percurso do tomate em Ilha das Flores introduz o descarte. O índice do Pnuma situa o problema nos serviços de alimentação e permite mudar a escala para a cozinha escolar, onde o texto investiga de onde vêm as sobras."
+      },
+      {
+        "title": "Medir para escolher a resposta",
+        "description": "O que fica na panela pode apontar excesso de preparo. O que volta no prato pode indicar baixa aceitação. A conclusão pede registros separados porque cada sinal leva a uma decisão diferente sobre quantidade ou cardápio."
+      }
     ]
   },
   {
@@ -2293,6 +2483,16 @@
         "description": "O estudo discute diferenças nas viagens a pé e de bicicleta no Brasil.",
         "url": "https://repositorio.ipea.gov.br/bitstream/11058/14341/1/TD_3024_web.pdf"
       }
+    ],
+    "studyNotes": [
+      {
+        "title": "A viagem se mede de porta a porta",
+        "description": "Uma linha próxima de um posto de saúde parece útil até que o exemplo mostre a avenida sem faixa entre o ponto e a entrada. O argumento amplia o conceito de acesso para incluir a travessia indispensável ao uso da linha."
+      },
+      {
+        "title": "Uma barreira muda de efeito conforme o passageiro",
+        "description": "O degrau na calçada pode ser contornado por um pedestre e impedir a passagem de uma cadeira de rodas. A comparação justifica avaliar o percurso com diferentes moradores antes de escolher as obras."
+      }
     ]
   },
   {
@@ -2351,7 +2551,7 @@
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O Ministério da Justiça regulamentou o Centro Nacional de Triagem de Notificações para encaminhar às autoridades competentes relatos de plataformas sobre determinadas violações. Um protocolo com responsabilidades definidas ajuda a evitar que o caso se perca na passagem entre a empresa e o órgão responsável pela proteção."
+            "text": "O Ministério da Justiça regulamentou o funcionamento do Centro Nacional de Proteção à Criança e ao Adolescente. O centro foi designado para receber notificações das plataformas sobre casos como a circulação de material de violência sexual contra crianças e encaminhá-las às autoridades competentes. Com responsabilidades definidas, diminui o risco de que o caso se perca entre a empresa e o órgão responsável pela proteção."
           },
           {
             "label": "Ligação",
@@ -2413,6 +2613,16 @@
         "title": "Ministério da Justiça — Triagem de notificações",
         "description": "O ministério explica o funcionamento do centro que recebe e encaminha notificações de plataformas sobre determinadas violações.",
         "url": "https://www.gov.br/mj/pt-br/assuntos/noticias/mjsp-regulamenta-notificacao-de-crimes-contra-criancas-em-plataformas-digitais"
+      }
+    ],
+    "studyNotes": [
+      {
+        "title": "Encontrar o canal faz parte da proteção",
+        "description": "O botão escondido e as categorias difíceis explicam como alguém pode reconhecer um abuso e ainda abandonar o relato. Esse mecanismo justifica testar se pessoas jovens conseguem encontrar e usar o canal."
+      },
+      {
+        "title": "A confirmação torna o teste verificável",
+        "description": "Depois de discutir a passagem da denúncia da plataforma à autoridade responsável, o texto pede um teste com situação fictícia e confirmação compreensível do envio. Assim, o detalhamento explicita um sinal que o usuário deve receber."
       }
     ]
   },
@@ -2534,6 +2744,16 @@
         "title": "Conselho Nacional de Educação — Resolução CNE/CEB nº 3/2025",
         "description": "As diretrizes da EJA incluem formação docente e aproveitamento de saberes adquiridos em práticas sociais e de trabalho.",
         "url": "https://dgui.cps.sp.gov.br/dgui_atos_normativos/cne-ceb-03/"
+      }
+    ],
+    "studyNotes": [
+      {
+        "title": "Paulo Freire orienta a escolha do exemplo",
+        "description": "A leitura do mundo aparece nos cálculos que um trabalhador já faz em uma obra. O texto liga essa experiência a unidades de medida e margens de erro, fazendo o repertório explicar como a aula pode partir de um problema reconhecível."
+      },
+      {
+        "title": "A devolutiva aponta um próximo passo",
+        "description": "Comparar duas versões de um trabalho permite localizar o que o estudante aprendeu. A proposta detalha uma devolutiva individual com um objetivo para a etapa seguinte, o que torna o progresso compreensível para quem está retomando os estudos."
       }
     ]
   },
@@ -2661,6 +2881,16 @@
         "description": "O texto prevê controle e vigilância da água destinada ao consumo humano em soluções coletivas de abastecimento.",
         "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2021/prt0888_24_05_2021_rep.html"
       }
+    ],
+    "studyNotes": [
+      {
+        "title": "Da ficção ao recorte do abastecimento",
+        "description": "A obra de esgoto em Saneamento Básico, o Filme introduz a dificuldade de adequar a ação pública ao campo. O tema transfere essa questão para a água, e o exemplo do período seco mostra por que o planejamento precisa considerar o território."
+      },
+      {
+        "title": "O que acontece depois da análise da água",
+        "description": "O segundo desenvolvimento relaciona amostras esporádicas e falhas sem resposta à exposição prolongada dos moradores. A proposta reúne coleta programada, comunicação do resultado e indicação de um responsável pelas correções."
+      }
     ]
   },
   {
@@ -2787,6 +3017,16 @@
         "description": "O programa compra alimentos da agricultura familiar e abastece instituições que atendem pessoas em vulnerabilidade.",
         "url": "https://www.gov.br/mds/pt-br/acoes-e-programas/acesso-a-alimentos-e-a-agua/programa-de-aquisicao-de-alimentos"
       }
+    ],
+    "studyNotes": [
+      {
+        "title": "O diário introduz a incerteza no tempo",
+        "description": "Quarto de despejo ajuda a passar do esforço por uma refeição à preocupação com os próximos dias. Esse recorte sustenta a tese de que tanto o reconhecimento antecipado do risco quanto a regularidade do apoio afetam a segurança alimentar."
+      },
+      {
+        "title": "Acompanhar o primeiro atendimento fecha o encaminhamento",
+        "description": "O exemplo da consulta mostra como a redução da variedade da comida pode aparecer antes de uma crise aguda. Na conclusão, a equipe acompanha se o primeiro atendimento ocorreu, ligando a identificação do risco ao acesso efetivo ao apoio."
+      }
     ]
   },
   {
@@ -2828,11 +3068,11 @@
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O estudo A cor da dor, com dados da pesquisa Nascer no Brasil de 2011 e 2012, encontrou maior risco de pré-natal inadequado entre mulheres pretas e pardas em comparação às brancas. Quando consultas ou exames necessários deixam de ocorrer, a equipe tem menos oportunidades de identificar problemas e organizar o cuidado seguinte."
+            "text": "O estudo A cor da dor analisou partos de financiamento público e privado em 2011 e 2012 e encontrou maior chance de pré-natal inadequado entre mulheres pretas e pardas do que entre brancas. Quando consultas ou exames necessários deixam de ocorrer, a equipe tem menos oportunidades de identificar problemas e organizar o cuidado seguinte."
           },
           {
             "label": "Ligação",
-            "text": "A qualidade do pré-natal, portanto, precisa ser examinada também pela perspectiva da equidade racial."
+            "text": "A desigualdade registrada, portanto, dá às redes do SUS um motivo para verificar se consultas e exames chegam de forma equitativa às gestantes que atendem."
           }
         ]
       },
@@ -2845,7 +3085,7 @@
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O mesmo estudo identificou entre mulheres pretas maior risco de procurar mais de um hospital para conseguir internação para o parto. A Rede Alyne prevê vincular a gestante à maternidade desde o pré-natal. Informar qual unidade a receberá e confirmar a comunicação entre os serviços ajuda a transformar essa diretriz em acesso efetivo."
+            "text": "O mesmo estudo identificou entre mulheres pretas maior chance de procurar mais de um hospital para conseguir internação para o parto. A Rede Alyne prevê vincular a gestante à maternidade desde o pré-natal. Informar qual unidade a receberá e confirmar a comunicação entre os serviços ajuda a transformar essa diretriz em acesso efetivo."
           },
           {
             "label": "Ligação",
@@ -2901,12 +3141,22 @@
       {
         "title": "Leal e colaboradores — A cor da dor",
         "description": "A pesquisa examina diferenças raciais na atenção pré-natal e ao parto a partir do estudo Nascer no Brasil.",
-        "url": "https://www.scielo.br/j/csp/a/LybHbcHxdFbYsb6BDSQHb7H/?format=html&lang=pt"
+        "url": "https://periodicos.fiocruz.br/pt-br/node/38980"
       },
       {
         "title": "Ministério da Saúde — Rede Alyne",
         "description": "A portaria orienta a atenção materna e infantil e prevê vinculação à maternidade a partir do pré-natal.",
         "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2024/prt5350_13_09_2024.html"
+      }
+    ],
+    "studyNotes": [
+      {
+        "title": "O mesmo estudo responde a duas perguntas",
+        "description": "A pesquisa sustenta uma comparação sobre a qualidade do pré-natal e outra sobre a procura por mais de um hospital. Ao delimitar os grupos e o período dos dados, o texto usa a evidência com precisão para examinar duas etapas do cuidado."
+      },
+      {
+        "title": "A referência à maternidade vira uma instrução",
+        "description": "A conclusão exige confirmação por escrito, endereço e orientação para intercorrências. Esses detalhes respondem ao segundo argumento ao ajudar a gestante a saber onde buscar atendimento quando precisar do serviço."
       }
     ]
   }

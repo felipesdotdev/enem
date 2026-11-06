@@ -4,7 +4,7 @@ import '@fontsource-variable/newsreader/wght-italic.css';
 import './styles.css';
 import { essayById, themeBySlug, searchEssays } from './catalog.js';
 import {
-  shell, home, library, libraryResults, librarySummary, catalogState, reader, topics, topic, guide, saved,
+  shell, home, library, libraryResults, librarySummary, catalogState, catalogUrl, reader, topics, topic, guide, saved,
   missing, searchPreview, partGroup, esc, icon, plural,
 } from './views.js';
 
@@ -235,19 +235,14 @@ function updateFilters(form, mode = 'replaceState') {
     if (value.trim()) params.set(key, value.trim());
     else params.delete(key);
   }
-  const url = `/biblioteca${params.size ? `?${params}` : ''}`;
-  if (`${location.pathname}${location.search}` !== url) history[mode]({}, '', url);
   const state = catalogState(params);
+  const url = catalogUrl(state);
+  if (`${location.pathname}${location.search}` !== url) history[mode]({}, '', url);
   const matches = searchEssays(state.query, state);
   document.querySelector('#catalog-summary').innerHTML = librarySummary(matches.length, state.type);
   document.querySelector('#catalog-results').innerHTML = libraryResults(state, reading, matches);
-  for (const anchor of document.querySelectorAll('.catalog-tabs a')) {
-    const target = new URL(anchor.href);
-    for (const key of ['q', 'eixo', 'ano']) {
-      if (params.has(key) && !(key === 'ano' && target.searchParams.get('tipo') === 'original')) target.searchParams.set(key, params.get(key));
-      else target.searchParams.delete(key);
-    }
-    anchor.href = target.href;
+  for (const anchor of document.querySelectorAll('[data-catalog-type]')) {
+    anchor.href = catalogUrl({ ...state, type: anchor.dataset.catalogType, page: 1 });
   }
 }
 

@@ -11,6 +11,10 @@ export const essays = [
 export const essayById = new Map(essays.map((essay) => [essay.id, essay]));
 export const themes = analysis.themes;
 export const themeBySlug = new Map(themes.map((theme) => [theme.slug, theme]));
+export const practiceFilter = 'possiveis-temas';
+export const isPracticeEssay = (essay) => essay.type === 'original' && themeBySlug.has(essay.themeId);
+const practiceThemeIds = new Set(essays.filter(isPracticeEssay).map((essay) => essay.themeId));
+export const practiceThemes = themes.filter((theme) => practiceThemeIds.has(theme.slug));
 export const axes = [...new Set(essays.map((essay) => essay.category).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'pt-BR'));
 export const years = [...new Set(official.map((essay) => essay.year))].sort((a, b) => b - a);
 export const officialCount = official.length;
@@ -34,12 +38,13 @@ export function searchEssays(query, filter = {}) {
   return essays.filter((essay) => {
     if (filter.type === 'official' && essay.type !== 'official') return false;
     if (filter.type === 'verified' && !(essay.score >= 900)) return false;
-    if (filter.type === 'original' && essay.type !== 'original') return false;
+    if (filter.type === practiceFilter && (!isPracticeEssay(essay) || (filter.theme && essay.themeId !== filter.theme))) return false;
     if (filter.axis && essay.category !== filter.axis) return false;
     if (filter.year && String(essay.year) !== filter.year) return false;
     if (!tokens.length) return true;
     const searchable = normalize([
       essay.title, essay.topic, essay.description, essay.category, essay.year, essay.author,
+      essay.type === 'original' ? 'autoral' : '',
       scoreLabel(essay), ...(essay.tags ?? []), ...(essay.repertoire ?? []).map((item) => item.title),
     ].join(' '));
     return tokens.every((token) => searchable.includes(token));
