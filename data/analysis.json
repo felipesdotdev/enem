@@ -2,7 +2,7 @@
   "edition": 2026,
   "examDate": "2026-11-08",
   "intro": "Propostas inéditas de treino a partir de problemas públicos brasileiros e do histórico da prova. Cada tema reúne recortes, repertórios verificáveis e um caminho para pensar a intervenção.",
-  "method": "A análise cobre as 28 edições regulares de 1998 a 2025, com a aplicação impressa principal nos anos que tiveram formatos ou aplicações diferentes. A tabela traz os temas das provas e um eixo editorial por edição. Em 2008, a proposta pedia ao participante que escolhesse uma medida de preservação da Amazônia como tema, por isso a tabela usa uma descrição do enunciado. A seleção dos exercícios considerou problemas que podem ser delimitados no Brasil, evidência de fontes primárias e espaço para comparar causas e intervenções. A frequência descreve o acervo histórico e os recortes servem de treino.",
+  "method": "A análise cobre as 28 edições regulares de 1998 a 2025, com a aplicação impressa principal nos anos que tiveram formatos ou aplicações diferentes. A tabela traz os temas das provas e um eixo editorial por edição. Em 2008, a proposta pedia ao participante que escolhesse uma medida de preservação da Amazônia como tema, por isso a tabela usa uma descrição do enunciado. A seleção dos exercícios considerou problemas que podem ser delimitados no Brasil, evidência de fontes primárias e espaço para comparar causas e intervenções. A frequência descreve o acervo histórico e os recortes servem de treino. As propostas adicionais também consideram recortes sugeridos por Ana Letícia Lima, Cristiane Tosta, Rógi Almeida e Rogério Bartilotti em entrevistas de outubro e novembro de 2026, indicadas nas fontes.",
   "patterns": [
     {
       "title": "Do assunto amplo ao problema concreto",
@@ -531,6 +531,206 @@
         }
       ],
       "intervention": "Secretarias de Saúde podem capacitar equipes de UBS, qualificar o registro autodeclarado de raça e cor e usar dados agregados para monitorar diferenças de atendimento, preservando o sigilo individual."
+    },
+    {
+      "slug": "saude-mental-no-trabalho",
+      "title": "Desafios para proteger a saúde mental dos trabalhadores no Brasil",
+      "axis": "Trabalho e economia",
+      "description": "Sobrecarga, organização da rotina e acesso a acolhimento sem estigma no ambiente profissional.",
+      "why": "O recorte permite explicar como metas, autonomia e relações de chefia afetam o bem-estar, relacionando a organização do trabalho à possibilidade de procurar cuidado.",
+      "angles": [
+        "Metas incompatíveis com a jornada podem ocupar o descanso e prolongar o desgaste.",
+        "Medo de humilhação ou julgamento pode atrasar a procura por apoio profissional.",
+        "Escutar os trabalhadores ajuda a localizar exigências que precisam ser revistas."
+      ],
+      "repertoire": [
+        {
+          "title": "Tempos Modernos — O ritmo da fábrica",
+          "description": "O esgotamento do operário de Chaplin permite discutir o que acontece quando a produção desconsidera limites humanos.",
+          "url": "https://www.charliechaplin.com/en/films/6-Modern-Times"
+        },
+        {
+          "title": "OMS — Prevenção no ambiente de trabalho",
+          "description": "A OMS recomenda mudar condições que geram riscos e preparar gestores para acolher o sofrimento, ligando rotina e cuidado.",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"
+        }
+      ],
+      "intervention": "Empresas e representantes dos trabalhadores podem revisar metas com as equipes, capacitar chefias para a escuta, informar caminhos de atendimento e verificar periodicamente quais mudanças reduziram a sobrecarga."
+    },
+    {
+      "slug": "neurodivergencia-na-educacao-e-no-trabalho",
+      "title": "Desafios para a inclusão de pessoas neurodivergentes na educação e no trabalho no Brasil",
+      "axis": "Direitos e inclusão",
+      "description": "Apoios individuais na escola, combate ao preconceito e condições de acesso e permanência no emprego.",
+      "why": "O tema liga aprendizagem e oportunidades profissionais. Permite analisar barreiras sem tratar autismo, TDAH e outras condições como experiências iguais ou atribuir habilidades pelo diagnóstico.",
+      "angles": [
+        "Formação docente e instruções acessíveis ajudam a distinguir dificuldades de ensino das competências do estudante.",
+        "Critérios de seleção precisam avaliar tarefas da vaga sem confundir desenvoltura social com capacidade profissional.",
+        "Convivência respeitosa e apoios definidos com cada pessoa são necessários tanto na escola quanto no trabalho."
+      ],
+      "repertoire": [
+        {
+          "title": "Constituição — Permanência e dignidade",
+          "description": "A igualdade de condições na escola, no artigo 206, e a dignidade humana, no artigo 1º, ajudam a discutir por que oferecer uma vaga não basta para incluir.",
+          "url": "https://www.tse.jus.br/legislacao/codigo-eleitoral/constituicao-federal/constituicao-da-republica-federativa-do-brasil"
+        },
+        {
+          "title": "Temple Grandin — Competência em um relato pessoal",
+          "description": "Ao explicar como seu pensamento visual contribui para projetar equipamentos, Grandin oferece um exemplo concreto da importância de reconhecer competências individuais.",
+          "url": "https://www.grandin.com/inc/visual.thinking.html"
+        }
+      ],
+      "intervention": "Secretarias de Educação podem formar docentes e acompanhar apoios com estudantes e famílias; empresas podem revisar seleções e combinar adaptações com trabalhadores, verificando sua eficácia e preservando informações pessoais."
+    },
+    {
+      "slug": "racismo-ambiental",
+      "title": "Caminhos para enfrentar o racismo ambiental no Brasil",
+      "axis": "Meio ambiente",
+      "description": "Desigualdade racial na exposição a riscos, no acesso a serviços ambientais e na participação sobre o território.",
+      "why": "Decisões e omissões podem distribuir proteção ambiental de modo desigual entre grupos raciais. O recorte pede relacionar o acesso aos serviços, as condições dos bairros e a participação de quem vive neles.",
+      "angles": [
+        "A distribuição desigual de saneamento e moradia segura pode prolongar a exposição de comunidades negras à contaminação.",
+        "A ausência das comunidades nas decisões dificulta reconhecer os riscos que elas enfrentam.",
+        "Comparar dados de raça, território e serviços ajuda a definir prioridades e a avaliar a redução das desigualdades."
+      ],
+      "repertoire": [
+        {
+          "title": "IBGE — Saneamento e desigualdade racial",
+          "description": "O Censo 2022 mostra menor acesso ao esgotamento adequado entre pessoas pretas e pardas do que entre brancas. A comparação ajuda a explicar a distribuição desigual da proteção ambiental.",
+          "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22064-caracteristicas-dos-domicilios-censo-2022.html"
+        },
+        {
+          "title": "Carolina Maria de Jesus — Quarto de despejo",
+          "description": "O diário apresenta a experiência de uma mulher negra na favela. A obra dá voz à moradora e ajuda a defender a participação das comunidades nas decisões sobre seus bairros.",
+          "url": "https://carolinamariadejesus.ims.com.br/quarto-de-despejo/"
+        }
+      ],
+      "intervention": "Prefeituras podem cruzar dados de raça e serviços, definir obras com os moradores e publicar prazos e responsáveis, para reduzir a exposição desigual e permitir o acompanhamento das decisões."
+    },
+    {
+      "slug": "preservacao-dos-biomas",
+      "title": "Desafios para preservar os biomas brasileiros",
+      "axis": "Meio ambiente",
+      "description": "Controle da conversão irregular de vegetação nativa e recuperação de áreas degradadas conforme cada ecossistema.",
+      "why": "A mudança no uso da terra altera habitats e a recuperação exige planejamento, materiais e conhecimento. O tema permite conectar fiscalização e restauração sem reduzir todos os biomas a florestas.",
+      "angles": [
+        "A resposta lenta à abertura irregular de áreas permite a ampliação de perdas e a separação de habitats.",
+        "A falta de assistência técnica e de sementes adequadas dificulta a restauração.",
+        "A recuperação de margens de rios e conexões entre fragmentos precisa respeitar a vegetação própria de cada bioma."
+      ],
+      "repertoire": [
+        {
+          "title": "IBGE — Mudanças no uso da terra",
+          "description": "O levantamento registra conversões de vegetação natural em usos agropecuários. Serve para ligar a perda de habitats a escolhas concretas de ocupação do território brasileiro.",
+          "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/35145-entre-2000-e-2020-a-area-agricola-do-pais-cresceu-230-mil-km-e-a-vegetacao-natural-diminuiu-513-mil-km"
+        },
+        {
+          "title": "MMA — Recuperação da vegetação nativa",
+          "description": "O Planaveg inclui assistência técnica e organização da cadeia de sementes e mudas. A referência sustenta a necessidade de condições práticas para recuperar cada ecossistema.",
+          "url": "https://www.gov.br/mma/pt-br/composicao/sbio/dflo/plano-nacional-de-recuperacao-da-vegetacao-nativa-planaveg"
+        }
+      ],
+      "intervention": "Órgãos ambientais e serviços de extensão rural estaduais podem verificar alertas de supressão e apoiar a restauração com orientação e espécies nativas, acompanhando infrações e regeneração em áreas prioritárias."
+    },
+    {
+      "slug": "patrimonio-cultural",
+      "title": "Desafios para preservar o patrimônio cultural brasileiro",
+      "axis": "Cultura e memória",
+      "description": "Manutenção de bens materiais, transmissão de saberes e participação das comunidades na proteção.",
+      "why": "O reconhecimento do patrimônio envolve tanto edifícios e objetos quanto práticas culturais. O recorte permite discutir por que a proteção exige cuidados regulares e condições para quem mantém esses conhecimentos.",
+      "angles": [
+        "A ausência de manutenção preventiva agrava danos a edifícios e acervos.",
+        "Saberes tradicionais precisam de praticantes e de condições para formar novas gerações.",
+        "Os grupos responsáveis pelos bens devem participar das escolhas sobre sua conservação e transmissão."
+      ],
+      "repertoire": [
+        {
+          "title": "Constituição Federal — Artigo 216",
+          "description": "O artigo reconhece as dimensões material e imaterial do patrimônio cultural e prevê a colaboração da comunidade na proteção. Ajuda a mostrar por que prédios e saberes exigem cuidados próprios.",
+          "url": "https://bd.camara.leg.br/bd/items/6b9e0a78-15e8-4545-8c83-616553549302/full"
+        },
+        {
+          "title": "Iphan — Salvaguarda de saberes",
+          "description": "O Iphan liga a proteção do patrimônio imaterial à transmissão para novas gerações e à participação ativa das comunidades. Use a ideia para defender oficinas conduzidas pelos próprios detentores dos saberes.",
+          "url": "https://bcr.iphan.gov.br/salvaguarda/"
+        }
+      ],
+      "intervention": "Secretarias de Cultura podem financiar vistorias, reparos e oficinas conduzidas por mestres locais, com apoio do Iphan e calendários definidos com as comunidades, para conservar bens e transmitir saberes."
+    },
+    {
+      "slug": "leitura-na-era-das-telas",
+      "title": "Desafios para fortalecer a leitura e a concentração na era das telas no Brasil",
+      "axis": "Educação",
+      "description": "Tempo para leitura, continuidade da atenção e mediação para compreender textos.",
+      "why": "O acesso a textos em telas amplia possibilidades de leitura, mas requer organização do tempo e orientação. O recorte permite discutir o hábito de acompanhar argumentos e narrativas, com base na política brasileira de leitura.",
+      "angles": [
+        "Notificações e alternância entre atividades podem interromper o acompanhamento de um texto.",
+        "O acesso a livros precisa de mediadores que ensinem a formular perguntas e justificar interpretações.",
+        "Escolas e bibliotecas podem aproximar o estudante de textos mais longos com leitura acompanhada."
+      ],
+      "repertoire": [
+        {
+          "title": "Educação para a cidadania",
+          "description": "A Constituição relaciona a educação ao exercício da cidadania. Use esse objetivo para explicar por que compreender argumentos faz parte da formação escolar.",
+          "url": "https://www.tse.jus.br/legislacao/codigo-eleitoral/constituicao-federal/constituicao-da-republica-federativa-do-brasil"
+        },
+        {
+          "title": "Mediadores de leitura",
+          "description": "A Política Nacional de Leitura e Escrita prevê formação de professores e bibliotecários. A referência ajuda a defender orientação contínua, além da oferta de livros.",
+          "url": "https://www.gov.br/cultura/pt-br/assuntos/sistema-nacional-de-bibliotecas-publicas-snbp/noticias-1/politica-nacional-de-leitura-e-escrita-pnle"
+        }
+      ],
+      "intervention": "Secretarias de Educação e bibliotecas públicas podem formar mediadores e criar encontros semanais de leitura, em que os alunos justifiquem interpretações com o texto, além de orientar famílias a reservar períodos sem notificações."
+    },
+    {
+      "slug": "enfrentamento-da-violencia-contra-a-mulher",
+      "title": "Caminhos para enfrentar a violência contra a mulher no Brasil",
+      "axis": "Direitos e inclusão",
+      "description": "Barreiras à busca por ajuda e integração da rede de atendimento e proteção.",
+      "why": "A legislação prevê formas de proteção que dependem da atuação articulada de diferentes serviços. O recorte permite discutir o caminho entre reconhecer a violência, procurar apoio e receber atendimento contínuo.",
+      "angles": [
+        "Ameaças e controle dos recursos econômicos podem dificultar a busca por ajuda.",
+        "Deslocamentos entre serviços e repetição dos relatos podem aumentar o desgaste durante o atendimento.",
+        "Encaminhamento acompanhado e contato seguro ajudam a organizar a continuidade da proteção."
+      ],
+      "repertoire": [
+        {
+          "title": "Lei Maria da Penha",
+          "description": "A lei reconhece formas psicológicas e patrimoniais de violência e prevê proteção e assistência. Use-a para explicar barreiras e responsabilidades institucionais.",
+          "url": "https://www2.camara.leg.br/legin/fed/lei/2006/lei-11340-7-agosto-2006-545133-normaatualizada-pl.html"
+        },
+        {
+          "title": "Casa da Mulher Brasileira",
+          "description": "O programa reúne serviços especializados no mesmo espaço. É um exemplo para defender acolhimento, acesso à Justiça e apoio psicossocial articulados.",
+          "url": "https://www.gov.br/mulheres/pt-br/acesso-a-informacao/acoes-e-programas/casa-da-mulher-brasileira"
+        }
+      ],
+      "intervention": "Governos estaduais e prefeituras podem articular equipes de proteção, assistência social e orientação jurídica, com escuta sem julgamento, avaliação de risco e confirmação sigilosa dos encaminhamentos por contato seguro combinado com cada mulher."
+    },
+    {
+      "slug": "prevencao-do-uso-de-vapes",
+      "title": "Desafios para prevenir o uso de cigarros eletrônicos entre jovens no Brasil",
+      "axis": "Saúde e bem-estar",
+      "description": "Promoção dos produtos, fiscalização da oferta e orientação com acolhimento aos jovens.",
+      "why": "A regulamentação da Anvisa proíbe a venda e a propaganda desses produtos. O tema permite discutir por que a prevenção também envolve educação em saúde e acesso ao cuidado para quem já utiliza o dispositivo.",
+      "angles": [
+        "Cores, sabores e divulgação nas redes podem apresentar o produto como inofensivo ou associado ao pertencimento.",
+        "Fiscalizar vendedores e anúncios ajuda a enfrentar a oferta irregular.",
+        "A orientação precisa explicar riscos e indicar atendimento, sem expor nem repreender estudantes."
+      ],
+      "repertoire": [
+        {
+          "title": "Anvisa · RDC 855/2024",
+          "description": "A regra mantém a proibição de fabricação, importação, venda e propaganda de cigarros eletrônicos. Use-a para cobrar fiscalização da oferta sem afirmar que todo uso individual é proibido.",
+          "url": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2024/anvisa-atualiza-regulacao-de-cigarro-eletronico-e-mantem-proibicao"
+        },
+        {
+          "title": "INCA · Riscos e dependência",
+          "description": "O INCA informa que a maioria dos dispositivos contém nicotina, que causa dependência. A referência sustenta a necessidade de orientar e acolher quem já usa.",
+          "url": "https://www.gov.br/inca/pt-br/assuntos/causas-e-prevencao-do-cancer/tabagismo/dispositivos-eletronicos-para-fumar"
+        }
+      ],
+      "intervention": "Anvisa e vigilâncias sanitárias podem apurar anúncios e pontos de venda, enquanto secretarias de Saúde e Educação realizam oficinas sobre publicidade e riscos e informam como buscar avaliação nas unidades de saúde."
     }
   ],
   "sources": [
@@ -545,6 +745,22 @@
     {
       "title": "Inep · Cronograma de aplicação do Enem 2026",
       "url": "https://www.gov.br/inep/pt-br/acesso-a-informacao/perguntas-frequentes/exame-nacional-do-ensino-medio-enem"
+    },
+    {
+      "title": "A TARDE · Apostas de Cristiane Tosta para 2026, 3/11/2026",
+      "url": "https://atarde.com.br/educacao/enem/enem-2026-professoras-revelam-apostas-para-tema-da-redacao-1408153?_=amp"
+    },
+    {
+      "title": "MeioNews · Apostas de Ana Letícia Lima para 2026, 3/11/2026",
+      "url": "https://www.meionews.com/meioeduca/professora-que-acertou-tema-da-redacao-do-enem-2025-da-dicas-para-prova-de-domingo-580023"
+    },
+    {
+      "title": "OitoMeia · Apostas de Rógi Almeida para 2026, 6/11/2026",
+      "url": "https://www.oitomeia.com.br/noticias/2026/11/06/professor-que-acertou-tema-da-redacao-do-enem-2025-fala-de-possiveis-temas-desse-ano/"
+    },
+    {
+      "title": "Bahia Notícias · Apostas de Rogério Bartilotti para 2026, 21/10/2026",
+      "url": "https://www.bahianoticias.com.br/noticia/322712-professor-que-acertou-tema-da-redacao-do-enem-2025-aponta-possiveis-assuntos-para-a-prova-deste-ano"
     }
   ]
 }
