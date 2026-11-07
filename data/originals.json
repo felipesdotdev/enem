@@ -3290,7 +3290,7 @@
     "topic": "Desafios para proteger a saúde mental dos trabalhadores no Brasil",
     "category": "Trabalho e economia",
     "themeId": "saude-mental-no-trabalho",
-    "description": "Como a sobrecarga e o medo de pedir ajuda dificultam a proteção da saúde mental nas empresas.",
+    "description": "A sobrecarga e o medo de pedir ajuda explicam por que proteger a saúde mental exige reorganizar o trabalho e preparar as chefias para acolher.",
     "tags": [
       "Sobrecarga",
       "Acolhimento",
@@ -3302,15 +3302,15 @@
         "parts": [
           {
             "label": "Assunto",
-            "text": "Em Tempos Modernos, de Charles Chaplin, o ritmo da fábrica leva um operário ao esgotamento."
+            "text": "Em Tempos Modernos, Charles Chaplin mostra um operário adoecido pelo ritmo de produção de uma fábrica."
           },
           {
             "label": "Tema",
-            "text": "Embora retrate outra época, o filme ajuda a discutir os desafios para proteger a saúde mental dos trabalhadores no Brasil."
+            "text": "Embora retrate o século passado, a obra permite discutir os desafios para proteger a saúde mental dos trabalhadores no Brasil."
           },
           {
             "label": "Tese",
-            "text": "Nesse contexto, a prevenção depende de enfrentar a sobrecarga e de superar o medo de pedir ajuda dentro das empresas."
+            "text": "Nesse cenário, a sobrecarga profissional e o medo de pedir ajuda dificultam a construção de ambientes de trabalho saudáveis."
           }
         ]
       },
@@ -3319,15 +3319,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Em primeiro lugar, metas incompatíveis com a jornada comprometem o descanso."
+            "text": "Nessa perspectiva, a sobrecarga profissional prejudica a saúde ao subordinar o descanso às exigências de produtividade."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "Quando uma equipe precisa entregar mais do que consegue executar no horário previsto, as tarefas e as preocupações profissionais podem ocupar o tempo livre. A crítica de Chaplin permanece útil: tratar pessoas como peças substituíveis esconde seus limites. Além de cansar, a cobrança sem espaço para negociação reduz o controle sobre a própria rotina e pode intensificar o sofrimento."
+            "text": "Quando as metas ultrapassam o que a equipe consegue realizar durante a jornada, as tarefas invadem o tempo necessário à recuperação física e mental. A crítica de Chaplin à produção que ignora limites humanos ajuda a compreender essa dinâmica: o trabalhador passa a ser tratado como um recurso sempre disponível."
           },
           {
             "label": "Ligação",
-            "text": "Assim, oferecer dicas individuais de relaxamento tem alcance limitado se a organização mantém as mesmas exigências."
+            "text": "Assim, a cobrança contínua pode ampliar o sofrimento e comprometer também as relações familiares, estendendo o desgaste para além da empresa."
           }
         ]
       },
@@ -3336,15 +3336,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além disso, o estigma pode atrasar a procura por atendimento."
+            "text": "Além disso, o medo de pedir ajuda mantém esse sofrimento pouco visível."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "A Organização Mundial da Saúde recomenda preparar gestores para reconhecer o sofrimento e reduzir o preconceito no trabalho. Essa orientação responde a um obstáculo concreto: um empregado que teme ser visto como incapaz pode esconder suas dificuldades, mesmo quando precisa de cuidado. Se o superior responde com humilhação, o silêncio tende a continuar e o atendimento pode ser adiado."
+            "text": "Em ambientes que associam dificuldades emocionais à incompetência, revelar um problema pode parecer uma ameaça ao emprego. A Organização Mundial da Saúde recomenda, por isso, capacitar gestores para acolher o sofrimento e combater o estigma no trabalho. Essa orientação evidencia que a postura das chefias interfere na possibilidade de buscar cuidado."
           },
           {
             "label": "Ligação",
-            "text": "Por isso, acolher de forma reservada é parte da prevenção, junto à mudança das condições que provocam desgaste."
+            "text": "Sem uma escuta respeitosa, o silêncio pode adiar o atendimento e favorecer o agravamento das dificuldades."
           }
         ]
       },
@@ -3353,23 +3353,23 @@
         "parts": [
           {
             "label": "Quem",
-            "text": "Portanto, as empresas, em diálogo com representantes dos trabalhadores,"
+            "text": "Portanto, para enfrentar a sobrecarga e o medo que dificultam a proteção da saúde mental, as empresas, com representantes dos trabalhadores,"
           },
           {
             "label": "O que",
-            "text": "devem revisar metas e organizar caminhos seguros para buscar ajuda."
+            "text": "devem reorganizar a rotina e estabelecer canais seguros de acolhimento."
           },
           {
             "label": "Como",
-            "text": "Para isso, devem avaliar a carga de tarefas com as equipes, capacitar chefias para a escuta e informar como acessar atendimento profissional."
+            "text": "Isso deve ocorrer por meio da revisão das metas conforme a capacidade das equipes e da capacitação das chefias para a escuta e a orientação sobre atendimento profissional,"
           },
           {
             "label": "Para quê",
-            "text": "Essas medidas buscam reduzir a sobrecarga e permitir que o sofrimento seja reconhecido antes de se agravar."
+            "text": "a fim de reduzir o desgaste e facilitar o acesso ao cuidado."
           },
           {
             "label": "Detalhamento",
-            "text": "A avaliação deve ocorrer trimestralmente, com relatos anônimos sobre a rotina e divulgação das mudanças realizadas, sem identificação de quem procurou cuidado."
+            "text": "Os relatos sobre excesso de tarefas devem orientar ajustes na distribuição do trabalho, enquanto os pedidos de ajuda devem receber tratamento reservado, sem exposição dos empregados."
           }
         ]
       }
@@ -3377,45 +3377,45 @@
     "connectors": [
       {
         "term": "Embora",
-        "use": "Reconhece a distância histórica do filme e mostra por que sua crítica ainda ajuda a discutir o trabalho."
+        "use": "Reconhece a distância histórica do filme e mantém sua crítica como ponto de partida para discutir o trabalho atual."
       },
       {
-        "term": "Em primeiro lugar",
-        "use": "Abre o argumento sobre o efeito das metas e da carga de tarefas."
+        "term": "Nessa perspectiva",
+        "use": "Retoma a tese e abre a explicação de como a sobrecarga prejudica o descanso e a saúde."
       },
       {
         "term": "Assim",
-        "use": "Conclui que cuidar do trabalhador também exige mudar a organização da rotina."
+        "use": "Apresenta a consequência da cobrança contínua: o desgaste pode alcançar também a vida familiar."
       },
       {
         "term": "Além disso",
-        "use": "Acrescenta o medo de pedir ajuda como segundo obstáculo à proteção da saúde mental."
+        "use": "Acrescenta o medo de pedir ajuda como segunda causa que dificulta a proteção da saúde mental."
       },
       {
         "term": "Portanto",
-        "use": "Conduz à proposta que reúne revisão de metas e acolhimento reservado."
+        "use": "Conduz dos dois problemas analisados às ações de reorganização do trabalho e acolhimento."
       }
     ],
     "repertoire": [
       {
         "title": "Charles Chaplin — Tempos Modernos",
-        "description": "O filme mostra um operário levado ao esgotamento pelo ritmo da fábrica. A referência sustenta a crítica a metas que ignoram os limites humanos.",
-        "url": "https://www.charliechaplin.com/en/films/6-Modern-Times"
+        "description": "A sinopse oficial apresenta um operário levado ao adoecimento pelo ritmo da fábrica. A crítica ao desrespeito aos limites humanos fundamenta o argumento sobre metas que invadem o tempo de descanso.",
+        "url": "https://www.charliechaplin.com/en/films/6-modern-times"
       },
       {
         "title": "OMS — Saúde mental no trabalho",
-        "description": "A OMS recomenda enfrentar riscos da organização do trabalho e formar gestores para acolher o sofrimento. A orientação liga prevenção, escuta e redução do estigma.",
+        "description": "A OMS recomenda intervir nas condições de trabalho, formar gestores para reconhecer e acolher o sofrimento e reduzir o estigma. A referência sustenta a ligação entre a postura das chefias e a possibilidade de buscar cuidado.",
         "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"
       }
     ],
     "studyNotes": [
       {
-        "title": "Lembre da fábrica de Chaplin",
-        "description": "Associe a esteira de Tempos Modernos à cobrança que ignora limites. Explique o caminho: meta excessiva ocupa o descanso e amplia o desgaste; citar apenas o nome do filme não demonstra essa relação."
+        "title": "Da meta ao desgaste fora da empresa",
+        "description": "O primeiro argumento explica uma sequência: metas superiores à capacidade da equipe ocupam o descanso, dificultam a recuperação e podem afetar a vida familiar. A fábrica de Chaplin dá sentido à crítica de tratar uma pessoa como recurso sempre disponível."
       },
       {
-        "title": "Guarde dois verbos: reorganizar e acolher",
-        "description": "Reorganizar responde à sobrecarga; acolher responde ao medo de pedir ajuda. Use esses dois verbos para conferir se a intervenção enfrenta os dois argumentos da tese."
+        "title": "Explique a causa do silêncio",
+        "description": "O receio de parecer incompetente pode levar o empregado a esconder dificuldades e adiar o atendimento. A orientação da OMS fundamenta a formação das chefias para uma escuta respeitosa; a intervenção combina esse acolhimento com a revisão das metas que produzem desgaste."
       }
     ]
   },
@@ -3425,7 +3425,7 @@
     "topic": "Desafios para a inclusão de estudantes neurodivergentes nas escolas brasileiras",
     "category": "Direitos e inclusão",
     "themeId": "neurodivergencia-na-educacao-e-no-trabalho",
-    "description": "Recorte na educação básica: adaptar práticas de ensino e enfrentar o preconceito para ampliar a participação de estudantes neurodivergentes.",
+    "description": "A inflexibilidade do ensino e o preconceito dificultam a aprendizagem e o pertencimento; formação docente e resposta às ofensas enfrentam essas duas barreiras.",
     "tags": [
       "Educação básica",
       "Formação docente",
@@ -3437,15 +3437,15 @@
         "parts": [
           {
             "label": "Assunto",
-            "text": "A escola influencia o aprendizado e a participação dos estudantes na vida em sociedade."
+            "text": "A Constituição de 1988 estabelece igualdade de condições para o acesso e a permanência na escola."
           },
           {
             "label": "Tema",
-            "text": "No Brasil, a inclusão escolar de estudantes neurodivergentes, como autistas e pessoas com transtorno do déficit de atenção com hiperatividade (TDAH), ainda enfrenta barreiras."
+            "text": "No Brasil, porém, esse princípio ainda encontra obstáculos na inclusão de estudantes neurodivergentes, como autistas e pessoas com transtorno do déficit de atenção com hiperatividade (TDAH)."
           },
           {
             "label": "Tese",
-            "text": "Apesar de apresentarem necessidades diferentes, esses alunos podem encontrar dois obstáculos comuns: práticas pedagógicas inflexíveis e uma convivência marcada pelo preconceito."
+            "text": "Embora suas necessidades sejam diversas, práticas pedagógicas inflexíveis e o preconceito escolar dificultam o aprendizado e o pertencimento desses alunos."
           }
         ]
       },
@@ -3454,15 +3454,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Em primeiro lugar, atividades organizadas de uma única maneira podem impedir que o aluno demonstre o que sabe."
+            "text": "Nessa perspectiva, práticas pedagógicas inflexíveis criam barreiras ao aprendizado."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "A legislação brasileira prevê acompanhamento educacional para estudantes com TDAH, entre outros grupos, e formação dos professores. Essa orientação faz sentido porque instruções longas, transmitidas apenas oralmente, podem dificultar a organização de alguns estudantes. Dividir uma tarefa em etapas escritas permite acompanhar o conteúdo sem reduzir sua complexidade."
+            "text": "Ao exigir que todos acompanhem o mesmo ritmo e recebam instruções da mesma forma, a escola pode transformar diferenças de atenção em obstáculos ao estudo. A legislação brasileira prevê, para estudantes com TDAH, acompanhamento educacional e formação docente. Essa orientação reconhece que o ensino precisa responder às dificuldades individuais."
           },
           {
             "label": "Ligação",
-            "text": "Assim, quando falta preparo docente para reconhecer necessidades individuais, uma barreira do ensino acaba confundida com incapacidade do aluno."
+            "text": "Sua aplicação permite variar as formas de ensinar sem reduzir a complexidade do conteúdo; sua ausência pode fazer uma barreira pedagógica parecer incapacidade do aluno."
           }
         ]
       },
@@ -3471,15 +3471,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além disso, o preconceito enfraquece o pertencimento à comunidade escolar."
+            "text": "Além disso, o preconceito escolar enfraquece a participação desses estudantes."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "A Constituição determina igualdade de condições para acesso e permanência na escola. Entretanto, quando diferenças de comunicação ou de atenção viram motivo de humilhação, estar matriculado não assegura participar. Um estudante autista que precisa de um espaço menos ruidoso, por exemplo, pode evitar atividades coletivas se teme comentários dos colegas."
+            "text": "Quando colegas ridicularizam diferenças de comunicação ou de atenção e a escola se omite, o aluno pode evitar atividades coletivas para se proteger. Nesse caso, a igualdade de permanência prevista na Constituição não se realiza plenamente, pois a matrícula convive com barreiras à participação. A omissão diante das ofensas reforça a ideia de que algumas formas de aprender merecem menos respeito."
           },
           {
             "label": "Ligação",
-            "text": "Desse modo, a tolerância às ofensas transforma uma necessidade de apoio em isolamento e prejudica a aprendizagem."
+            "text": "Desse modo, o isolamento compromete tanto os vínculos com a turma quanto as oportunidades de aprendizagem."
           }
         ]
       },
@@ -3488,69 +3488,69 @@
         "parts": [
           {
             "label": "Quem",
-            "text": "Portanto, as secretarias estaduais e municipais de Educação"
+            "text": "Portanto, para superar a inflexibilidade pedagógica e o preconceito, as secretarias estaduais e municipais de Educação"
           },
           {
             "label": "O que",
-            "text": "devem preparar as escolas para adaptar o ensino e enfrentar a discriminação."
+            "text": "devem preparar as escolas para oferecer ensino acessível e convivência respeitosa."
           },
           {
             "label": "Como",
-            "text": "Para isso, devem oferecer formação prática aos docentes e orientar as equipes escolares a combinar atividades acessíveis com protocolos de acolhimento de denúncias, interrupção das ofensas e acompanhamento das turmas."
+            "text": "Para isso, devem financiar formação docente sobre diferentes estratégias de ensino e orientar protocolos de acolhimento de denúncias e interrupção de ofensas,"
           },
           {
             "label": "Para quê",
-            "text": "Essas ações buscam garantir aprendizagem e participação na comunidade escolar."
+            "text": "com o objetivo de assegurar aprendizagem e participação."
           },
           {
             "label": "Detalhamento",
-            "text": "A cada bimestre, a coordenação deve ouvir estudantes e famílias, registrar os apoios necessários e rever as medidas, sem expor diagnósticos à turma."
+            "text": "Como acompanhamento, as coordenações escolares devem ouvir estudantes e famílias para rever os apoios oferecidos, preservando a privacidade e mantendo os objetivos curriculares, sem atribuir aos professores a realização de diagnósticos."
           }
         ]
       }
     ],
     "connectors": [
       {
-        "term": "Em primeiro lugar",
-        "use": "Apresenta o primeiro obstáculo: atividades inflexíveis que dificultam demonstrar o aprendizado."
+        "term": "porém",
+        "use": "Contrasta a igualdade prevista na Constituição com os obstáculos à inclusão escolar no Brasil."
       },
       {
-        "term": "Assim",
-        "use": "Explica a consequência da falta de preparo: confundir uma barreira do ensino com incapacidade."
+        "term": "Nessa perspectiva",
+        "use": "Retoma a tese e inicia a análise das práticas de ensino que criam barreiras ao aprendizado."
       },
       {
         "term": "Além disso",
-        "use": "Adiciona o preconceito ao problema das práticas pedagógicas."
+        "use": "Acrescenta o preconceito à análise da inflexibilidade pedagógica, desenvolvendo a segunda causa da tese."
       },
       {
-        "term": "Entretanto",
-        "use": "Contrasta o direito de permanecer na escola com a dificuldade de participar em um ambiente hostil."
+        "term": "Desse modo",
+        "use": "Expõe o efeito da omissão diante de humilhações: isolamento e perda de oportunidades de aprender."
       },
       {
         "term": "Portanto",
-        "use": "Abre a intervenção que combina formação de professores e resposta à discriminação."
+        "use": "Encaminha a conclusão para ações de formação docente e enfrentamento das ofensas."
       }
     ],
     "repertoire": [
       {
         "title": "Lei 14.254/2021 — Apoio a estudantes com TDAH",
-        "description": "A lei prevê acompanhamento de educandos com dislexia, TDAH ou outros transtornos de aprendizagem e formação docente. Seu uso aqui é específico para o TDAH, sem estender automaticamente esse enquadramento jurídico a toda neurodivergência.",
+        "description": "A lei prevê acompanhamento educacional e formação docente para o atendimento de educandos com dislexia, TDAH ou outros transtornos de aprendizagem. No texto, a referência é aplicada especificamente ao TDAH, sem atribuir aos professores a função de diagnosticar.",
         "url": "https://www2.camara.leg.br/legin/fed/lei/2021/lei-14254-30-novembro-2021-792022-publicacaooriginal-164005-pl.html"
       },
       {
         "title": "Constituição — Acesso e permanência na escola",
-        "description": "O artigo 206 estabelece igualdade de condições de acesso e permanência. A referência ajuda a mostrar por que matrícula sem participação e acolhimento deixa o direito incompleto.",
+        "description": "O artigo 206 estabelece igualdade de condições de acesso e permanência. O texto aplica esse princípio à convivência: a matrícula pode coexistir com humilhações que afastam o aluno das atividades e prejudicam sua participação.",
         "url": "https://www.tse.jus.br/legislacao/codigo-eleitoral/constituicao-federal/constituicao-da-republica-federativa-do-brasil"
       }
     ],
     "studyNotes": [
       {
-        "title": "Uma tarefa, diferentes caminhos",
-        "description": "Memorize o exemplo das etapas escritas: a escola muda a forma de orientar, preservando o conteúdo. As necessidades variam entre pessoas e diagnósticos; a adaptação deve partir da escuta do estudante."
+        "title": "A barreira também pode estar no método",
+        "description": "O desenvolvimento mostra como uma única forma de orientar a turma pode esconder o aprendizado de alguns estudantes. A legislação de apoio ao TDAH fundamenta o preparo docente para variar estratégias, preservando o conteúdo e respeitando necessidades individuais; esse enquadramento não torna toda neurodivergência uma deficiência."
       },
       {
-        "title": "Entrar, permanecer e participar",
-        "description": "Use essa sequência para lembrar o argumento constitucional. A matrícula abre a porta, mas enfrentar humilhações e oferecer apoio permite aprender e preparar-se para oportunidades futuras."
+        "title": "Explique o caminho entre ofensa e exclusão",
+        "description": "O segundo argumento liga a omissão da escola ao afastamento das atividades coletivas e à perda de vínculos e oportunidades de aprender. A Constituição funciona como critério de avaliação dessa realidade: o direito de permanecer requer condições efetivas de participação."
       }
     ]
   },
@@ -3560,7 +3560,7 @@
     "topic": "Desafios para a inclusão de pessoas neurodivergentes no mercado de trabalho brasileiro",
     "category": "Direitos e inclusão",
     "themeId": "neurodivergencia-na-educacao-e-no-trabalho",
-    "description": "Recorte no trabalho: avaliar competências nas seleções e construir condições de permanência conforme as necessidades de cada pessoa.",
+    "description": "Critérios de contratação sem relação com as tarefas e rotinas sem apoios individuais limitam a inclusão; avaliar competências e ouvir cada trabalhador favorece ingresso e permanência.",
     "tags": [
       "Processo seletivo",
       "Apoios individuais",
@@ -3572,15 +3572,15 @@
         "parts": [
           {
             "label": "Assunto",
-            "text": "Uma contratação só produz inclusão quando permite ingressar e permanecer no emprego."
+            "text": "A Constituição de 1988 reconhece a dignidade humana e o valor social do trabalho."
           },
           {
             "label": "Tema",
-            "text": "No Brasil, esse desafio alcança pessoas neurodivergentes, como autistas e pessoas com transtorno do déficit de atenção com hiperatividade (TDAH), cujas necessidades variam."
+            "text": "No Brasil, entretanto, esses princípios ainda encontram obstáculos na inclusão de pessoas neurodivergentes no mercado profissional."
           },
           {
             "label": "Tese",
-            "text": "Para ampliar essa participação, é preciso enfrentar seleções que confundem capacidade com desenvoltura social e rotinas que desconsideram apoios individuais."
+            "text": "Embora as necessidades variem entre indivíduos, critérios inadequados de contratação e a falta de apoios na rotina podem impedir tanto o ingresso quanto a permanência desse grupo no emprego."
           }
         ]
       },
@@ -3589,15 +3589,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Em primeiro lugar, os critérios de contratação podem esconder competências."
+            "text": "Em primeiro lugar, critérios inadequados de contratação podem confundir desenvoltura social com competência profissional."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "Em seu livro Thinking in Pictures, a cientista autista Temple Grandin relata como seu raciocínio visual contribui para projetar equipamentos. Seu relato mostra uma competência concreta que uma conversa informal pode não revelar. Quando a seleção valoriza a rapidez das respostas ou a facilidade de conversar acima das tarefas da vaga, pode eliminar candidatos preparados."
+            "text": "Quando a entrevista valoriza respostas rápidas e facilidade de conversar acima das habilidades exigidas pela vaga, candidatos preparados podem ser descartados por diferenças de comunicação. Essa exclusão contraria a igualdade defendida pela Constituição, pois transforma uma característica pessoal em desvantagem sem relação necessária com a função."
           },
           {
             "label": "Ligação",
-            "text": "Assim, provas práticas e instruções claras tornam a avaliação mais próxima do trabalho que será realizado, sem presumir habilidades pelo diagnóstico."
+            "text": "Ao desconsiderar outras formas de demonstrar capacidade, a seleção restringe oportunidades de renda e autonomia e mantém talentos afastados da vida profissional."
           }
         ]
       },
@@ -3606,15 +3606,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além disso, contratar sem ajustar a rotina limita a permanência."
+            "text": "Além disso, a falta de apoios na rotina enfraquece a permanência."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "A Constituição reconhece a dignidade humana e o valor social do trabalho. Esses princípios perdem força quando manter o emprego exige suportar barreiras evitáveis. Para um trabalhador sensível a ruídos, por exemplo, uma mesa próxima a máquinas pode dificultar a concentração. Já instruções por etapas podem ajudar quem enfrenta dificuldades de organização. Ouvir cada pessoa permite identificar qual apoio é necessário."
+            "text": "Instruções pouco claras ou ambientes excessivamente ruidosos podem impor dificuldades a alguns trabalhadores, mesmo quando dominam suas tarefas. Em Tempos Modernos, Chaplin retrata o sofrimento provocado por uma organização que exige a adaptação humana ao ritmo das máquinas. A crítica ajuda a questionar rotinas indiferentes às necessidades individuais: sem escuta, uma barreira do ambiente pode ser atribuída ao empregado como falha pessoal."
           },
           {
             "label": "Ligação",
-            "text": "Sem esse diálogo, a empresa pode interpretar obstáculos do ambiente como baixo desempenho e perder profissionais qualificados."
+            "text": "Assim, a contratação perde alcance quando não oferece condições para exercer as próprias competências."
           }
         ]
       },
@@ -3623,69 +3623,69 @@
         "parts": [
           {
             "label": "Quem",
-            "text": "Portanto, as empresas brasileiras, por seus setores de recursos humanos e gestores,"
+            "text": "Portanto, para ampliar a inclusão de pessoas neurodivergentes, as empresas, por seus setores de recursos humanos e gestores,"
           },
           {
             "label": "O que",
-            "text": "devem revisar as seleções e pactuar apoios para a permanência."
+            "text": "devem rever as seleções e organizar apoios à permanência."
           },
           {
             "label": "Como",
-            "text": "Para isso, devem avaliar tarefas reais da vaga e capacitar chefias para combinar, com cada trabalhador, ajustes no ambiente e nas instruções."
+            "text": "Isso deve ocorrer por meio de avaliações práticas relacionadas às tarefas da vaga e de reuniões reservadas para combinar ajustes no ambiente e nas instruções,"
           },
           {
             "label": "Para quê",
-            "text": "A medida busca ampliar o acesso ao emprego e a permanência com autonomia."
+            "text": "a fim de garantir oportunidades de ingresso e condições de atuação com autonomia."
           },
           {
             "label": "Detalhamento",
-            "text": "Após a contratação, reuniões reservadas a cada trimestre devem verificar se os apoios funcionam, com registro dos ajustes acordados e preservação das informações pessoais."
+            "text": "Os ajustes devem ser definidos com cada trabalhador e revistos conforme suas dificuldades, sem presumir necessidades ou habilidades a partir do diagnóstico."
           }
         ]
       }
     ],
     "connectors": [
       {
-        "term": "Em primeiro lugar",
-        "use": "Abre a discussão sobre critérios de contratação que podem deixar competências invisíveis."
+        "term": "entretanto",
+        "use": "Opõe os princípios constitucionais às barreiras de inclusão profissional discutidas no texto."
       },
       {
-        "term": "Assim",
-        "use": "Deduz dos limites da entrevista a necessidade de avaliar tarefas relacionadas à vaga."
+        "term": "Em primeiro lugar",
+        "use": "Abre a análise dos critérios de contratação que confundem comunicação e competência."
       },
       {
         "term": "Além disso",
-        "use": "Acrescenta as condições de permanência ao problema do acesso ao emprego."
+        "use": "Amplia o argumento do acesso ao emprego para as condições de permanência na rotina."
       },
       {
-        "term": "por exemplo",
-        "use": "Mostra uma barreira concreta do ambiente sem atribuí-la a todas as pessoas neurodivergentes."
+        "term": "Assim",
+        "use": "Conclui que a contratação tem alcance limitado quando faltam condições de exercer as competências."
       },
       {
         "term": "Portanto",
-        "use": "Encaminha a conclusão para medidas de seleção e de acompanhamento após a contratação."
+        "use": "Introduz medidas de seleção e de apoio que respondem às duas causas apresentadas na tese."
       }
     ],
     "repertoire": [
       {
-        "title": "Temple Grandin — Thinking in Pictures",
-        "description": "No relato publicado em seu site, Grandin explica como o pensamento visual contribui para seu trabalho com projetos de equipamentos. É um exemplo individual de competência, que não deve ser generalizado para todas as pessoas autistas.",
-        "url": "https://www.grandin.com/inc/visual.thinking.html"
+        "title": "Constituição — Dignidade, igualdade e trabalho",
+        "description": "Os artigos 1º e 5º reconhecem a dignidade humana, os valores sociais do trabalho e a igualdade. Esses princípios fundamentam a crítica a critérios que eliminam candidatos por características sem relação necessária com a função.",
+        "url": "https://www.tse.jus.br/legislacao/codigo-eleitoral/constituicao-federal/constituicao-da-republica-federativa-do-brasil"
       },
       {
-        "title": "Constituição — Dignidade e valor social do trabalho",
-        "description": "O artigo 1º reconhece a dignidade da pessoa humana e os valores sociais do trabalho. A referência fundamenta a defesa de condições que permitam atuar e permanecer no emprego.",
-        "url": "https://www4.planalto.gov.br/legislacao/legis-federal/constituicao"
+        "title": "Charles Chaplin — Tempos Modernos",
+        "description": "A obra retrata o sofrimento de um operário diante do ritmo imposto pela fábrica. A comparação questiona organizações indiferentes aos limites e às necessidades humanas, sem atribuir neurodivergência ao personagem.",
+        "url": "https://www.charliechaplin.com/en/films/6-modern-times"
       }
     ],
     "studyNotes": [
       {
-        "title": "Grandin: mostre a competência",
-        "description": "Lembre da autora que usa imagens para projetar equipamentos. A aplicação é avaliar o que o candidato consegue fazer; o exemplo não significa que toda pessoa autista tenha pensamento visual ou talento extraordinário."
+        "title": "O critério precisa ter relação com a vaga",
+        "description": "O primeiro argumento questiona entrevistas que privilegiam desenvoltura social quando isso não corresponde às tarefas exigidas. A Constituição sustenta a defesa de igualdade; as avaliações práticas permitem verificar competências sem pressupor talentos ou dificuldades pelo diagnóstico."
       },
       {
-        "title": "Duas portas: seleção e permanência",
-        "description": "A primeira porta depende de critérios ligados à vaga; a segunda, de apoios combinados com a pessoa. Ao concluir, proponha uma ação para cada momento e indique como verificar se o apoio funciona."
+        "title": "Use a fábrica como comparação",
+        "description": "Chaplin ajuda a discutir uma organização que exige adaptação humana sem considerar limites. A aplicação ao tema está na rotina: barreiras evitáveis podem parecer falhas pessoais quando a empresa não escuta o trabalhador. O texto não diagnostica o personagem nem generaliza necessidades entre pessoas neurodivergentes."
       }
     ]
   },
@@ -3707,15 +3707,15 @@
         "parts": [
           {
             "label": "Assunto",
-            "text": "Em Quarto de despejo, Carolina Maria de Jesus registra sua experiência como mulher negra na favela e torna visível uma realidade frequentemente ignorada."
+            "text": "Em Quarto de despejo, Carolina Maria de Jesus registra sua experiência como mulher negra na favela e revela condições de vida frequentemente ignoradas."
           },
           {
             "label": "Tema",
-            "text": "No Brasil, enfrentar o racismo ambiental exige observar como a raça se relaciona à distribuição de riscos e serviços."
+            "text": "A obra ajuda a compreender o racismo ambiental no Brasil, pois a precariedade da moradia atinge de maneira desigual os grupos raciais."
           },
           {
             "label": "Tese",
-            "text": "Nesse sentido, é necessário corrigir a desigualdade no saneamento e incluir os moradores nas decisões sobre seus territórios."
+            "text": "Nesse cenário, a distribuição desigual do saneamento e a exclusão das comunidades negras das decisões públicas dificultam o enfrentamento do problema."
           }
         ]
       },
@@ -3724,15 +3724,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Primeiramente, a distribuição desigual de serviços mantém determinados grupos mais expostos à poluição."
+            "text": "Nessa perspectiva, a desigualdade no saneamento prolonga a exposição da população negra à contaminação."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "Segundo o Censo 2022 do IBGE, pessoas pretas e pardas têm menor acesso ao esgotamento adequado do que pessoas brancas. Quando o esgoto corre a céu aberto, por exemplo, o contato com água contaminada ameaça a saúde das famílias. Se os investimentos repetidamente deixam esses bairros para depois, a desigualdade racial de proteção se prolonga."
+            "text": "Isso ocorre porque, quando a oferta de serviços não alcança os territórios desassistidos, o esgoto permanece próximo das casas, ameaçando a saúde dos moradores. Segundo o Censo 2022 do IBGE, pessoas pretas e pardas têm menor acesso ao esgotamento adequado que pessoas brancas."
           },
           {
             "label": "Ligação",
-            "text": "Assim, adiar o saneamento nos bairros desassistidos mantém uma diferença de proteção que também acompanha a cor da população."
+            "text": "Dessa forma, prioridades de investimento que ignoram essa diferença mantêm a cor da população associada ao acesso à proteção ambiental."
           }
         ]
       },
@@ -3741,15 +3741,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além disso, excluir comunidades negras das decisões favorece soluções que desconsideram suas necessidades."
+            "text": "Além disso, a exclusão das comunidades negras do planejamento dificulta a identificação das necessidades locais."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O diário de Carolina mostra a importância de uma pessoa negra narrar a própria experiência. Ao planejar o saneamento, ouvir apenas técnicos pode deixar lacunas no projeto. Uma obra pode, por exemplo, excluir uma rua que os moradores conhecem como ponto de acúmulo de esgoto."
+            "text": "Ao registrar o cotidiano da favela, Carolina evidencia a importância de a própria moradora narrar condições pouco visíveis fora daquele espaço. Da mesma forma, quem convive com o esgoto conhece os pontos em que ele se acumula e pode indicar falhas que um levantamento distante não revela. Sem essa escuta, parte das demandas sequer entra na disputa pelos recursos municipais."
           },
           {
             "label": "Ligação",
-            "text": "Consequentemente, a ausência de participação pode manter o risco justamente onde ele é menos reconhecido pelo poder público."
+            "text": "Assim, desconsiderar essa experiência favorece obras incompletas e mantém justamente os riscos que deveriam ser reduzidos."
           }
         ]
       },
@@ -3758,69 +3758,69 @@
         "parts": [
           {
             "label": "Quem",
-            "text": "Portanto, as prefeituras, com suas equipes de saneamento e igualdade racial,"
+            "text": "Portanto, as prefeituras, por meio das equipes de saneamento e igualdade racial,"
           },
           {
             "label": "O que",
-            "text": "devem rever as prioridades de investimento e garantir a participação das comunidades afetadas."
+            "text": "devem priorizar os territórios desassistidos e incluir as comunidades negras no planejamento das obras."
           },
           {
             "label": "Como",
-            "text": "Para isso, precisam cruzar dados de raça e cobertura de serviços e realizar reuniões nos bairros antes de definir as obras."
+            "text": "Isso deve ocorrer pelo cruzamento de dados sobre raça e cobertura dos serviços e por reuniões nos bairros afetados,"
           },
           {
             "label": "Para quê",
-            "text": "A medida busca reduzir a exposição desigual à contaminação e adequar as soluções ao território."
+            "text": "a fim de diminuir a exposição desigual à contaminação."
           },
           {
             "label": "Detalhamento",
-            "text": "Um painel público deve informar prazos, responsáveis e justificativas das escolhas, permitindo aos moradores acompanhar a execução."
+            "text": "Nesses encontros, os moradores devem apontar áreas críticas e avaliar se os projetos atendem às necessidades apresentadas, para que sua participação influencie a aplicação dos recursos."
           }
         ]
       }
     ],
     "connectors": [
       {
-        "term": "Nesse sentido",
-        "use": "Liga o conceito de racismo ambiental aos dois caminhos anunciados na tese."
+        "term": "Nessa perspectiva",
+        "use": "Retoma a tese para analisar a desigualdade racial no acesso ao saneamento."
       },
       {
-        "term": "Primeiramente",
-        "use": "Abre o argumento sobre a distribuição desigual do saneamento."
-      },
-      {
-        "term": "por exemplo",
-        "use": "Concretiza o risco sanitário com o esgoto a céu aberto."
+        "term": "Isso ocorre porque",
+        "use": "Explica como a falta de serviços mantém os moradores próximos do esgoto."
       },
       {
         "term": "Além disso",
-        "use": "Acrescenta a exclusão dos moradores como outro mecanismo de permanência do problema."
+        "use": "Acrescenta a exclusão das comunidades negras das decisões como segunda causa do problema."
+      },
+      {
+        "term": "Da mesma forma",
+        "use": "Relaciona a voz da moradora no diário de Carolina ao conhecimento dos moradores sobre os riscos do bairro."
       },
       {
         "term": "Portanto",
-        "use": "Conduz os dois argumentos à revisão dos investimentos com participação da comunidade."
+        "use": "Conduz as duas causas à priorização dos investimentos e à participação das comunidades."
       }
     ],
     "repertoire": [
       {
         "title": "Carolina Maria de Jesus — Quarto de despejo",
-        "description": "O diário apresenta a experiência de uma mulher negra na favela. A obra dá voz à moradora e ajuda a defender a participação das comunidades nas decisões sobre seus bairros.",
+        "description": "O diário torna visível a experiência de uma mulher negra na favela. A voz da própria moradora sustenta a defesa de ouvir as comunidades sobre os riscos que enfrentam em seus bairros.",
         "url": "https://carolinamariadejesus.ims.com.br/quarto-de-despejo/"
       },
       {
         "title": "IBGE — Saneamento e desigualdade racial",
-        "description": "O Censo 2022 mostra menor acesso ao esgotamento adequado entre pessoas pretas e pardas do que entre brancas. A comparação ajuda a explicar a distribuição desigual da proteção ambiental.",
+        "description": "O Censo 2022 identifica menor acesso ao esgotamento adequado entre pessoas pretas e pardas do que entre brancas. O dado fundamenta a análise da distribuição racialmente desigual da proteção ambiental.",
         "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22064-caracteristicas-dos-domicilios-censo-2022.html"
       }
     ],
     "studyNotes": [
       {
-        "title": "Carolina: a moradora tem voz",
-        "description": "Lembre do diário de uma mulher negra na favela. Carolina ajuda a defender a voz dos moradores, e o IBGE mostra que o acesso ao saneamento também apresenta diferenças raciais. Cada referência tem uma função no argumento."
+        "title": "IBGE: a proteção também tem cor",
+        "description": "Guarde a ligação: menos saneamento, mais contato com esgoto, maior exposição da população negra. O IBGE identifica a desigualdade racial; o texto explica por que ignorá-la nas escolhas de investimento a prolonga."
       },
       {
-        "title": "Raça, serviço e decisão",
-        "description": "Para aplicar o conceito de racismo ambiental, mostre quem fica mais exposto, qual decisão ou ausência de serviço prolonga essa exposição e como a participação pode corrigir o problema."
+        "title": "Carolina: ouvir quem vive no lugar",
+        "description": "Lembre do diário: uma moradora negra apresenta a própria experiência. O segundo argumento aplica essa ideia ao planejamento urbano: o conhecimento de quem vive ali ajuda a identificar riscos e a incluir as necessidades locais nas obras."
       }
     ]
   },
@@ -3842,15 +3842,15 @@
         "parts": [
           {
             "label": "Assunto",
-            "text": "Em O Lorax, de Dr. Seuss, a destruição da vegetação compromete o ambiente e os seres que dependem dele."
+            "text": "Em O Lorax, de Dr. Seuss, a exploração da vegetação destrói o ambiente do qual os seres vivos dependem."
           },
           {
             "label": "Tema",
-            "text": "No Brasil, essa relação ajuda a compreender por que a perda de vegetação ameaça a preservação dos biomas e a continuidade de suas funções."
+            "text": "No Brasil, essa relação permite refletir sobre os desafios de preservar os biomas, que abrangem florestas, campos e outras formações naturais."
           },
           {
             "label": "Tese",
-            "text": "Para proteger a biodiversidade, é preciso conter a abertura irregular de novas áreas e viabilizar a recuperação da vegetação degradada."
+            "text": "Nesse contexto, a fragilidade da fiscalização e a insuficiência de apoio à recuperação de áreas degradadas favorecem a continuidade das perdas."
           }
         ]
       },
@@ -3859,15 +3859,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Em primeiro lugar, a conversão de ambientes naturais em áreas produtivas precisa de controle efetivo."
+            "text": "Em primeiro lugar, a fiscalização insuficiente permite que a retirada irregular de vegetação se torne vantajosa para quem a pratica."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O IBGE registra a substituição de vegetação nativa por usos agropecuários no país. Quando uma abertura irregular não encontra resposta rápida da fiscalização, o ganho imediato pode estimular novas derrubadas. A transformação de um trecho de vegetação em pasto, por exemplo, pode separar habitats antes conectados e dificultar o deslocamento de animais."
+            "text": "Quando a infração não é interrompida, o ganho obtido com a abertura de áreas pode estimular novas intervenções. O IBGE registra a conversão de vegetação natural em usos agropecuários, inclusive nos campos do Pampa. Embora nem toda conversão seja ilegal, a falta de resposta às infrações agrava essa pressão sobre os habitats."
           },
           {
             "label": "Ligação",
-            "text": "Desse modo, a demora em verificar e interromper infrações permite que a perda ambiental avance além da área inicialmente atingida."
+            "text": "Desse modo, a ausência de controle favorece perdas de biodiversidade e de recursos naturais dos quais a população depende."
           }
         ]
       },
@@ -3876,15 +3876,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além disso, impedir novas perdas não recupera os ambientes que já foram degradados."
+            "text": "Além disso, a escassez de apoio técnico dificulta a recuperação dos ambientes já degradados."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O Ministério do Meio Ambiente prevê, em seu plano de recuperação da vegetação, apoio técnico e produção de sementes e mudas. Isso mostra que restaurar depende de conhecimento e de materiais adequados: um produtor pode precisar de orientação para controlar plantas invasoras e favorecer espécies locais. Sem esse apoio, uma área abandonada pode continuar degradada, mesmo após o fim da atividade que a prejudicou."
+            "text": "Como cada bioma possui características próprias, restaurar a vegetação exige escolher espécies e práticas adequadas, em vez de apenas plantar árvores. Por isso, o Ministério do Meio Ambiente inclui assistência técnica e fortalecimento da oferta de insumos entre as diretrizes de recuperação da vegetação nativa."
           },
           {
             "label": "Ligação",
-            "text": "Logo, a recuperação precisa respeitar as características de cada bioma e acompanhar a sobrevivência da vegetação."
+            "text": "Sem essas condições, os responsáveis podem abandonar os projetos ou empregar métodos inadequados, mantendo áreas com capacidade reduzida de sustentar a diversidade local."
           }
         ]
       },
@@ -3897,19 +3897,19 @@
           },
           {
             "label": "O que",
-            "text": "devem integrar o combate às derrubadas irregulares à recuperação de áreas prioritárias."
+            "text": "devem fortalecer a fiscalização e o apoio à restauração."
           },
           {
             "label": "Como",
-            "text": "Para isso, precisam direcionar fiscais a alertas de supressão e oferecer orientação técnica e sementes nativas aos responsáveis pela restauração."
+            "text": "Para isso, precisam verificar alertas de retirada de vegetação, interromper intervenções irregulares e oferecer orientação técnica e sementes de espécies nativas,"
           },
           {
             "label": "Para quê",
-            "text": "Essas medidas buscam conservar habitats e recuperar suas conexões."
+            "text": "a fim de conservar os habitats e recuperar suas funções ambientais."
           },
           {
             "label": "Detalhamento",
-            "text": "Os projetos devem priorizar margens de rios e ligações entre fragmentos, com vistorias periódicas que verifiquem tanto a interrupção das infrações quanto o avanço da regeneração."
+            "text": "Esse apoio deve considerar as características de cada bioma e acompanhar o desenvolvimento da vegetação, para que a recuperação não se limite à distribuição de materiais."
           }
         ]
       }
@@ -3917,50 +3917,50 @@
     "connectors": [
       {
         "term": "Em primeiro lugar",
-        "use": "Apresenta o controle da conversão irregular como primeiro caminho da tese."
+        "use": "Abre a análise da fiscalização insuficiente, primeira causa anunciada na tese."
       },
       {
-        "term": "por exemplo",
-        "use": "Mostra como a abertura de um pasto pode dividir um habitat."
+        "term": "Quando",
+        "use": "Apresenta a condição em que o ganho de uma intervenção pode incentivar novas infrações."
       },
       {
-        "term": "Desse modo",
-        "use": "Explica a consequência de demorar a interromper uma infração."
+        "term": "Embora",
+        "use": "Distingue a conversão autorizada da vegetação das intervenções que desrespeitam as regras."
       },
       {
         "term": "Além disso",
-        "use": "Acrescenta a recuperação de ambientes já degradados ao controle de novas perdas."
+        "use": "Acrescenta a falta de apoio técnico à recuperação como segunda causa das perdas."
       },
       {
         "term": "Portanto",
-        "use": "Reúne fiscalização e restauração em uma intervenção com acompanhamento."
+        "use": "Reúne fiscalização e apoio à restauração na intervenção proposta."
       }
     ],
     "repertoire": [
       {
         "title": "Dr. Seuss — O Lorax",
-        "description": "A obra mostra a destruição de um ambiente e as consequências para quem vive nele. A referência ajuda a explicar que retirar vegetação também afeta os seres que dependem dela.",
+        "description": "A obra apresenta as consequências da destruição da vegetação para os seres que dependem dela. Essa relação abre a discussão sobre a importância de preservar os ambientes naturais brasileiros.",
         "url": "https://www.penguinrandomhouse.com/books/43157/the-lorax-by-dr-seuss/9780394823379/"
       },
       {
-        "title": "IBGE — Mudanças no uso da terra",
-        "description": "O levantamento registra conversões de vegetação natural em usos agropecuários. Serve para ligar a perda de habitats a escolhas concretas de ocupação do território brasileiro.",
-        "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/35145-entre-2000-e-2020-a-area-agricola-do-pais-cresceu-230-mil-km-e-a-vegetacao-natural-diminuiu-513-mil-km"
+        "title": "IBGE — Uso da terra nos biomas brasileiros",
+        "description": "O levantamento registra a conversão de ambientes naturais em usos agropecuários, incluindo os campos do Pampa. A referência mostra que preservar biomas abrange diferentes formações vegetais.",
+        "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/28943-ibge-retrata-cobertura-natural-dos-biomas-do-pais-de-2000-a-2018"
       },
       {
-        "title": "MMA — Recuperação da vegetação nativa",
-        "description": "O Planaveg inclui assistência técnica e organização da cadeia de sementes e mudas. A referência sustenta a necessidade de condições práticas para recuperar cada ecossistema.",
+        "title": "Ministério do Meio Ambiente — Recuperação da vegetação nativa",
+        "description": "As diretrizes de recuperação incluem assistência técnica e fortalecimento da cadeia de insumos. A referência explica por que restaurar exige condições práticas, com métodos adequados a cada bioma.",
         "url": "https://www.gov.br/mma/pt-br/composicao/sbio/dflo/plano-nacional-de-recuperacao-da-vegetacao-nativa-planaveg"
       }
     ],
     "studyNotes": [
       {
-        "title": "O Lorax: o ambiente sustenta a vida",
-        "description": "Use a relação entre vegetação e seres vivos. Em seguida, explique o mecanismo brasileiro, como a divisão de habitats por uma área de pastagem, sem tratar a ficção como evidência científica."
+        "title": "O Lorax e os habitats",
+        "description": "A história ajuda a lembrar que a vegetação sustenta outros seres vivos. O argumento brasileiro acrescenta uma causa concreta: a fiscalização frágil deixa a infração compensar e a perda avançar. O Pampa lembra que biomas também abrangem campos."
       },
       {
-        "title": "Restaurar exige condições",
-        "description": "Lembre do Planaveg como um plano para recuperar vegetação nativa. A aplicação produtiva é explicar por que orientação técnica, sementes adequadas e acompanhamento ajudam a transformar a obrigação em recuperação efetiva."
+        "title": "Recuperar exige condições",
+        "description": "Memória em três palavras: orientação, espécies, acompanhamento. O Ministério do Meio Ambiente sustenta que a recuperação depende de apoio técnico e insumos; isso explica por que parar novas perdas e recuperar áreas degradadas são tarefas complementares."
       }
     ]
   },
@@ -3982,15 +3982,15 @@
         "parts": [
           {
             "label": "Assunto",
-            "text": "O artigo 216 da Constituição reconhece como patrimônio cultural brasileiro tanto bens materiais quanto formas de expressão e modos de fazer."
+            "text": "A Constituição de 1988 reconhece como patrimônio cultural brasileiro tanto os bens materiais quanto as formas de expressão e os modos de fazer."
           },
           {
             "label": "Tema",
-            "text": "Essa definição mostra que preservar a memória do país envolve construções e conhecimentos mantidos pelas comunidades."
+            "text": "Essa definição mostra que preservar a memória nacional envolve proteger construções e conhecimentos mantidos pelas comunidades."
           },
           {
             "label": "Tese",
-            "text": "Para realizar essa proteção, é necessário garantir a manutenção dos bens físicos e criar condições para a transmissão dos saberes entre gerações."
+            "text": "Entretanto, a falta de manutenção dos bens físicos e a insuficiência de apoio à transmissão dos saberes dificultam essa proteção no Brasil."
           }
         ]
       },
@@ -3999,15 +3999,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Primeiramente, a falta de manutenção transforma danos pequenos em ameaças à conservação."
+            "text": "Nesse contexto, a ausência de cuidados regulares compromete a conservação dos bens materiais."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O Instituto do Patrimônio Histórico e Artístico Nacional (Iphan) prevê práticas preventivas para os bens materiais. Essa orientação é decisiva porque liga o reconhecimento de um edifício a cuidados regulares com sua estrutura. Se uma infiltração permanece sem reparo, por exemplo, ela pode danificar documentos e ambientes que permitem conhecer a história local."
+            "text": "Quando o reparo de pequenos danos é adiado, a deterioração pode atingir estruturas e acervos que guardam referências da história de uma comunidade. O Instituto do Patrimônio Histórico e Artístico Nacional (Iphan) defende práticas preventivas de manutenção e conservação, o que evidencia a necessidade de cuidado antes que os problemas se agravem."
           },
           {
             "label": "Ligação",
-            "text": "Assim, adiar o cuidado pode provocar perdas que uma obra posterior não consegue reverter e ainda interromper o acesso da população ao bem."
+            "text": "Assim, limitar a proteção ao reconhecimento do valor de um edifício permite perdas que uma reforma posterior pode não reverter, além de afastar a população desse espaço de memória."
           }
         ]
       },
@@ -4016,15 +4016,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além disso, os saberes precisam ser praticados para continuar vivos."
+            "text": "Além disso, a falta de apoio aos detentores dos saberes enfraquece sua continuidade entre gerações."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "Segundo o Iphan, a salvaguarda do patrimônio imaterial envolve sua transmissão e a participação das comunidades. Conservar um modo tradicional de produzir cerâmica exige ensinar a escolher o barro e trabalhar com ele. Se os mestres não dispõem de espaço, materiais ou tempo para ensinar, diminui a possibilidade de formar novos praticantes."
+            "text": "Uma prática tradicional depende de pessoas que a ensinem e de condições para que os jovens possam aprendê-la. Nesse sentido, o Iphan relaciona a proteção do patrimônio imaterial à transmissão e à participação ativa das comunidades. Sem espaço, materiais e remuneração para quem ensina, o reconhecimento público pode conviver com a redução do número de praticantes."
           },
           {
             "label": "Ligação",
-            "text": "Desse modo, valorizar essas pessoas exige apoiar o ensino da prática, respeitando suas escolhas sobre o que compartilhar."
+            "text": "Desse modo, preservar esses conhecimentos exige apoiar seus detentores e respeitar suas escolhas sobre o que compartilhar."
           }
         ]
       },
@@ -4033,74 +4033,74 @@
         "parts": [
           {
             "label": "Quem",
-            "text": "Portanto, as secretarias municipais de cultura, com apoio técnico do Iphan e participação das comunidades,"
+            "text": "Portanto, as secretarias municipais de cultura, com apoio técnico do Iphan,"
           },
           {
             "label": "O que",
-            "text": "devem organizar programas contínuos de conservação e transmissão do patrimônio local."
+            "text": "devem financiar a conservação dos bens físicos e a transmissão dos saberes locais."
           },
           {
             "label": "Como",
-            "text": "Para isso, precisam prever recursos anuais para vistorias e reparos e oferecer bolsas a mestres que conduzam oficinas para jovens."
+            "text": "Isso deve ocorrer por meio de recursos para vistorias e reparos preventivos e de bolsas para mestres que ensinem jovens,"
           },
           {
             "label": "Para quê",
-            "text": "O objetivo é evitar perdas materiais e permitir a continuidade dos saberes."
+            "text": "a fim de evitar perdas materiais e assegurar a continuidade das práticas culturais."
           },
           {
             "label": "Detalhamento",
-            "text": "Cada programa deve divulgar um calendário de cuidados e de oficinas, definido com os responsáveis pelos bens, para que a comunidade acompanhe as ações e participe delas."
+            "text": "As comunidades devem participar da escolha dos bens e das atividades apoiadas, definindo com os gestores as prioridades e as condições das oficinas."
           }
         ]
       }
     ],
     "connectors": [
       {
-        "term": "Primeiramente",
-        "use": "Introduz a manutenção dos bens materiais como primeiro eixo da proteção."
+        "term": "Entretanto",
+        "use": "Contrapõe o reconhecimento constitucional à falta de condições para preservar o patrimônio."
       },
       {
-        "term": "porque",
-        "use": "Explica por que o reconhecimento do valor de um bem precisa ser acompanhado de cuidado."
+        "term": "Nesse contexto",
+        "use": "Introduz a análise da falta de manutenção dos bens materiais."
       },
       {
-        "term": "por exemplo",
-        "use": "Torna concreto o dano que uma infiltração pode causar ao acervo."
+        "term": "Assim",
+        "use": "Apresenta as perdas e a restrição de acesso que podem decorrer da proteção sem manutenção."
       },
       {
         "term": "Além disso",
-        "use": "Passa do cuidado com os bens físicos à continuidade dos saberes."
+        "use": "Passa da conservação dos bens físicos ao apoio à transmissão dos saberes."
       },
       {
         "term": "Portanto",
-        "use": "Conduz à intervenção que reúne conservação dos bens físicos e ensino dos saberes."
+        "use": "Liga os dois argumentos ao financiamento da conservação e do ensino das práticas culturais."
       }
     ],
     "repertoire": [
       {
-        "title": "Constituição Federal — Artigo 216",
-        "description": "O artigo reconhece as dimensões material e imaterial do patrimônio cultural e prevê a colaboração da comunidade na proteção. Ajuda a mostrar por que prédios e saberes exigem cuidados próprios.",
-        "url": "https://bd.camara.leg.br/bd/items/6b9e0a78-15e8-4545-8c83-616553549302/full"
+        "title": "Constituição de 1988 — Patrimônio material e imaterial",
+        "description": "A definição constitucional inclui bens materiais, formas de expressão e modos de fazer, além de prever a colaboração da comunidade na proteção. Ela fundamenta o cuidado com construções e conhecimentos.",
+        "url": "https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-publicacaooriginal-1-pl.html"
       },
       {
         "title": "Iphan — Conservação preventiva",
-        "description": "A Portaria nº 375/2018, no artigo 53, prevê práticas preventivas de manutenção e conservação. Esse princípio sustenta o argumento de que pequenos danos precisam de acompanhamento regular.",
+        "description": "O Iphan inclui práticas preventivas de manutenção e conservação na proteção dos bens materiais. Essa orientação sustenta a análise de como o adiamento dos reparos pode comprometer estruturas e acervos.",
         "url": "https://www.gov.br/iphan/pt-br/centrais-de-conteudo/legislacao/atos-normativos/2018/portaria-no-375-de-19-de-setembro-de-2018"
       },
       {
-        "title": "Iphan — Salvaguarda de saberes",
-        "description": "O Iphan liga a proteção do patrimônio imaterial à transmissão para novas gerações e à participação ativa das comunidades. Use a ideia para defender oficinas conduzidas pelos próprios detentores dos saberes.",
+        "title": "Iphan — Transmissão dos saberes e participação comunitária",
+        "description": "O Iphan relaciona a proteção do patrimônio imaterial à transmissão entre gerações e à participação ativa das comunidades. Isso fundamenta o apoio aos mestres e o respeito às decisões dos grupos.",
         "url": "https://bcr.iphan.gov.br/salvaguarda/"
       }
     ],
     "studyNotes": [
       {
-        "title": "Artigo 216: prédio e saber",
-        "description": "Lembre que o patrimônio pode ser material ou imaterial. A utilidade do artigo é justificar medidas diferentes: conservar o suporte físico e garantir condições de transmissão do conhecimento."
+        "title": "Constituição: prédio e saber",
+        "description": "Lembre das duas dimensões do patrimônio: material e imaterial. A tese identifica um obstáculo para cada uma: falta de manutenção dos bens físicos e pouco apoio às pessoas que transmitem os saberes."
       },
       {
-        "title": "Iphan: preservar é uma prática",
-        "description": "Relacione manutenção a vistorias e reparos regulares. Para saberes, relacione salvaguarda a pessoas ensinando outras pessoas, com participação dos próprios grupos e respeito às suas decisões."
+        "title": "Iphan: cuidar e ensinar",
+        "description": "O raciocínio liga manutenção ao acesso da comunidade à própria história e apoio aos mestres à formação de novos praticantes. Para memorizar, pense em cuidar do prédio e apoiar quem ensina, com a participação de quem mantém esse patrimônio vivo."
       }
     ]
   },
@@ -4110,7 +4110,7 @@
     "topic": "Desafios para fortalecer a leitura e a concentração na era das telas no Brasil",
     "category": "Educação",
     "themeId": "leitura-na-era-das-telas",
-    "description": "Como proteger a continuidade da leitura e ensinar estratégias de compreensão com mediação de professores e bibliotecas.",
+    "description": "A fragmentação do tempo e a insuficiência da mediação escolar como obstáculos à leitura crítica.",
     "tags": [
       "Leitura",
       "Concentração",
@@ -4122,15 +4122,15 @@
         "parts": [
           {
             "label": "Assunto",
-            "text": "A Constituição brasileira relaciona a educação ao preparo para a cidadania. Essa formação exige compreender argumentos e avaliar suas relações."
+            "text": "A Constituição brasileira relaciona a educação ao preparo para a cidadania, objetivo que exige compreender textos e avaliar argumentos."
           },
           {
             "label": "Tema",
-            "text": "No Brasil, fortalecer a leitura e a concentração na era das telas requer enfrentar obstáculos que vão além da disponibilidade de livros."
+            "text": "Entretanto, na era das telas, ampliar o acesso à informação não assegura a formação de leitores atentos no Brasil."
           },
           {
             "label": "Tese",
-            "text": "A interrupção frequente das atividades por notificações e a fragilidade da mediação leitora nas escolas dificultam a construção desse hábito."
+            "text": "Nesse cenário, a fragmentação do tempo de leitura e a insuficiência da mediação escolar dificultam a consolidação desse hábito."
           }
         ]
       },
@@ -4139,15 +4139,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Em primeiro lugar, a disputa pela atenção pode interromper a continuidade da leitura."
+            "text": "Nessa perspectiva, a fragmentação do tempo de leitura prejudica o acompanhamento dos textos."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "Ao consultar uma mensagem durante um capítulo, por exemplo, o estudante precisa retomar personagens, ideias e relações que havia acompanhado. Repetir essa alternância dificulta reservar um período exclusivo para interpretar um texto. O celular também permite acessar bibliotecas digitais, mas essa possibilidade não elimina as interrupções."
+            "text": "Isso ocorre porque a alternância entre um texto e mensagens interrompe o acompanhamento das ideias e exige retomadas, o que pode transformar a leitura em uma tarefa constantemente adiada. Desse modo, a finalidade constitucional da educação fica comprometida quando o contato com a informação não se converte em interpretação."
           },
           {
             "label": "Ligação",
-            "text": "Assim, sustentar a atividade escolhida exige condições de leitura que favoreçam a atenção, seja no papel, seja na tela."
+            "text": "Assim, a dificuldade de acompanhar raciocínios limita a interpretação de informações e enfraquece a participação crítica na vida social."
           }
         ]
       },
@@ -4156,15 +4156,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além disso, disponibilizar obras sem orientar sua leitura limita o alcance das ações escolares."
+            "text": "Além disso, a insuficiência da mediação escolar limita a autonomia dos leitores."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "A Política Nacional de Leitura e Escrita prevê a formação de mediadores, como professores e bibliotecários. Essa diretriz valoriza quem ajuda o leitor a formular perguntas, esclarecer trechos e relacionar informações. Quando o contato com um livro se resume a uma cobrança de resumo, perde-se uma oportunidade de ensinar essas estratégias."
+            "text": "Quando o trabalho com livros se restringe à cobrança de resumos, dúvidas sobre vocabulário e relações entre ideias podem permanecer sem discussão, fazendo da dificuldade de compreensão um obstáculo à continuidade do hábito. A Política Nacional de Leitura e Escrita reconhece a importância da formação de professores e bibliotecários como mediadores. O mediador oferece esse apoio ao discutir ambiguidades e aproximar a obra das experiências dos alunos, ampliando suas possibilidades de interpretação."
           },
           {
             "label": "Ligação",
-            "text": "Desse modo, a mediação contribui para transformar o tempo reservado à leitura em compreensão efetiva e autonomia."
+            "text": "Essa diretriz evidencia que disponibilizar obras precisa ser acompanhado de orientação, pois compreender o que se lê torna a prática mais significativa."
           }
         ]
       },
@@ -4177,65 +4177,65 @@
           },
           {
             "label": "O que",
-            "text": "devem criar rotinas de leitura acompanhada nas escolas."
+            "text": "devem criar programas de leitura acompanhada nas escolas."
           },
           {
             "label": "Como",
-            "text": "Para isso, precisam formar docentes para conduzir encontros semanais com trechos progressivamente mais longos e orientar estudantes e famílias a reservar períodos sem notificações em casa."
+            "text": "A execução deve combinar períodos de leitura sem interrupções no horário escolar e oficinas de formação docente conduzidas por bibliotecários."
           },
           {
             "label": "Para quê",
-            "text": "O objetivo é favorecer a concentração e a interpretação dos estudantes."
+            "text": "Com isso, busca-se fortalecer a concentração e a compreensão textual."
           },
           {
             "label": "Detalhamento",
-            "text": "Ao final de cada encontro, os alunos devem justificar uma interpretação com passagens do texto, permitindo ao docente identificar dificuldades e ajustar a orientação."
+            "text": "Nas oficinas, os professores devem aprender a conduzir debates em que os alunos relacionem passagens e justifiquem interpretações, tornando a leitura um exercício de formação cidadã."
           }
         ]
       }
     ],
     "connectors": [
       {
-        "term": "Em primeiro lugar",
-        "use": "Abre o argumento sobre as interrupções que disputam o tempo da leitura."
+        "term": "Entretanto",
+        "use": "Contrapõe a ampliação do acesso à informação à dificuldade de formar leitores atentos."
       },
       {
-        "term": "por exemplo",
-        "use": "Mostra como a consulta a uma mensagem pode interromper o acompanhamento de um capítulo."
+        "term": "Nessa perspectiva",
+        "use": "Retoma a tese e abre a análise da fragmentação do tempo de leitura."
       },
       {
-        "term": "Assim",
-        "use": "Liga a alternância entre atividades à necessidade de condições que favoreçam a atenção."
+        "term": "Desse modo",
+        "use": "Relaciona as interrupções à dificuldade de realizar a finalidade formativa da educação."
       },
       {
         "term": "Além disso",
-        "use": "Acrescenta a mediação leitora ao argumento sobre a organização do tempo."
+        "use": "Acrescenta a insuficiência da mediação escolar como a segunda causa do problema."
       },
       {
         "term": "Portanto",
-        "use": "Conduz à proposta de criar rotinas de leitura e orientar o uso das notificações."
+        "use": "Conduz os dois argumentos à combinação de tempo protegido e formação de mediadores."
       }
     ],
     "repertoire": [
       {
         "title": "Constituição · Educação para a cidadania",
-        "description": "O artigo 205 relaciona a educação ao preparo para exercer a cidadania. O texto aplica esse objetivo à capacidade de compreender e avaliar argumentos.",
+        "description": "O artigo 205 relaciona a educação ao preparo para a cidadania. A redação aplica esse objetivo à compreensão de argumentos, mostrando por que a leitura interrompida compromete uma finalidade da formação escolar.",
         "url": "https://www.tse.jus.br/legislacao/codigo-eleitoral/constituicao-federal/constituicao-da-republica-federativa-do-brasil"
       },
       {
-        "title": "Política Nacional de Leitura e Escrita · Mediadores",
-        "description": "A lei prevê formação continuada para professores, bibliotecários e outros mediadores. Use-a para explicar por que o acesso ao livro precisa de orientação para a leitura.",
+        "title": "Política Nacional de Leitura e Escrita · Mediação",
+        "description": "A política prevê a formação continuada de professores e bibliotecários como mediadores. A referência sustenta a ideia de que o acesso aos livros exige orientação para resultar em compreensão.",
         "url": "https://www.gov.br/cultura/pt-br/assuntos/sistema-nacional-de-bibliotecas-publicas-snbp/noticias-1/politica-nacional-de-leitura-e-escrita-pnle"
       }
     ],
     "studyNotes": [
       {
-        "title": "Tempo e mediação: dois eixos distintos",
-        "description": "Memorize a dupla: tempo para acompanhar o texto e apoio para entendê-lo. O primeiro argumento trata das interrupções; o segundo, de perguntas e estratégias que um mediador pode ensinar."
+        "title": "Memorize: continuidade e compreensão",
+        "description": "Organize o raciocínio em duas causas: interrupções fragmentam o acompanhamento das ideias; mediação insuficiente deixa dificuldades sem discussão. A intervenção responde com tempo protegido e formação de professores."
       },
       {
-        "title": "A fonte precisa virar explicação",
-        "description": "Depois de citar a política de leitura, explique o trabalho do mediador: esclarecer uma passagem e pedir que o aluno justifique uma interpretação. Isso mostra como a referência sustenta a tese."
+        "title": "Da Constituição à política de leitura",
+        "description": "Associe a Constituição à finalidade de formar cidadãos e a política de leitura ao apoio para compreender textos. Explique o vínculo: acompanhar e interpretar argumentos ajuda o leitor a construir seu próprio entendimento."
       }
     ]
   },
@@ -4245,7 +4245,7 @@
     "topic": "Caminhos para enfrentar a violência contra a mulher no Brasil",
     "category": "Direitos e inclusão",
     "themeId": "enfrentamento-da-violencia-contra-a-mulher",
-    "description": "Barreiras materiais e ameaças na busca por ajuda e a necessidade de continuidade no atendimento às mulheres.",
+    "description": "As barreiras materiais e a desarticulação dos serviços que dificultam a proteção de mulheres em situação de violência.",
     "tags": [
       "Violência contra a mulher",
       "Proteção",
@@ -4257,15 +4257,15 @@
         "parts": [
           {
             "label": "Assunto",
-            "text": "Uma mulher em situação de violência precisa encontrar segurança ao procurar o Estado."
+            "text": "A Lei Maria da Penha estabelece mecanismos de assistência e proteção às mulheres em situação de violência doméstica."
           },
           {
             "label": "Tema",
-            "text": "No Brasil, a Lei Maria da Penha reconhece a responsabilidade pública de prevenir agressões e oferecer proteção. Entretanto, a existência de uma lei não garante que essa proteção chegue a todas."
+            "text": "Entretanto, a permanência de obstáculos à obtenção dessa proteção demonstra que a garantia legal precisa alcançar a vida cotidiana no Brasil."
           },
           {
             "label": "Tese",
-            "text": "Para enfrentar a violência contra a mulher, é necessário reduzir as barreiras à busca por ajuda e integrar os serviços responsáveis pelo atendimento."
+            "text": "Nesse contexto, as barreiras materiais à busca por ajuda e a desarticulação dos serviços públicos dificultam o enfrentamento da violência contra a mulher."
           }
         ]
       },
@@ -4274,15 +4274,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Primeiramente, a ameaça e a dependência econômica podem restringir as possibilidades de pedir apoio."
+            "text": "Em primeiro lugar, as barreiras materiais podem restringir as possibilidades de romper uma relação violenta."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "A própria Lei Maria da Penha reconhece a violência psicológica e a patrimonial, como a intimidação e a retenção de documentos. Essas práticas ajudam a compreender por que sair de uma relação abusiva pode envolver riscos e dificuldades materiais. Se uma mulher teme perder a moradia ou sofrer retaliações, exigir uma denúncia imediata transfere a ela o peso da solução."
+            "text": "Quando o agressor controla recursos ou retém documentos, a busca por segurança também envolve o receio de perder a moradia e os meios de sustento. A Lei Maria da Penha reconhece a violência patrimonial, evidenciando que o domínio econômico integra o próprio abuso."
           },
           {
             "label": "Ligação",
-            "text": "Por isso, o acolhimento precisa considerar sua segurança e suas condições de vida."
+            "text": "Logo, atribuir à vítima a responsabilidade de sair sozinha desconsidera essas condições, enquanto a ausência de apoio material pode prolongar sua exposição ao agressor."
           }
         ]
       },
@@ -4291,15 +4291,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além disso, a fragmentação do atendimento dificulta a continuidade da proteção."
+            "text": "Além disso, a desarticulação dos serviços fragiliza a continuidade da proteção."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "Quando uma mulher precisa procurar separadamente assistência social, orientação jurídica e atendimento policial, deslocamentos e relatos repetidos podem aumentar seu desgaste. A Casa da Mulher Brasileira oferece uma referência de articulação ao reunir serviços especializados no mesmo espaço. Esse modelo mostra que proteger exige coordenação entre instituições."
+            "text": "Isso ocorre quando orientações policiais, assistência social e apoio jurídico funcionam isoladamente, obrigando a mulher a realizar novos deslocamentos e relatar repetidamente a violência. A Casa da Mulher Brasileira, ao reunir serviços especializados no mesmo espaço, demonstra que o atendimento integrado pode reduzir esse percurso."
           },
           {
             "label": "Ligação",
-            "text": "Sem encaminhamentos acompanhados, uma orientação inicial pode não se converter no acesso ao serviço de que a pessoa necessita."
+            "text": "Dessa maneira, a falta de coordenação entre instituições amplia obstáculos justamente no momento de maior vulnerabilidade e dificulta transformar o pedido de ajuda em segurança efetiva."
           }
         ]
       },
@@ -4312,19 +4312,19 @@
           },
           {
             "label": "O que",
-            "text": "devem organizar o atendimento integrado às mulheres."
+            "text": "devem ampliar a assistência material e integrar o atendimento às mulheres."
           },
           {
             "label": "Como",
-            "text": "Isso deve ocorrer com equipes capacitadas para escuta sem julgamento, avaliação de risco e encaminhamento acompanhado a abrigamento, orientação jurídica e assistência social, conforme cada caso."
+            "text": "Isso deve ocorrer mediante financiamento de abrigos e apoio à autonomia econômica, além de protocolos que articulem assistência social, polícia e orientação jurídica no acesso às medidas protetivas,"
           },
           {
             "label": "Para quê",
-            "text": "A medida busca diminuir obstáculos ao acesso e dar continuidade ao cuidado."
+            "text": "para viabilizar a saída segura e assegurar a continuidade da proteção."
           },
           {
             "label": "Detalhamento",
-            "text": "Cada região deve divulgar pontos de atendimento e designar profissionais para confirmar, por contato seguro combinado com a mulher e preservando o sigilo, se o encaminhamento resultou em acolhimento."
+            "text": "As equipes deverão avaliar o risco e acompanhar os encaminhamentos, mantendo contato seguro e sigiloso combinado com a mulher, de modo que ela encontre apoio concreto para reorganizar a própria vida."
           }
         ]
       }
@@ -4332,45 +4332,45 @@
     "connectors": [
       {
         "term": "Entretanto",
-        "use": "Distingue a previsão da lei do desafio de fazer a proteção chegar às mulheres."
+        "use": "Contrapõe a proteção prevista em lei aos obstáculos para obtê-la na vida cotidiana."
       },
       {
-        "term": "Primeiramente",
-        "use": "Inicia o argumento sobre ameaças e dificuldades materiais para buscar ajuda."
+        "term": "Em primeiro lugar",
+        "use": "Inicia o argumento sobre as barreiras materiais criadas pelo controle econômico do agressor."
       },
       {
-        "term": "Por isso",
-        "use": "Conclui que o acolhimento deve levar em conta as condições de vida da mulher."
+        "term": "Logo",
+        "use": "Conclui que a busca por segurança exige apoio material e não pode ser responsabilidade exclusiva da vítima."
       },
       {
         "term": "Além disso",
-        "use": "Acrescenta a falta de integração entre serviços como outro obstáculo."
+        "use": "Acrescenta a desarticulação dos serviços como segunda causa da dificuldade de proteção."
       },
       {
         "term": "Portanto",
-        "use": "Encaminha a defesa de atendimento integrado, com escuta e acompanhamento."
+        "use": "Encaminha a análise para uma intervenção que combina assistência material e atendimento integrado."
       }
     ],
     "repertoire": [
       {
-        "title": "Lei Maria da Penha · Proteção e assistência",
-        "description": "A lei prevê prevenção, proteção e assistência e reconhece formas psicológicas e patrimoniais de violência. Esses mecanismos ajudam a explicar barreiras à procura de ajuda sem responsabilizar a mulher.",
-        "url": "https://www2.camara.leg.br/legin/fed/lei/2006/lei-11340-7-agosto-2006-545133-normaatualizada-pl.html"
+        "title": "Lei Maria da Penha · Violência patrimonial",
+        "description": "A lei prevê assistência e proteção e reconhece a retenção de documentos e de recursos econômicos como violência patrimonial. A referência explica as barreiras materiais sem responsabilizar a vítima por permanecer na relação.",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
       },
       {
-        "title": "Casa da Mulher Brasileira · Serviços articulados",
-        "description": "O programa reúne acolhimento, apoio psicossocial e serviços de segurança e Justiça em um mesmo espaço. É uma referência concreta para defender coordenação e continuidade no atendimento.",
+        "title": "Casa da Mulher Brasileira · Atendimento integrado",
+        "description": "O programa reúne acolhimento, apoio psicossocial, serviços de segurança e Justiça e promoção da autonomia econômica. A redação usa esse modelo para mostrar como a integração pode facilitar o acesso à proteção.",
         "url": "https://www.gov.br/mulheres/pt-br/acesso-a-informacao/acoes-e-programas/casa-da-mulher-brasileira"
       }
     ],
     "studyNotes": [
       {
-        "title": "A dificuldade de sair precisa ser explicada",
-        "description": "Lembre da sequência: ameaça ou controle dos recursos, medo e barreira para buscar ajuda. A responsabilidade pela violência é do agressor; o argumento cobra apoio e proteção do poder público."
+        "title": "Memorize: recursos e rede de proteção",
+        "description": "No primeiro eixo, o controle de recursos dificulta uma saída segura; no segundo, os serviços isolados tornam o atendimento mais difícil. A conclusão responde com apoio material e coordenação entre assistência, polícia e orientação jurídica."
       },
       {
-        "title": "A Casa como imagem para memorizar",
-        "description": "Associe a Casa da Mulher Brasileira a serviços reunidos em um lugar. Na intervenção, transforme essa referência em encaminhamento acompanhado, evitando que a pessoa precise descobrir sozinha o próximo atendimento."
+        "title": "A lei explica a barreira; a Casa mostra um caminho",
+        "description": "Lembre da retenção de documentos como exemplo de violência patrimonial e da Casa da Mulher Brasileira como imagem de serviços reunidos. Esses repertórios ajudam a explicar o problema e uma possibilidade de enfrentamento, sem culpar a mulher."
       }
     ]
   },
@@ -4380,7 +4380,7 @@
     "topic": "Desafios para prevenir o uso de cigarros eletrônicos entre jovens no Brasil",
     "category": "Saúde e bem-estar",
     "themeId": "prevencao-do-uso-de-vapes",
-    "description": "Promoção e acesso aos cigarros eletrônicos, orientação escolar e acolhimento de jovens que já usam o produto.",
+    "description": "A promoção digital dos cigarros eletrônicos e a insuficiência de orientação acolhedora para prevenir o uso entre jovens.",
     "tags": [
       "Cigarros eletrônicos",
       "Juventude",
@@ -4392,15 +4392,15 @@
         "parts": [
           {
             "label": "Assunto",
-            "text": "A aparência de um produto pode esconder seus riscos."
+            "text": "A Anvisa proíbe a venda e a propaganda de cigarros eletrônicos no Brasil."
           },
           {
             "label": "Tema",
-            "text": "No Brasil, cigarros eletrônicos com cores e sabores variados circulam entre jovens, apesar da proibição de sua comercialização."
+            "text": "Apesar disso, a circulação desses produtos entre jovens evidencia dificuldades para transformar a restrição comercial em prevenção efetiva."
           },
           {
             "label": "Tese",
-            "text": "Prevenir esse uso exige enfrentar a divulgação que apresenta o vape como inofensivo e ampliar a orientação com acolhimento aos estudantes."
+            "text": "Nesse cenário, a promoção digital do consumo e a insuficiência de orientação acolhedora dificultam o enfrentamento desse problema."
           }
         ]
       },
@@ -4409,15 +4409,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Em primeiro lugar, a promoção nas redes sociais pode associar o consumo a diversão e pertencimento."
+            "text": "Nesse contexto, a promoção digital favorece a aproximação dos jovens com esses dispositivos."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "Quando o aparelho aparece como um acessório ligado à aceitação do grupo, o jovem pode subestimar os riscos e querer experimentar. A Anvisa mantém a proibição da venda e da propaganda desses dispositivos. No entanto, anúncios e vendedores informais ainda podem aproximar o produto de adolescentes."
+            "text": "Ao apresentar o vape como acessório de diversão, a publicidade associa seu consumo ao pertencimento ao grupo, de modo que a busca por aceitação pode estimular a experimentação e reduzir a percepção dos riscos. Esse estímulo contraria a proibição de propaganda mantida pela Anvisa e dificulta a prevenção ao associar o produto à aceitação social."
           },
           {
             "label": "Ligação",
-            "text": "Assim, fiscalizar quem comercializa e divulga ajuda a reduzir o acesso e os estímulos ao consumo."
+            "text": "Assim, a publicidade irregular pode favorecer a entrada de novos usuários e ampliar a exposição dos jovens aos riscos do produto."
           }
         ]
       },
@@ -4426,15 +4426,15 @@
         "parts": [
           {
             "label": "Tópico frasal",
-            "text": "Além disso, a orientação perde força quando se limita a repreender o jovem."
+            "text": "Além disso, a insuficiência de orientação acolhedora enfraquece a prevenção e o cuidado."
           },
           {
             "label": "Desenvolvimento e repertório",
-            "text": "O Instituto Nacional de Câncer informa que muitos desses dispositivos contêm nicotina, substância que causa dependência. Por isso, apresentar o uso como simples falta de vontade ignora uma dificuldade que pode exigir cuidado profissional. Na escola, explicar a composição do produto e abrir espaço para dúvidas ajuda a discutir propagandas que negam os riscos."
+            "text": "Quando a escola se limita à repreensão, o receio de exposição pode afastar estudantes do diálogo e da busca por ajuda. O Instituto Nacional de Câncer informa que a maioria desses dispositivos contém nicotina, substância que causa dependência. Por isso, tratar o consumo apenas como indisciplina ignora que alguns jovens podem precisar de acompanhamento para abandonar o uso."
           },
           {
             "label": "Ligação",
-            "text": "Para quem já utiliza o aparelho, a prevenção de novos danos também depende de acolhimento e avaliação na saúde."
+            "text": "Consequentemente, o silêncio pode prolongar o consumo e dificultar o acesso ao atendimento."
           }
         ]
       },
@@ -4443,69 +4443,69 @@
         "parts": [
           {
             "label": "Quem",
-            "text": "Portanto, a Anvisa, em articulação com vigilâncias sanitárias locais e secretarias de Saúde e Educação,"
+            "text": "Portanto, as vigilâncias sanitárias locais, em parceria com as secretarias de Saúde e Educação,"
           },
           {
             "label": "O que",
-            "text": "deve fortalecer a fiscalização e a orientação aos jovens."
+            "text": "devem combater a promoção irregular e ampliar a orientação acolhedora."
           },
           {
             "label": "Como",
-            "text": "Para isso, é preciso apurar anúncios e pontos de venda e promover oficinas escolares conduzidas por educadores e equipes de saúde."
+            "text": "Para isso, precisam fiscalizar pontos de venda e apurar anúncios, enquanto educadores e profissionais de saúde promovem debates escolares sobre riscos e estratégias publicitárias."
           },
           {
             "label": "Para quê",
-            "text": "Essas ações visam reduzir a oferta e ampliar o conhecimento dos riscos."
+            "text": "Essas ações devem reduzir os estímulos à experimentação e facilitar o acesso ao cuidado."
           },
           {
             "label": "Detalhamento",
-            "text": "As oficinas devem analisar exemplos de publicidade e informar, sem expor estudantes, onde buscar avaliação nas unidades de saúde para lidar com o uso e a dependência."
+            "text": "Nos debates, as equipes também devem divulgar o atendimento nas unidades de saúde e oferecer encaminhamento reservado a quem já utiliza o produto, sem expor os estudantes diante da turma."
           }
         ]
       }
     ],
     "connectors": [
       {
-        "term": "Em primeiro lugar",
-        "use": "Abre o argumento sobre o apelo da promoção do produto nas redes sociais."
+        "term": "Apesar disso",
+        "use": "Contrapõe a restrição comercial à circulação dos produtos entre jovens."
       },
       {
-        "term": "No entanto",
-        "use": "Contrapõe a proibição da venda à presença de anúncios e vendedores informais."
-      },
-      {
-        "term": "Assim",
-        "use": "Relaciona a fiscalização da oferta à prevenção do consumo."
+        "term": "Nesse contexto",
+        "use": "Retoma o problema e inicia a análise da promoção digital que estimula a experimentação."
       },
       {
         "term": "Além disso",
-        "use": "Acrescenta a orientação com acolhimento à fiscalização da comercialização."
+        "use": "Acrescenta a insuficiência de orientação acolhedora ao argumento sobre o estímulo comercial."
+      },
+      {
+        "term": "Por isso",
+        "use": "Relaciona a possibilidade de dependência à necessidade de acompanhamento para abandonar o uso."
       },
       {
         "term": "Portanto",
-        "use": "Leva os argumentos a uma proposta que reúne fiscalização, educação e acesso ao cuidado."
+        "use": "Conduz os argumentos à fiscalização da oferta e à orientação escolar ligada ao cuidado em saúde."
       }
     ],
     "repertoire": [
       {
-        "title": "Anvisa · Venda e propaganda proibidas",
-        "description": "A RDC 855/2024 mantém a proibição de fabricar, importar, vender e fazer propaganda de cigarros eletrônicos. A regra não estabelece uma proibição geral do uso individual; o texto a aplica à fiscalização da oferta.",
+        "title": "Anvisa · Venda e propaganda de cigarros eletrônicos",
+        "description": "A Anvisa mantém a proibição da venda e da propaganda dos dispositivos, sem uma proibição geral do uso individual. O texto usa a norma para sustentar a fiscalização dos fornecedores e distingue essa atuação do cuidado aos usuários.",
         "url": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2024/anvisa-atualiza-regulacao-de-cigarro-eletronico-e-mantem-proibicao"
       },
       {
-        "title": "INCA · Nicotina e dependência",
-        "description": "O INCA informa que a maioria dos dispositivos contém nicotina e substâncias tóxicas. A dependência fundamenta a defesa de orientação e acolhimento, sem tratar o uso como falha de caráter.",
+        "title": "Instituto Nacional de Câncer · Nicotina e dependência",
+        "description": "O Instituto informa que a maioria dos dispositivos contém nicotina, substância que causa dependência. Esse conhecimento fundamenta a defesa de orientação acolhedora e acompanhamento de jovens que já usam o produto.",
         "url": "https://www.gov.br/inca/pt-br/assuntos/causas-e-prevencao-do-cancer/tabagismo/dispositivos-eletronicos-para-fumar"
       }
     ],
     "studyNotes": [
       {
-        "title": "Anvisa e INCA: uma função para cada fonte",
-        "description": "Memorize: a Anvisa sustenta a fiscalização da venda e da propaganda; o INCA explica o risco de dependência. Depois de citar cada instituição, mostre a medida que sua informação ajuda a justificar."
+        "title": "Memorize a sequência do primeiro argumento",
+        "description": "Publicidade de diversão → desejo de pertencer ao grupo → experimentação. Essa sequência explica por que fiscalizar a promoção comercial responde à primeira causa, enquanto orientar e acolher responde à segunda."
       },
       {
-        "title": "Prevenir e acolher cabem na mesma proposta",
-        "description": "Para quem ainda não usa, a oficina explica promessas e riscos. Para quem já usa, informa onde buscar avaliação. Esse detalhamento torna a educação em saúde mais concreta e respeita o estudante."
+        "title": "Anvisa para a oferta; Instituto para o cuidado",
+        "description": "Associe a Anvisa à venda e à propaganda proibidas e o Instituto Nacional de Câncer à nicotina e à dependência. A distinção evita confundir fiscalização dos fornecedores com punição do jovem e justifica o encaminhamento à saúde."
       }
     ]
   }
